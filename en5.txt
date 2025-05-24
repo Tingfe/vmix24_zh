@@ -1,0 +1,100 @@
+frmSettings.lblDefaultAudioDelay	Default Input Audio Delay:	Default Input Audio Delay:
+frmSettings.chkFTBAudio	Fade To Black includes Audio	Fade To Black includes Audio
+frmSettings.chkInputAudioMeter	Show Audio Meter next to Inputs	Show Audio Meter next to Inputs
+frmSettings.chkAutoAudioMixing	Automatically Mix Audio	Automatically Mix Audio
+frmSettings.chkMasterAudioMeter	Show Master Audio Meter in Main Window	Show Master Audio Meter in Main Window
+frmSettings.chkSonyPTZNDI	Enable Sony VISCA over IP with NDI	Enable Sony VISCA over IP with NDI
+frmSettings.chkStartSRTOutput	Start SRT Output	Start SRT Output
+frmSettings.chkGlobalDataSources	Save Data Sources in Global Settings	Save Data Sources in Global Settings
+frmSettings.chkTBarTriggers	Enable Triggers on T-Bar	Enable Triggers on T-Bar
+frmSettings.chkControllerNotifications	Controller Plug And Play Enabled	Controller Plug And Play Enabled
+frmSettings.chkInputCloseConfirm	Display confirmation for Input Close button	Display confirmation for Input Close button
+frmSettings.chkShowProductionClocks	Production Clocks	Production Clocks
+frmSettings.chkShowFTB	FTB	FTB
+frmSettings.chkShowTBar	T-Bar	T-Bar
+frmSettings.chkShowTransition24	Transitions 2-4	Transitions 2-4
+frmSettings.chkShowQuickPlay	QuickPlay	QuickPlay
+frmSettings.lblTransitionDisplay	Transition Display:	Transition Display:
+frmSettings.chkShowOverlays	Overlay	Overlay
+frmSettings.chkControlSurfaceEnabled	vMix Control Surface Enabled	vMix Control Surface Enabled
+frmSettings.chkMultiInstance	Enable Multiple Instances	Enable Multiple Instances
+frmSettings.chkRememberWindowPosition	Remember Window Position	Remember Window Position
+frmSettings.chkRecordingConfirm	Display confirmation for Record, External, Stream and MultiCorder buttons	Display confirmation for Record, External, Stream and MultiCorder buttons
+frmSettings.chkPreviewClick	Activate QuickPlay by clicking Preview Window	Activate QuickPlay by clicking Preview Window
+frmSettings.lblLanguage	Language:	Language:
+frmSettings.chkExternal	Start External Output	Start External Output
+frmSettings.chkPausePreview	Automatically Pause Preview Input after Transition	Automatically Pause Preview Input after Transition
+frmSettings.chkMaximised	Start Maximised	Start Maximised
+frmSettings.chkAdvanced	Start in Advanced mode	Start in Advanced mode
+frmSettings.chkRestartActive	Automatically Restart Output Input with Transition	Automatically Restart Output Input with Transition
+frmSettings.chkFullscreen	Start Fullscreen display	Start Fullscreen display
+frmSettings.chkPlayActive	Automatically Play Output Input with Transition	Automatically Play Output Input with Transition
+frmSettings.lblMilliseconds	Milliseconds	Milliseconds
+frmSettings.lblQuickPlayTransition	QuickPlay Transition:	QuickPlay Transition:
+frmSettings.lblQuickPlayDuration	QuickPlay Duration:	QuickPlay Duration:
+frmSettings.chkRecordingAlert	Display alert on UI and MultiView when NOT Recording	Display alert on UI and MultiView when NOT Recording
+frmSettings.lblRecordingAlert	No Recording Alert	No Recording Alert
+frmSettings.chkFTBAlert	Display alert on UI and MultiView when Fade To Black (FTB) enabled	Display alert on UI and MultiView when Fade To Black (FTB) enabled
+frmSettings.lblFTBAlert	Fade To Black Alert	Fade To Black Alert
+frmSettings.lblAlertSeconds	seconds.	seconds.
+frmSettings.lblAlertDB	dB for	dB for
+frmSettings.chkVolumeAlert	Display alert on UI and MultiView when Volume drops below	Display alert on UI and MultiView when Volume drops below
+frmSettings.lblVolumeAlert	Volume Alert	Volume Alert
+frmSettings.chkPerformanceAlerts	Show GPU / CPU alerts	Show GPU / CPU alerts
+frmSettings.lblDisplayMethod	Display Method:	Display Method:
+frmSettings.chkDisableWindowsUpdate	Disable Windows Update when vMix is running	Disable Windows Update when vMix is running
+frmSettings.lblHighPerformanceMode	For graphics cards with 3GB+ memory only	For graphics cards with 3GB+ memory only
+frmSettings.chkHighPerformanceMode	High Input Performance Mode	High Input Performance Mode
+frmSettings.Label1	Graphics Adapter:	Graphics Adapter:
+frmSettings.chkNDIFeim	NDI Faulty encoder isolation mode	NDI Faulty encoder isolation mode
+frmSettings.chkPerfReadLock	High Output Performance Mode	High Output Performance Mode
+frmSettings.chkGTSurfaceLock	Lock GT Surfaces	Lock GT Surfaces
+frmSettings.lblPreviewSkip	Preview Skip:	Preview Skip:
+frmSettings.chkDirect3D9ExPreview	Enable FlipEx on Previews	Enable FlipEx on Previews
+frmSettings.chkOptimus	Enable Optimus Graphics compatibility	Enable Optimus Graphics compatibility
+frmSettings.lblApplicationPriority	Application Priority:	Application Priority:
+frmSettings.chkDirect3D9Ex	Enable FlipEx on Fullscreen	Enable FlipEx on Fullscreen
+frmSettings.lblOutputFormat	Output Format:	Output Format:
+frmSettings.lblVideoRenderer	Video Renderer:	Video Renderer:
+frmSettings.chkLockBackBuffer	Synchronize Output with Refresh Rate	Synchronize Output with Refresh Rate
+frmSettings.chkYUVFix	Automatically convert 16-235 to 0-255 for YUV inputs	Automatically convert 16-235 to 0-255 for YUV inputs
+frmSettings.chkMemoryLock	Memory Lock	Memory Lock
+frmSettings.chkDisableInputEffects	Disable Effects on Input Previews	Disable Effects on Input Previews
+frmSettings.lblActiveAdapter	In Use: None	In Use: None
+frmSettings.lblAdapter	Graphics Adapter:	Graphics Adapter:
+frmSettings.chkCaptureLowLatency	Low Latency Capture	Low Latency Capture
+frmSettings.lblProductName	vMix	vMix
+frmSettings.lnkPrivacyPolicy	View Privacy Policy	View Privacy Policy
+frmSettings.lnkEULA	View End User Licensing Agreement	View End User Licensing Agreement
+frmSettings.cmdSendReport	Send Support Report	Send Support Report
+frmSettings.chkUpdateCheck	Check for updates on startup	Check for updates on startup
+frmSettings.lblFeatures	Features:	Features:
+frmSettings.lblCaptureInputs	Capture Inputs:	Capture Inputs:
+frmSettings.lblInputs	Inputs:	Inputs:
+frmSettings.lblMaximumSize	Maximum Size:	Maximum Size:
+frmSettings.lblExpiryDate	Expiry Date:	Expiry Date:
+frmSettings.lblVersion	Version:	Version:
+frmSettings.cmdChangeRegistration	Change Registration Key	Change Registration Key
+frmSettings.cmdMVInputs	Customise Layout	Customise Layout
+frmSettings.lblOutputsDescription	Description	Description
+frmSettings.lblNDIAdditional	Additional NDI Outputs	Additional NDI Outputs
+frmSettings.lblName	Output	Output
+frmSettings.cmdNDI	NDI OFF	NDI OFF
+frmSettings.lblName	Output	Output
+frmSettings.cmdNDI	NDI OFF	NDI OFF
+frmSettings.lblOutputsOverlay	Overlays	Overlays
+frmSettings.lblOutputsSource	Source	Source
+frmSettings.lblName	Output	Output
+frmSettings.cmdNDI	NDI OFF	NDI OFF
+frmSettings.lblName	Output	Output
+frmSettings.cmdNDI	NDI OFF	NDI OFF
+frmSettings.lblName	Output	Output
+frmSettings.cmdNDI	NDI OFF	NDI OFF
+frmSettings.lblName	Output	Output
+frmSettings.cmdNDI	NDI OFF	NDI OFF
+frmSettings.lblName	Output	Output
+frmSettings.cmdNDI	NDI OFF	NDI OFF
+frmSettings.lblName	Output	Output
+frmSettings.cmdNDI	NDI OFF	NDI OFF
+frmSettings.cmdMVStandard	Legacy	Legacy
+frmSettings.lblMultiViewLayout	MultiView Layout	MultiView Layout

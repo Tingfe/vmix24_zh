@@ -1,0 +1,100 @@
+frmInputSettings.lblBlue	Blue	Blue
+frmInputSettings.chkPremultipliedAlpha	Premultiplied Alpha	Premultiplied Alpha
+frmInputSettings.lblGreen	Green	Green
+frmInputSettings.lblSaturation	Saturation	Saturation
+frmInputSettings.lblRed	Red	Red
+frmInputSettings.lblAlpha	Alpha	Alpha
+frmInputSettings.cmdAuto	Auto	Auto
+frmInputSettings.cmdAutoWhiteBalance	Auto White Balance	Auto White Balance
+frmInputSettings.cmdReset	Reset	Reset
+frmInputSettings.lblWhiteStretch	White Stretch	White Stretch
+frmInputSettings.lblBlackStretch	Black Stretch	Black Stretch
+frmInputSettings.chkColorCorrectionSource	Use Source Settings	Use Source Settings
+frmInputSettings.cmdClose	Close	Close
+frmInputSettings.cmdApply	Apply	Apply
+frmInputSettings.lblFilters	Filters	Filters
+frmInputSettings.lblDelayFrames	frames	frames
+frmInputSettings.lblDelay	Delay	Delay
+frmInputSettings.cmdProperties	Properties	Properties
+frmInputSettings.lblOtherTallyInfo	For information on other Tally Light options, see the Tally Lights tab in Settings	For information on other Tally Light options, see the Tally Lights tab in Settings
+frmInputSettings.lblOtherTally	Other Tally Lights	Other Tally Lights
+frmInputSettings.lblArduino	Arduino Tally Lights	Arduino Tally Lights
+frmInputSettings.lblTallyStatusLabel	Status	Status
+frmInputSettings.lblComPort	COM Port	COM Port
+frmInputSettings.lblTallyNumber	Tally Number	Tally Number
+frmInputSettings.chkColorKey	Colour Key	Colour Key
+frmInputSettings.Label1	Auto Chroma Key Presets	Auto Chroma Key Presets
+frmInputSettings.chkAntiAliasing	Anti Aliasing	Anti Aliasing
+frmInputSettings.chkGreenFilter	Chroma Key Filter	Chroma Key Filter
+frmInputSettings.cmdResetTolerance	Reset	Reset
+frmInputSettings.lblChromaKey	Chroma Key	Chroma Key
+frmInputSettings.lblRedKey	Red	Red
+frmInputSettings.lblBlueKey	Blue	Blue
+frmInputSettings.lblGreenKey	Green	Green
+frmInputSettings.lblLumaKey	Luma Key	Luma Key
+frmInputSettings.lblKeyFill	Key/Fill Input	Key/Fill Input
+frmInputSettings.cmdCopy	Copy From...	Copy From...
+frmInputSettings.tMenu.General	General	General
+frmInputSettings.tMenu.Colour Adjust	Colour Adjust	Colour Adjust
+frmInputSettings.tMenu.Colour Key	Colour Key	Colour Key
+frmInputSettings.tMenu.Colour Correction	Colour Correction	Colour Correction
+frmInputSettings.tMenu.Position	Position	Position
+frmInputSettings.tMenu.Layers / Multi View	Layers / Multi View	Layers / Multi View
+frmInputSettings.tMenu.Triggers	Triggers	Triggers
+frmInputSettings.tMenu.Tally Lights	Tally Lights	Tally Lights
+frmInputSettings.tMenu.PTZ	PTZ	PTZ
+frmInputSettings.tMenu.Advanced	Advanced	Advanced
+frmOverlay.frmOverlay	Overlay Settings	Overlay Settings
+frmOverlay.chkDisplayUnderneath	Display underneath Overlays	Display underneath Overlays
+frmOverlay.rFrames	Frames	Frames
+frmOverlay.rMilliseconds	Milliseconds	Milliseconds
+frmOverlay.rFrames	Frames	Frames
+frmOverlay.rMilliseconds	Milliseconds	Milliseconds
+frmOverlay.lblStingerInput	Stinger Input:	Stinger Input:
+frmOverlay.lblStingerMilliseconds	(0 to disable)	(0 to disable)
+frmOverlay.lblStingerCut	Stinger Cut Point:	Stinger Cut Point:
+frmOverlay.lblAlpha	Alpha:	Alpha:
+frmOverlay.cmdCancel	Cancel	Cancel
+frmOverlay.lblMilliseconds2	(0 to disable)	(0 to disable)
+frmOverlay.lblOverlayDuration	Duration:	Duration:
+frmOverlay.lblMilliseconds	Milliseconds	Milliseconds
+frmOverlay.lblDuration	Effect Duration:	Effect Duration:
+frmOverlay.lblOverlayEffect	Effect:	Effect:
+frmOverlay.lblOverlayNumber	Number:	Number:
+frmOverlay.lblDragTip	To adjust position, drag the red box or hold down shift to resize	To adjust position, drag the red box or hold down shift to resize
+frmOverlay.lblRadius	Radius:	Radius:
+frmOverlay.lblThickness	Thickness:	Thickness:
+frmOverlay.lblColour	Colour:	Colour:
+frmOverlay.lblBorder	Border	Border
+frmOverlay.cmdResetRotate	Reset	Reset
+frmOverlay.cmdResetZoomY	Reset	Reset
+frmOverlay.cmdResetZoomX	Reset	Reset
+frmOverlay.lblZoomY	Zoom Y:	Zoom Y:
+frmOverlay.lblRotateZ	Rotate:	Rotate:
+frmOverlay.lblZoomX	Zoom X:	Zoom X:
+frmOverlay.cmdResetPanY	Reset	Reset
+frmOverlay.cmdResetPanX	Reset	Reset
+frmOverlay.cmdResetZoom	Reset	Reset
+frmOverlay.lblPanY	Pan Y:	Pan Y:
+frmOverlay.lblPanX	Pan X:	Pan X:
+frmOverlay.lblZoom	Zoom:	Zoom:
+frmOverlay.lblPIPLocation	Picture In Picture Location	Picture In Picture Location
+frmOverlay.lblOverlayType	Type:	Type:
+frmPlaylist.frmPlaylist	PlayList	PlayList
+frmPlaylist.chkManual	Manual Mode	Manual Mode
+frmPlaylist.chkClearOverlay	Clear Overlays	Clear Overlays
+frmPlaylist.cmdPrevious	Previous	Previous
+frmPlaylist.chkBeginSelected	Begin from selected item	Begin from selected item
+frmPlaylist.cmdNext	Next	Next
+frmPlaylist.chkLoop	Loop	Loop
+frmPlaylist.lblAvailableInputs	Available Inputs	Available Inputs
+frmPlaylist.lblPlayList	Playlist	Playlist
+frmPlaylist.cmdCreatePlayList	New PlayList	New PlayList
+frmPlaylist.cmdDeletePlayList	Delete PlayList	Delete PlayList
+frmPlaylist.cmdClose	Close	Close
+frmPlaylist.cmdStartStop	Start	Start
+frmPlayListItem.frmPlayListItem	PlayList	PlayList
+frmPlayListItem.lblDisplayType	Display Type:	Display Type:
+frmPlayListItem.lblVideo	Video:	Video:
+frmPlayListItem.lblStartingPosition	Starting Position:	Starting Position:
+frmPlayListItem.lblTransitionDuration	Transition Duration (in Milliseconds):	Transition Duration (in Milliseconds):

@@ -1,0 +1,100 @@
+frmSettings.chkInputNumbers	Show Input Numbers	Show Input Numbers
+frmSettings.lblFullscreen	Fullscreen:	Fullscreen:
+frmSettings.cmdDisplay2	Fullscreen 2	Fullscreen 2
+frmSettings.cmdDisplay1	Fullscreen 1	Fullscreen 1
+frmSettings.lblActiveColour	Output Colour:	Output Colour:
+frmSettings.lblPreviewColour	Preview Colour:	Preview Colour:
+frmSettings.lblOutputSize	Output Size:	Output Size:
+frmSettings.lblOutputAspectRatio	Output Aspect Ratio:	Output Aspect Ratio:
+frmSettings.lblInputSize	Input Size:	Input Size:
+frmSettings.lblOutputScreen	Display:	Display:
+frmSettings.lblTheme	Theme:	Theme:
+frmSettings.lblSystem	Master Frame Rate:	Master Frame Rate:
+frmSettings.chkOutputMinimise	Minimise	Minimise
+frmSettings.chkOutputAlwaysOnTop	On Top	On Top
+frmSettings.lblOutputPosition	Position:	Position:
+frmSettings.chkOutputHideCursor	Hide Cursor	Hide Cursor
+frmSettings.lblDefaultAudioBus	Default Bus for New Inputs	Default Bus for New Inputs
+frmSettings.lblDefaultAudioRenderer	Master Output	Master Output
+frmSettings.lblHeadphonesAudio	Headphones	Headphones
+frmSettings.cmdFind	Find	Find
+frmSettings.cmdSCJoystick	Joystick	Joystick
+frmSettings.cmdSCShuttle	Shuttle PRO	Shuttle PRO
+frmSettings.cmdSCXKeys	Surface	Surface
+frmSettings.cmdSCKB	Keyboard	Keyboard
+frmSettings.cmdSCMIDI	MIDI	MIDI
+frmSettings.cmdSCAll	All	All
+frmSettings.cmdCloneShortcut	Clone	Clone
+frmSettings.cmdMIDI	MIDI Settings	MIDI Settings
+frmSettings.cmdTemplates	Templates	Templates
+frmSettings.cmdEditShortcut	Edit	Edit
+frmSettings.cmdRemoveShortcut	Remove	Remove
+frmSettings.cmdAddShortcut	Add	Add
+frmSettings.chkExternalUseDisplaySettings	Use Display Settings	Use Display Settings
+frmSettings.chkExternalUseStreamingSettings	Use Streaming Settings	Use Streaming Settings
+frmSettings.cmdAux2	External 2	External 2
+frmSettings.cmdAux1	External	External
+frmSettings.cVirtual	vMix Video / Streaming	vMix Video / Streaming
+frmSettings.cDeckLink	External Renderer	External Renderer
+frmSettings.lblExSystem	Frame Rate:	Frame Rate:
+frmSettings.lblExtAlpha	Alpha Channel:	Alpha Channel:
+frmSettings.lblExtAudioChannels	Audio Channels:	Audio Channels:
+frmSettings.lblExPort	Port:	Port:
+frmSettings.lblExDevice	Device:	Device:
+frmSettings.lblExAudioDevice	Audio Device:	Audio Device:
+frmSettings.lblDelayInfo	This sets a delay on the audio input in milliseconds. For example if the audio is earlier than the video by 200ms, type in 200 here	This sets a delay on the audio input in milliseconds. For example if the audio is earlier than the video by 200ms, type in 200 here
+frmSettings.lblAudioDelay	Audio Delay:	Audio Delay:
+frmSettings.lblExOutputSize	Output Size:	Output Size:
+frmSettings.chkAdvancedSettings	Show Advanced Settings	Show Advanced Settings
+frmSettings.cmdCancel	Cancel	Cancel
+frmSettings.chkInterlaced	Interlaced Recording	Interlaced Recording
+frmSettings.lblDefaultFolder	Default Folder for Recordings	Default Folder for Recordings
+frmSettings.lblRecordingFilenameFormat	Filename Format	Filename Format
+frmSettings.cmdBrowse	Browse	Browse
+frmSettings.chkRecordingSetup	Automatically Setup Recording With Previous Settings	Automatically Setup Recording With Previous Settings
+frmSettings.lblRecordingMemoryBuffer	Recording Memory Buffer	Recording Memory Buffer
+frmSettings.lblBuffer	5 Frames (Between 20 MB and 40 MB for 1080p)	5 Frames (Between 20 MB and 40 MB for 1080p)
+frmSettings.lblFFMpegFormats	Play the file types below using the FFMPEG decoder (Example: *.mov,*.qt,*.mxf)	Play the file types below using the FFMPEG decoder (Example: *.mov,*.qt,*.mxf)
+frmSettings.lblFFMPEG	FFMPEG:	FFMPEG:
+frmSettings.lblDirectShow	DirectShow:	DirectShow:
+frmSettings.lblCamera	Camera:	Camera:
+frmSettings.lblVideo	Video Playback:	Video Playback:
+frmSettings.lblDeinterlacing	Preferred Deinterlacing:	Preferred Deinterlacing:
+frmSettings.cmdBlockedFilterList	Blocked Filter List	Blocked Filter List
+frmSettings.lblDirectShowFilters	 Filters:	 Filters:
+frmSettings.lblMPEG2Video	MPEG 2 Video:	MPEG 2 Video:
+frmSettings.cmd264Properties	Properties	Properties
+frmSettings.cmdProperties	Properties	Properties
+frmSettings.lblMPEGAudio	MPEG Audio:	MPEG Audio:
+frmSettings.lblx264Video	x264 Video:	x264 Video:
+frmSettings.chkDeinterlace	Use vMix Deinterlacing	Use vMix Deinterlacing
+frmSettings.cmdAudioProperties	Properties	Properties
+frmSettings.cmdStopAllScripts	Stop All	Stop All
+frmSettings.cmdStartStopScript	Start	Start
+frmSettings.cmdRemoveScript	Remove	Remove
+frmSettings.cmdEditScript	Edit	Edit
+frmSettings.cmdAddScript	Add	Add
+frmSettings.chkRadioFarEnabled	Enabled	Enabled
+frmSettings.lblRadioFar	Radio-Far Tally Lights	Radio-Far Tally Lights
+frmSettings.lblTallyLightsLLCDescription	These tallys are automatically enabled when plugged in and are assigned to the Input number	These tallys are automatically enabled when plugged in and are assigned to the Input number
+frmSettings.lblTallyLightsLLC	Tally Lights LLC / metaSETZ	Tally Lights LLC / metaSETZ
+frmSettings.lblWebTallyLightsHelp	Browse to the page below on any WiFi connected device to turn it into an instant Tally Light	Browse to the page below on any WiFi connected device to turn it into an instant Tally Light
+frmSettings.lblWebTallyLights	Web Tally Lights	Web Tally Lights
+frmSettings.lblArduino	Arduino Tally Lights	Arduino Tally Lights
+frmSettings.cmdSwapPreviewActive	Swap Preview Active	Swap Preview Active
+frmSettings.cmdTallyReset	Reset to Default	Reset to Default
+frmSettings.cmdTallyLightsLegacy	Reset to Legacy Mode	Reset to Legacy Mode
+frmSettings.lblDevicesNotice	No Devices have been enabled yet. Click Enable Devices to set them up.	No Devices have been enabled yet. Click Enable Devices to set them up.
+frmSettings.cmdDevices	Enable Devices	Enable Devices
+frmSettings.cmdExport	Export	Export
+frmSettings.cmdImport	Import	Import
+frmSettings.cmdRemove	Remove	Remove
+frmSettings.cmdClone	Clone	Clone
+frmSettings.cmdEdit	Edit	Edit
+frmSettings.cmdAdd	Add	Add
+frmSettings.tMenu.Display	Display	Display
+frmSettings.tMenu.Outputs / NDI / SRT	Outputs / NDI / SRT	Outputs / NDI / SRT
+frmSettings.tMenu.Options	Options	Options
+frmSettings.tMenu.Performance	Performance	Performance
+frmSettings.tMenu.Decoders	Decoders	Decoders
+frmSettings.tMenu.Recording	Recording	Recording

@@ -1,0 +1,100 @@
+frmPowerPoint.lblTransition	Transition:	Transition:
+frmPowerPoint.lblEffect	Effect:	Effect:
+frmPowerPoint.lblDuration	Duration:	Duration:
+frmPowerPoint.lblSeconds	Seconds	Seconds
+frmVirtualSet.frmVirtualSet	Virtual Set Zoom Editor	Virtual Set Zoom Editor
+frmVirtualSet.Cancel_Button	Cancel	Cancel
+frmVirtualSet.cmdResetRotate	Reset	Reset
+frmVirtualSet.cmdResetZoomY	Reset	Reset
+frmVirtualSet.cmdResetZoomX	Reset	Reset
+frmVirtualSet.lblZoomY	Zoom Y:	Zoom Y:
+frmVirtualSet.lblRotateZ	Rotate:	Rotate:
+frmVirtualSet.lblZoomX	Zoom X:	Zoom X:
+frmVirtualSet.cmdResetPanY	Reset	Reset
+frmVirtualSet.cmdResetPanX	Reset	Reset
+frmVirtualSet.cmdResetZoom	Reset	Reset
+frmVirtualSet.lblPanY	Pan Y:	Pan Y:
+frmVirtualSet.lblPanX	Pan X:	Pan X:
+frmVirtualSet.lblZoom	Zoom:	Zoom:
+frmCountdown.frmCountdown	Countdown Settings	Countdown Settings
+frmCountdown.lblCurrentTime	Current Time	Current Time
+frmCountdown.chkReverseDisplay	Display (00:00:00) when Stopped	Display (00:00:00) when Stopped
+frmCountdown.cmdCancel	Cancel	Cancel
+frmCountdown.chkCountdownReverse	Reverse	Reverse
+frmCountdown.lblDisplayFormat	Display Format	Display Format
+frmCountdown.lblDuration	Duration	Duration
+frmCountdown.lblStartTime	Stop Time	Stop Time
+frmStreaming.frmStreaming	Streaming Settings	Streaming Settings
+frmStreaming.lblProvider	Destination	Destination
+frmStreaming.chkUseStream1Quality	Use Stream 1 Quality	Use Stream 1 Quality
+frmStreaming.lblStream	Stream Name or Key	Stream Name or Key
+frmStreaming.lblURL	URL	URL
+frmStreaming.cmdAdvanced	Advanced	Advanced
+frmStreaming.chkHWEncoding	Use Hardware Encoder	Use Hardware Encoder
+frmStreaming.cmdInfo	Sign Up	Sign Up
+frmStreaming.lblChannel	Channel	Channel
+frmStreaming.cmdLogin	Login and Update Channels	Login and Update Channels
+frmStreaming.lblPassword	Password	Password
+frmStreaming.lblUsername	Username	Username
+frmStreaming.lblQuality	Quality	Quality
+frmStreaming.lblStreamingType	Application	Application
+frmStreaming.cmdDelete	Delete	Delete
+frmStreaming.cmdAdd	Add	Add
+frmStreaming.lblProfile	Profile	Profile
+frmStreaming.cmdStartStopAll	Start All	Start All
+frmStreaming.cmdLog	View Status	View Status
+frmStreaming.cmdClose	Save and Close	Save and Close
+frmStreaming.cmdStartStop	Start	Start
+frmActivate.frmActivate	vMix Activation	vMix Activation
+frmActivate.lblActivationInformation	Your vMix Registration Key needs to be activated again due to a recent system change or software upgrade. Click Activate below to continue.	Your vMix Registration Key needs to be activated again due to a recent system change or software upgrade. Click Activate below to continue.
+frmActivate.cmdExit	Exit	Exit
+frmActivate.cmdActivate	Activate	Activate
+frmActivate.lblInternetAccess	Internet access required to complete Activation	Internet access required to complete Activation
+frmActivate.lblRegistration	Activation	Activation
+frmOpenPreset.frmOpenPreset	Open Preset	Open Preset
+frmOpenPreset.cmdUnselectAll	Unselect All	Unselect All
+frmOpenPreset.cmdCancel	Cancel	Cancel
+frmOpenPreset.cmdAppend	Append	Append
+frmOpenPreset.cmdOpen	Open	Open
+frmEditCapture.frmEditCapture	Edit Capture	Edit Capture
+frmEditCapture.cmdRename	Edit	Edit
+frmEditCapture.cmdReset	Reset	Reset
+frmEditCapture.cmdCancel	Cancel	Cancel
+frmEditScript.frmEditScript	Edit Script	Edit Script
+frmEditScript.chkLocal	Local Script (This Preset Only)	Local Script (This Preset Only)
+frmEditScript.cmdImport	Import	Import
+frmEditScript.cmdExport	Export	Export
+frmEditScript.OK_Button	Save	Save
+frmEditScript.Cancel_Button	Close	Close
+frmEditScript.lblName	Name	Name
+frmKeyFinder.frmKeyFinder	Find Control	Find Control
+frmKeyFinder.lblMidi	Note: If you would like to use a MIDI controller, click here to to enable it first	Note: If you would like to use a MIDI controller, click here to to enable it first
+frmKeyFinder.cmdCancel	Cancel	Cancel
+frmKeyFinder.lblMessage	Press a button on the keyboard or controller	Press a button on the keyboard or controller
+frmShortcutTemplates.frmShortcutTemplates	Shortcut Templates	Shortcut Templates
+frmShortcutTemplates.lblDiagramType	Display as	Display as
+frmShortcutTemplates.cmdApply	Apply	Apply
+frmShortcutTemplates.cmdClose	Close	Close
+frmShortcutTemplates.cmdSaveGraphic	Save Graphic	Save Graphic
+frmShortcutTemplates.cmdExport	Export	Export
+frmShortcutTemplates.cmdImport	Import	Import
+frmNewPreset.frmNewPreset	New Preset	New Preset
+frmNewPreset.lblNew	Create a new blank preset with the following video format	Create a new blank preset with the following video format
+frmNewPreset.cmdCancel	Cancel	Cancel
+UNDEFINED_ERROR	UNDEFINED_ERROR	UNDEFINED_ERROR
+RECORDING_NOT_READY	Recording has not been configured	Recording has not been configured
+EMPTY_FILENAME	Filename cannot be left blank	Filename cannot be left blank
+DIRECT3D_SYSTEM_COPY_NOT_SUPPORTED	Recording is not supported by the installed graphics hardware. {newline}Performance will be adversely affected	Recording is not supported by the installed graphics hardware. {newline}Performance will be adversely affected
+DIRECT3D_HARDWARE_NOT_SUPPORTED	Graphics hardware is not supported. {newline}DirectX 9 compatible hardware required.	Graphics hardware is not supported. {newline}DirectX 9 compatible hardware required.
+DIRECT3D_NOT_INSTALLED	Direct3D Not Found. Please install the latest version of DirectX 9.	Direct3D Not Found. Please install the latest version of DirectX 9.
+DIRECT3D_DEVICE_LOST	The Graphics Driver has reported an error. vMix will now reset to the last known good state.	The Graphics Driver has reported an error. vMix will now reset to the last known good state.
+CROSSBAR_NOT_FOUND	Crossbar device could not be found	Crossbar device could not be found
+CAPTURE_NOT_FOUND	Capture device could not be found	Capture device could not be found
+WINDOWS_7_REQUIRED	Windows 7 or higher required.	Windows 7 or higher required.
+WINDOWS_10_REQUIRED	Windows 10 or higher required.	Windows 10 or higher required.
+POWERPOINT_LOAD_SLIDE_ERROR	Could not load Slide, please ensure PowerPoint is closed and try again.	Could not load Slide, please ensure PowerPoint is closed and try again.
+EXTERNAL_RENDERER_NOT_FOUND	External Renderer Not Found	External Renderer Not Found
+AUDIO_DEVICE_NOT_FOUND	AUDIO_DEVICE_NOT_FOUND	AUDIO_DEVICE_NOT_FOUND
+AUDIO_FORMAT_NOT_FOUND	AUDIO_FORMAT_NOT_FOUND	AUDIO_FORMAT_NOT_FOUND
+EXPIRED	This Program has Expired, please visit http://www.vmix.com/ for an updated version.	This Program has Expired, please visit http://www.vmix.com/ for an updated version.
+WIDTH_NOT_NUMBER	Width must be a number.	Width must be a number.

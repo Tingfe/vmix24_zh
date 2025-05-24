@@ -1,0 +1,100 @@
+frmPlayListItem.lblTransition	Transition:	Transition:
+frmPlayListItem.Cancel_Button	Cancel	Cancel
+frmPlayListItem.lblDuration	Duration:	Duration:
+frmPlayListSave.frmPlayListSave	Create PlayList	Create PlayList
+frmPlayListSave.chkCopy	Copy Current PlayList	Copy Current PlayList
+frmPlayListSave.lblSavePlaylist	Select a name for the new PlayList. Each PlayList will be added to the open Preset	Select a name for the new PlayList. Each PlayList will be added to the open Preset
+frmPlayListSave.cmdCancel	Cancel	Cancel
+frmRecordingInfo.frmRecordingInfo	Recording Information	Recording Information
+frmRecordingInfo.lblSize	Size:	Size:
+frmRecordingInfo.gBuffer	Buffer	Buffer
+frmRecordingInfo.lblRead	Read:	Read:
+frmRecordingInfo.lblWrite	Write:	Write:
+frmRecordingInfo.gDroppedFrames	Dropped Frames	Dropped Frames
+frmRecordingInfo.lblTotalThisSession	Total This Session:	Total This Session:
+frmRecordingInfo.lblHardDiskCpu	Due To Hard Disk/CPU:	Due To Hard Disk/CPU:
+frmRecordingInfo.lblSourceFrameRate	Due To Source Frame Rate:	Due To Source Frame Rate:
+frmRecordingInfo.lblTotalThisRecording	Total This Recording:	Total This Recording:
+frmRecordingInfo.lblAudioDevice	Audio Device:	Audio Device:
+frmRecordingInfo.lblSystem	System:	System:
+frmRecordingInfo.lblCodec	Codec:	Codec:
+frmRecordingInfo.lblDuration	Duration:	Duration:
+frmRecordingInfo.lblFilename	Filename:	Filename:
+frmRecordingInfo.cmdClose	Close	Close
+frmRecordingSetup.frmRecordingSetup	Recording Setup	Recording Setup
+frmRecordingSetup.lblVMXQuality	Quality:	Quality:
+frmRecordingSetup.lblKbps	Kbps	Kbps
+frmRecordingSetup.lblAudioBitRate	Audio Bit Rate:	Audio Bit Rate:
+frmRecordingSetup.lblMinutes	Minutes	Minutes
+frmRecordingSetup.lblRestart	New File Every:	New File Every:
+frmRecordingSetup.lblSize	Size:	Size:
+frmRecordingSetup.cmdBrowse	Browse	Browse
+frmRecordingSetup.lblFilename	Filename:	Filename:
+frmRecordingSetup.lblSystem	Frame Rate:	Frame Rate:
+frmRecordingSetup.lblCodec	Codec:	Codec:
+frmRecordingSetup.lblMilliseconds	Milliseconds	Milliseconds
+frmRecordingSetup.lblAudioDelay	Audio Delay:	Audio Delay:
+frmRecordingSetup.lblAudio	Audio:	Audio:
+frmRecordingSetup.chkFragmented	Fault Tolerant	Fault Tolerant
+frmRecordingSetup.lblMp4Format	Profile:	Profile:
+frmRecordingSetup.chkHardwareAcceleration	Use Hardware Encoder	Use Hardware Encoder
+frmRecordingSetup.cmdCancel	Cancel	Cancel
+frmRecordingSetup.lblMbps	Mbps	Mbps
+frmRecordingSetup.lblMPEGBitRate	Bit Rate:	Bit Rate:
+frmRecordingSetup.lblFileFormat	File Format:	File Format:
+frmRecordingSetup.lblMpegFileFormat	TS (Transport Stream) is recommended for Editing.	TS (Transport Stream) is recommended for Editing.
+frmRecordingSetup.lblHttpPort	HTTP Port:	HTTP Port:
+frmRecordingSetup.lblAudioCodec	Audio Codec:	Audio Codec:
+frmRecordingSetup.lblWMVCodec	Codec:	Codec:
+frmRecordingSetup.lblQuality	Quality:	Quality:
+frmRecordingSetup.lblFPS	FPS:	FPS:
+frmRecordingSetup.lblBitRate	Bit Rate:	Bit Rate:
+frmRecordingSetup.lblFFMPEGABitrate	Audio Quality:	Audio Quality:
+frmRecordingSetup.lblFFMPEGVBitrate	Video Quality:	Video Quality:
+frmRecordingSetup.lblFFMPEGExt	Format:	Format:
+frmRecordingSetup.lblFFMPEGFormat	Codec:	Codec:
+frmRecordingSetup.cmdAudioRecording	WAV File Record	WAV File Record
+frmRecordingSetup.tMenu.AVI	AVI	AVI
+frmRecordingSetup.tMenu.MPEG-2	MPEG-2	MPEG-2
+frmRecordingSetup.tMenu.WMV	WMV	WMV
+frmRecordingSetup.tMenu.WMV Streaming	WMV Streaming	WMV Streaming
+frmRecordingSetup.tMenu.FFMPEG	FFMPEG	FFMPEG
+frmRecordingSetup.tMenu.vMix AVI	vMix AVI	vMix AVI
+frmRecordingSetup.chkEnabled	Enabled	Enabled
+frmRegistration.frmRegistration	vMix Registration	vMix Registration
+frmRegistration.lnkBasic	Visit https://register.vmix.com/ to register for the FREE Basic Edition	Visit https://register.vmix.com/ to register for the FREE Basic Edition
+frmRegistration.cmdCancel	Cancel	Cancel
+frmRegistration.lblInternetAccess	Internet access required to complete Registration	Internet access required to complete Registration
+frmRegistration.lblRegistration	Registration	Registration
+frmRegistration.lblEmailAddressB	Email Address	Email Address
+frmRegistration.rTrial	Register for a fully functional 60 Day Trial	Register for a fully functional 60 Day Trial
+frmRegistration.lnkvMix	Visit http://www.vmix.com/ to purchase a Registration Key	Visit http://www.vmix.com/ to purchase a Registration Key
+frmRegistration.lblEmailAddressA	Email Address	Email Address
+frmRegistration.lblKey	Key	Key
+frmRegistration.rFree	Register for the FREE Basic Edition	Register for the FREE Basic Edition
+frmRegistration.rKey	I have a Registration Key	I have a Registration Key
+frmSettings.frmSettings	Settings	Settings
+frmSettings.chkWebSecurity	Enable enhanced security on Web and TCP API	Enable enhanced security on Web and TCP API
+frmSettings.chkWebLocalhostAccess	Allow software on this computer access without login.	Allow software on this computer access without login.
+frmSettings.lblWebPermit	Allow access to following pages without login:	Allow access to following pages without login:
+frmSettings.lblWebPassword	Password:	Password:
+frmSettings.lblUsername	Username:	Username:
+frmSettings.lblWebControllerDescription	TIP: The Web Site Address above can be used to control vMix from any device on the same network including Android, iPad, Surface and Mobile Phones. Simply type it into the browser on that device.	TIP: The Web Site Address above can be used to control vMix from any device on the same network including Android, iPad, Surface and Mobile Phones. Simply type it into the browser on that device.
+frmSettings.txtWebServerLink	Not Enabled	Not Enabled
+frmSettings.chkWebServerEnabled	Enabled	Enabled
+frmSettings.lblWebServerAddress	Web Site Address:	Web Site Address:
+frmSettings.lblPort	Port:	Port:
+frmSettings.lblAudioDrop	Audio Gap Handling:	Audio Gap Handling:
+frmSettings.chkAudioMixerFollowsCategories	Hide Audio Mixers based on selected Category	Hide Audio Mixers based on selected Category
+frmSettings.chkNotificationSounds	Enable Notification Sounds (for Video Call messages etc)	Enable Notification Sounds (for Video Call messages etc)
+frmSettings.cmdTestVoice	Test	Test
+frmSettings.lblVoiceShortcuts	Voice Shortcuts	Voice Shortcuts
+frmSettings.chkVoice	Enabled	Enabled
+frmSettings.lblVoiceAudio	Audio Source:	Audio Source:
+frmSettings.lblVoiceConfidence	Confidence:	Confidence:
+frmSettings.lblAudioSource	Recording Audio:	Recording Audio:
+frmSettings.lblAudioSourceDescription	The selected Audio Device will be used for Recording, Streaming and External Output	The selected Audio Device will be used for Recording, Streaming and External Output
+frmSettings.lblAudioSourceFormat	Format:	Format:
+frmSettings.lblMasterBitRate	Master Bit Rate:	Master Bit Rate:
+frmSettings.lblSamplingRate	Master Sample Rate:	Master Sample Rate:
+frmSettings.lblAudioDelayMilliseconds	milliseconds	milliseconds

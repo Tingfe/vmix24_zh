@@ -1,0 +1,100 @@
+frmAudioSettings.chkEnableDynamics	Enable Dynamics	Enable Dynamics
+frmBlockedFilterList.frmBlockedFilterList	DirectShow Blocked Filter List	DirectShow Blocked Filter List
+frmBlockedFilterList.cmdCancel	Cancel	Cancel
+frmBlockedFilterList.lblInfo	Any filters checked in the list below will not be used by vMix.	Any filters checked in the list below will not be used by vMix.
+frmColourSelect.frmColourSelect	Colour Select	Colour Select
+frmColourSelect.lblInfo	Click on a neutral colour from the image below. A neutral colour should reflect all light evenly (a grey sheet of cardboard, for example)	Click on a neutral colour from the image below. A neutral colour should reflect all light evenly (a grey sheet of cardboard, for example)
+frmError.frmError	vMix Error	vMix Error
+frmError.lblMessage	Error Message	Error Message
+frmError.cmdSendErrorReport	Send Error Report	Send Error Report
+frmError.cmdClose	Close	Close
+frmfull.frmfull	Fullscreen	Fullscreen
+frmInput.frmInput	Input Select	Input Select
+frmInput.chkRTMPInstanceURL	URL includes App Instance	URL includes App Instance
+frmInput.chkInterlaced	Video is Interlaced	Video is Interlaced
+frmInput.chkImageSequence	Image Sequence	Image Sequence
+frmInput.chkAlpha	Video contains Alpha Channel	Video contains Alpha Channel
+frmInput.lblRTMPMilliseconds	milliseconds	milliseconds
+frmInput.lblRTMPBuffer	RTMP Buffer:	RTMP Buffer:
+frmInput.lblFlashResolution	Resolution:	Resolution:
+frmInput.cmdClear	Clear	Clear
+frmInput.cmdBrowse	Browse	Browse
+frmInput.tAudio	Aud	Aud
+frmInput.tImage	Img	Img
+frmInput.tPhotos	Phot	Phot
+frmInput.tPowerpoint	PPT	PPT
+frmInput.tDVD	DVD	DVD
+frmInput.tCapture	Cap	Cap
+frmInput.chkCameraAudioEnabled	Audio Enabled	Audio Enabled
+frmInput.chkCaptureInterlaced	Interlaced	Interlaced
+frmInput.lblAudioInput	Audio Input:	Audio Input:
+frmInput.lblVideoFormat	Video Format:	Video Format:
+frmInput.lblAudioFormat	Audio Format:	Audio Format:
+frmInput.lblAudioDevice	Audio Device:	Audio Device:
+frmInput.chkVMR	Use VMR	Use VMR
+frmInput.lblCapture	Camera:	Camera:
+frmInput.lblSystem	Frame Rate:	Frame Rate:
+frmInput.lblInput	Input:	Input:
+frmInput.lblResolution	Resolution:	Resolution:
+frmInput.tNetwork	Desk	Desk
+frmInput.lblDesktopCaptureWindowType	Window Capture Method	Window Capture Method
+frmInput.cmdLocalDesktopTab	Local Desktop Capture	Local Desktop Capture
+frmInput.cmdNDITab	NDI	NDI
+frmInput.chkFEIM	FEIM	FEIM
+frmInput.chkNDIBuffer	Increase Buffer Size	Increase Buffer Size
+frmInput.chkNDIPSF	PsF	PsF
+frmInput.chkAudioOnly	Audio Only	Audio Only
+frmInput.lnkNDI	http://NDI.NewTek.com/	http://NDI.NewTek.com/
+frmInput.chkNDILowBandwidth	Low Bandwidth Mode	Low Bandwidth Mode
+frmInput.tAudioInput	AuI	AuI
+frmInput.chkMuteHeadphones	Mute in Headphones	Mute in Headphones
+frmInput.lblAudioChannels	Audio Channels:	Audio Channels:
+frmInput.lblAudioAudioFormat	Audio Format:	Audio Format:
+frmInput.lblAudioAudioDevice	Audio Device:	Audio Device:
+frmInput.tFlash	Fsh	Fsh
+frmInput.tVideoDelay	Del	Del
+frmInput.lblSaveCodec	Save Codec:	Save Codec:
+frmInput.lblSource	Source:	Source:
+frmInput.lblSeconds	Seconds:	Seconds:
+frmInput.lblVideoDelayResolution	Resolution:	Resolution:
+frmInput.tTitle	Ttl	Ttl
+frmInput.tColour	Col	Col
+frmInput.rTransparent	Transparent	Transparent
+frmInput.rColourBars	Colour Bars	Colour Bars
+frmInput.rColour	Colour	Colour
+frmInput.tVideoList	Lst	Lst
+frmInput.chkListInterlaced	Selected video is interlaced	Selected video is interlaced
+frmInput.cmdClearVideoList	Clear	Clear
+frmInput.cmdRemove	Remove	Remove
+frmInput.cmdRandomise	Shuffle	Shuffle
+frmInput.cmdAdd	Add	Add
+frmInput.tVirtualSet	Virt	Virt
+frmInput.tRTSP	Strm	Strm
+frmInput.lblSRTStreamID	Stream ID	Stream ID
+frmInput.lblSRTKeyLength	Key Length	Key Length
+frmInput.lblSRTDecoderDelay	Decoder Delay (ms)	Decoder Delay (ms)
+frmInput.chkSRTHWDecoder	Use Hardware Decoder	Use Hardware Decoder
+frmInput.lblSRTPassPhrase	Passphrase	Passphrase
+frmInput.lblSRTLatencyMs	Latency (ms)	Latency (ms)
+frmInput.chkStreamLowLatency	Low Latency Mode	Low Latency Mode
+frmInput.lblStreamMilliseconds	milliseconds	milliseconds
+frmInput.lblStreamBuffer	Buffer	Buffer
+frmInput.lblStreamType	Stream Type	Stream Type
+frmInput.lblStreamURL	URL	URL
+frmInput.lblStreamPort	Port	Port
+frmInput.cmdClearStream	Clear	Clear
+frmInput.chkGPUDisabled	Disable GPU Acceleration	Disable GPU Acceleration
+frmInput.lblBrowserVersion	Browser Version	Browser Version
+frmInput.cmdWBClear	Clear	Clear
+frmInput.lblWBHeight	Height	Height
+frmInput.lblWBWidth	Width	Width
+frmInput.lblWBURL	URL	URL
+frmInput.lnkVCDirect	More Information	More Information
+frmInput.chkVideoCallAdvanced	Show Advanced Options	Show Advanced Options
+frmInput.chkVideoCallSTUN	Allow only direct peer to peer connections	Allow only direct peer to peer connections
+frmInput.lnkVCLowLatency	More Information	More Information
+frmInput.chkVideoCallDebugLog	Enable Debug Logging	Enable Debug Logging
+frmInput.chkVideoCallLowLatency	Low Latency Mode	Low Latency Mode
+frmInput.cmdVideoCallCopyLink	Copy Link	Copy Link
+frmInput.lblVideoCallName	Name	Name
+frmInput.lblReturnVideoSource	Video Source	Video Source

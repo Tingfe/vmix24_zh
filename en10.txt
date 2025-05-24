@@ -1,0 +1,100 @@
+RECORDING_START_TIMED_OUT	Recording timed out waiting for first frame.	Recording timed out waiting for first frame.
+DVPIN_NOT_FOUND	DV Pin could not be found.	DV Pin could not be found.
+DVSPLITTERPIN_NOT_FOUND	DV Splitter Pin could not be found.	DV Splitter Pin could not be found.
+HDVPIN_NOT_FOUND	HDV Pin could not be found.	HDV Pin could not be found.
+DVSPLITTER_NOT_FOUND	DV Splitter could not be found.	DV Splitter could not be found.
+MPEG2DEMULTIPLEXER_NOT_FOUND	MPEG-2 Demultiplexer could not be found.	MPEG-2 Demultiplexer could not be found.
+POWERPOINT_OPEN_ERROR	Could not open PowerPoint presentation, make sure presentation is in correct format and PowerPoint is installed.	Could not open PowerPoint presentation, make sure presentation is in correct format and PowerPoint is installed.
+VIDEO_DELAY_MEMORY_LIMIT	A maximum of 1GB of Buffer Memory (32GB under x64) is supported in this version of vMix.	A maximum of 1GB of Buffer Memory (32GB under x64) is supported in this version of vMix.
+VIDEO_DELAY_NOT_ENOUGH_MEMORY	Not enough free memory to support this Buffer size.	Not enough free memory to support this Buffer size.
+VIDEO_DELAY_IN_USE	Only one Video Delay per Source may be used at a time.	Only one Video Delay per Source may be used at a time.
+VIDEO_DELAY_SOURCE_NOT_FOUND	Video Delay Source Input could not be found.	Video Delay Source Input could not be found.
+MPEG2_ENCODER_NOT_FOUND	Windows 7 or higher required for MPEG-2 support.	Windows 7 or higher required for MPEG-2 support.
+MPEG2_BITRATE_NOT_COMPATIBLE_WITH_SIZE	The selected MPEG2 BitRate is not compatible with this resolution.	The selected MPEG2 BitRate is not compatible with this resolution.
+MPEG2_ENCODER_NOT_AVAILABLE	The MPEG-2 Encoder requires Windows Media Center to be installed on this version of Windows.	The MPEG-2 Encoder requires Windows Media Center to be installed on this version of Windows.
+SHORTCUT_ALREADY_EXISTS	Shortcut Already Exists.	Shortcut Already Exists.
+SHORTCUT_INVALID_FORMAT	Shortcut is in Invalid Format.	Shortcut is in Invalid Format.
+SHORTCUT_SELECT_FUNCTION	Please select a Function.	Please select a Function.
+WEB_COULD_NOT_START	Web Controller could not start. The port may already be in use.	Web Controller could not start. The port may already be in use.
+WEB_NOT_STARTED	The Web Controller has not been enabled. Please enable in settings and restart vMix.	The Web Controller has not been enabled. Please enable in settings and restart vMix.
+STOP_RECORDING	Stop Recording, External Output and Streaming before Opening a Preset.	Stop Recording, External Output and Streaming before Opening a Preset.
+NOT_SUPPORTED_UNDER_X64	This feature does not support 64bit.	This feature does not support 64bit.
+COULD_NOT_IMPORT_SETTINGS	Could not import settings. Check the file format is correct.	Could not import settings. Check the file format is correct.
+COULD_NOT_EXPORT_SETTINGS	Could not export settings.	Could not export settings.
+WASAPI_RECORDER_NOT_SUPPORTED	Audio Engine requires Windows 7 or higher.	Audio Engine requires Windows 7 or higher.
+WASAPI_RECORDER_COULD_NOT_START	Audio Engine could not start. Please ensure a sound device has been installed.	Audio Engine could not start. Please ensure a sound device has been installed.
+WASAPI_REQUIRED	A connected Sound Card is required in this PC to use this Input.	A connected Sound Card is required in this PC to use this Input.
+TALLY_COM_PORT_NOT_AVAILABLE	Tally Lights could not be loaded. COM Port is unavailable.	Tally Lights could not be loaded. COM Port is unavailable.
+TALLY_PREVIEW_NOT_NUMBER	Preview Pin is not a number.	Preview Pin is not a number.
+TALLY_ACTIVE_NOT_NUMBER	Active Pin is not a number.	Active Pin is not a number.
+UI_THREAD	Invalid UI Thread.	Invalid UI Thread.
+INPUT_KEY_IN_USE	Input Key is already in use.	Input Key is already in use.
+TIMED_OUT	Timed Out waiting for a response.	Timed Out waiting for a response.
+INVALID_PARAMETERS	Invalid Parameters.	Invalid Parameters.
+CAPTURE_INTERLACED_SOURCE_REQUIRED	Interlaced Frame Rate required for this Deinterlacing method.	Interlaced Frame Rate required for this Deinterlacing method.
+CAPTURE_VIRTUALGENLOCK_REQUIRED	Virtual GenLock is required for this Deinterlacing method.	Virtual GenLock is required for this Deinterlacing method.
+CAPTURE_VMR_NOT_SUPPORTED	VMR not supported with this Deinterlacing method.	VMR not supported with this Deinterlacing method.
+CAPTURE_DOUBLE_FRAME_RATE_REQUIRED	Bob Deinterlace requires a System Frame Rate that is double the Interlaced Capture Frame Rate.	Bob Deinterlace requires a System Frame Rate that is double the Interlaced Capture Frame Rate.
+CORRUPT	This program has been modified and will now exit.	This program has been modified and will now exit.
+CORRUPT_CONFIGURATION	vMix has repaired a corrupt configuration file. Please restart vMix to complete the repair.	vMix has repaired a corrupt configuration file. Please restart vMix to complete the repair.
+AUDIO_DEVICE_IN_USE_INPUT	The selected Audio Device is already in use by an Input. Select a vMix Audio device instead.	The selected Audio Device is already in use by an Input. Select a vMix Audio device instead.
+AUDIO_DELAY_NOT_SUPPORTED	Audio Delay supports a value between -2000 and 2000 milliseconds.	Audio Delay supports a value between -2000 and 2000 milliseconds.
+INVALID_IMAGE_FORMAT	Invalid Image Format.	Invalid Image Format.
+VIDEO_DELAY_SOURCE_NOT_READY	Video Source Not Ready.	Video Source Not Ready.
+NAME_CANNOT_BE_EMPTY	Name cannot be empty.	Name cannot be empty.
+RECORDING_NOT_ENOUGH_DISK_SPACE	There is not enough disk space to continue this recording.	There is not enough disk space to continue this recording.
+RECORDING_DIRECTORY_NOT_FOUND	Recording directory could not be found. Please check that it exists and try again.	Recording directory could not be found. Please check that it exists and try again.
+RECORDING_INVALID_FILENAME	Recording filename is invalid. Please check the filename and try again.	Recording filename is invalid. Please check the filename and try again.
+LIST_REQUIRES_ONE_ITEM	List requires at least one item.	List requires at least one item.
+MP4_SIZE_LIMIT	MP4 Recording has a maximum file size of 3.7GB under Windows 7	MP4 Recording has a maximum file size of 3.7GB under Windows 7
+EXTERNAL_RENDERER_IN_USE_OR_NOT_COMPATIBLE	The selected External Renderer Device is in use or does not support the selected format. Please check your External Output settings and try again.	The selected External Renderer Device is in use or does not support the selected format. Please check your External Output settings and try again.
+SELECT_ITEM	Select an item in the list first.	Select an item in the list first.
+UYVY_REQUIRED	Output Format must be set to UYVY for this Device.	Output Format must be set to UYVY for this Device.
+OUTPUT_FRAMERATE_MISMATCH	External Output Frame Rate must match vMix Frame Rate.	External Output Frame Rate must match vMix Frame Rate.
+STREAMING_AUDIO_BITRATE_NOT_SUPPORTED	The selected Audio Master Bit Rate is not support (32bit), please change this to 16 bit PCM in vMix Settings under the Audio tab.	The selected Audio Master Bit Rate is not support (32bit), please change this to 16 bit PCM in vMix Settings under the Audio tab.
+FFMPEG_RECORDING_FAILED	FFMPEG Recording failed. Check the log file for more information.	FFMPEG Recording failed. Check the log file for more information.
+REPLAY_ALREADY_IN_USE	Instant Replay is already in use. Only one session can be open at a time.	Instant Replay is already in use. Only one session can be open at a time.
+REPLAY_ERROR_SOURCE_CONFIGURATION	One or more Cameras could not be configured for Instant Replay.	One or more Cameras could not be configured for Instant Replay.
+REPLAY_MARK_VALUE_INVALID	Mark value must be in seconds between 1 and 30 seconds long.	Mark value must be in seconds between 1 and 30 seconds long.
+REPLAY_EVENT_NOT_FOUND	Instant Replay Event could not be found.	Instant Replay Event could not be found.
+REPLAY_SHORTCUT_VALUE_NOT_NEGATIVE	Replay Shortcut Value cannot be negative.	Replay Shortcut Value cannot be negative.
+REPLAY_ONE_CHANNEL	This version of Instant Replay supports one camera only. Upgrade vMix to enable more features.{newline}http://www.vmix.com/upgrade	This version of Instant Replay supports one camera only. Upgrade vMix to enable more features.{newline}http://www.vmix.com/upgrade
+REPLAY_SOURCE_ALREADY_IN_USE	Source is already in use.	Source is already in use.
+REPLAY_MULTICORDER_ERROR	Instant Replay and MultiCorder cannot be used at the same time.	Instant Replay and MultiCorder cannot be used at the same time.
+REPLAY_64BIT_REQUIRED	Instant Replay requires the 64bit version of vMix.	Instant Replay requires the 64bit version of vMix.
+FEATURE_64BIT_REQUIRED	This feature requires the 64bit (x64) version of vMix.	This feature requires the 64bit (x64) version of vMix.
+VIDEOCALL_NOT_SUPPORTED	vMix Call is not available in this Edition of vMix. {newline}Upgrade vMix to enable more features.{newline}http://www.vmix.com/upgrade	vMix Call is not available in this Edition of vMix. {newline}Upgrade vMix to enable more features.{newline}http://www.vmix.com/upgrade
+VIDEOCALL_SERVER_CONNECT_ERROR	Could not connect to vMix Call server, check your internet connection and try again.	Could not connect to vMix Call server, check your internet connection and try again.
+VIDEOCALL_MAXIMUM_CALLS_REACHED	The maximum number of vMix Calls for this Edition has been reached. {newline}Upgrade vMix to enable additional calls.{newline}http://www.vmix.com/upgrade	The maximum number of vMix Calls for this Edition has been reached. {newline}Upgrade vMix to enable additional calls.{newline}http://www.vmix.com/upgrade
+VIDEOCALL_48_SAMPLE_RATE_REQUIRED	vMix Call requires the Audio Master Sample Rate to be 48000, this can be changed in the Audio tab under Settings	vMix Call requires the Audio Master Sample Rate to be 48000, this can be changed in the Audio tab under Settings
+VIDEOCALL_PASSWORD_NOT_FOUND	vMix Call Password is incorrect.	vMix Call Password is incorrect.
+VIDEOCALL_INVALID_PASSWORD	Password must be at least 8 characters in length.	Password must be at least 8 characters in length.
+VIDEOCALL_INVALID_NAME	Please enter a Name to identify yourself on this call.	Please enter a Name to identify yourself on this call.
+PRODUCTION_CLOCK_ALREADY_ADDED	Production Clocks Input has already been created. Only one can be active at a time.	Production Clocks Input has already been created. Only one can be active at a time.
+AUDIO_BUS_NOT_ENABLED	This Audio Bus needs to be enabled in Settings -> Audio Outputs first.	This Audio Bus needs to be enabled in Settings -> Audio Outputs first.
+RECORDING_AUDIO_CHANNELS_NOT_SUPPORTED	This recording format does not support more than 2 Audio Channels.	This recording format does not support more than 2 Audio Channels.
+AUDIO_CHANNELS_NOT_SUPPORTED_6	This format does not support more than 6 Audio Channels.	This format does not support more than 6 Audio Channels.
+AUDIO_CHANNELS_NOT_SUPPORTED_8_SRT	SRT does not support more than 8 Audio Channels.	SRT does not support more than 8 Audio Channels.
+AUDIO_CHANNELS_NOT_SUPPORTED_TOO_MANY	vMix supports a maximum of 16 Audio Channels per input.	vMix supports a maximum of 16 Audio Channels per input.
+WINDOWS_ACCESS_DENIED	Windows has blocked access to this device. Check your Windows Privacy Settings to ensure Camera and Microphone access is enabled.	Windows has blocked access to this device. Check your Windows Privacy Settings to ensure Camera and Microphone access is enabled.
+SELECT_INPUT	Please select an Input.	Please select an Input.
+SELECT_COPY_SOURCE	Please select one or more items to copy.	Please select one or more items to copy.
+MIX_MAXIMUM_REACHED	A maximum of 3 Mix inputs can be added at the same time.	A maximum of 3 Mix inputs can be added at the same time.
+EXTERNAL_OUTPUT_DEVICE_NOT_FOUND_1	Device not found or selected under Settings - External Output. Please check the settings and try again.	Device not found or selected under Settings - External Output. Please check the settings and try again.
+EXTERNAL_OUTPUT_DEVICE_NOT_FOUND_2	Device not found or selected under Settings - External Output - External 2.{newline}Check the settings or if you are not using External 2, untick the External Renderer checkbox in the External 2 tab.	Device not found or selected under Settings - External Output - External 2.{newline}Check the settings or if you are not using External 2, untick the External Renderer checkbox in the External 2 tab.
+Start	Start	Start
+Stop	Stop	Stop
+Basic	Basic	Basic
+Advanced	Advanced	Advanced
+Pause Rendering	Pause Rendering	Pause Rendering
+Resume Rendering	Resume Rendering	Resume Rendering
+Translations provided by Google Translate	Translations provided by Google Translate	Translations provided by Google Translate
+ToolTip.frmmain.cmdAudioMixer	Show or hide audio mixer pane	Show or hide audio mixer pane
+ToolTip.frmmain.cmdPause	Pause all currently playing video inputs	Pause all currently playing video inputs
+ToolTip.frmmain.UiFader1	Manual fade using first transition effect. (T-Bar)	Manual fade using first transition effect. (T-Bar)
+ToolTip.frmmain.cmdFTB	Toggle fade to black on Output	Toggle fade to black on Output
+ToolTip.frmmain.cmdRecSetup	Configure Recording	Configure Recording
+ToolTip.frmmain.cmdRecStartStop	Start or stop Recording	Start or stop Recording
+ToolTip.frmmain.cmdExternal	Configure External Output source	Configure External Output source
+ToolTip.frmmain.cmdDeckLinkRender	Start or stop External Output	Start or stop External Output
+ToolTip.frmmain.cmdDeckLinkInfo	View External Output statistics	View External Output statistics

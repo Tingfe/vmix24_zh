@@ -1,0 +1,100 @@
+frmAudioEngine.frmAudioEngine	Audio Engine	Audio Engine
+frmAudioEngine.lblBitRate	Bit Rate:	Bit Rate:
+frmAudioEngine.lblSampleRate	Sample Rate:	Sample Rate:
+frmAudioEngine.lblLastError	Last Error:	Last Error:
+frmAudioEngine.lblMixingErrors	Mixing Errors:	Mixing Errors:
+frmAudioEngine.lblStatus	Status:	Status:
+frmmain.cmdRestartM	Restart	Restart
+frmmain.cmdFTB	FTB	FTB
+frmmain.cmdQuickPlay	Quick Play	Quick Play
+frmmain.cmdCut	Cut	Cut
+frmmain.cmdFade	Fade	Fade
+frmmain.cmdEffect	Zoom	Zoom
+frmmain.cmdFade2	Wipe	Wipe
+frmmain.cmdFade4	Slide	Slide
+frmmain.cmdRestart	Restart	Restart
+frmmain.cmdConfirmYes	YES	YES
+frmmain.lblConfirm	Close input?	Close input?
+frmmain.cmdList	List	List
+frmmain.cmdReplay	Instant Replay	Instant Replay
+frmmain.cmdAudioMixer	Audio Mixer	Audio Mixer
+frmmain.cmdPlaylist	PlayList	PlayList
+frmmain.cmdMultiCorderStartStop	MultiCorder	MultiCorder
+frmmain.cmdStreaming	Stream	Stream
+frmmain.cmdDeckLinkRender	External	External
+frmmain.cmdRecStartStop	Record	Record
+frmmain.cmdAddInput	Add Input	Add Input
+frmmain.cmdOverlaySettings	Overlay	Overlay
+frmmain.lblPreset	Preset	Preset
+frmmain.cmdOpen	Open	Open
+frmmain.cmdSave	Save	Save
+frmmain.cmdClose	New	New
+frmmain.cmdLastPreset	Last	Last
+frmmain.cmdScreen	Fullscreen	Fullscreen
+frmmain.pctSRT	SRT	SRT
+frmmain.pctRec	REC	REC
+frmmain.pctExt	EXT	EXT
+frmmain.pctStream	STREAM 1	STREAM 1
+frmmain.pctSolo	SOLO	SOLO
+frmmain.cmdSettings	Settings	Settings
+frmmain.cmdPause	Pause Inputs	Pause Inputs
+frmmain.cmdAdvanced	Advanced	Advanced
+frmAudioSettings.frmAudioSettings	Audio Settings	Audio Settings
+frmAudioSettings.lblMilliseconds	milliseconds	milliseconds
+frmAudioSettings.lblDelay	Delay	Delay
+frmAudioSettings.cmdReset	Reset	Reset
+frmAudioSettings.cmdResetGain2	Reset	Reset
+frmAudioSettings.lblGain2	 Gain 2	 Gain 2
+frmAudioSettings.chkAGC	Automatic Gain Control	Automatic Gain Control
+frmAudioSettings.lblGain	Gain	Gain
+frmAudioSettings.cmdResetGain	Reset	Reset
+frmAudioSettings.lblHardwareVolume	Device Volume	Device Volume
+frmAudioSettings.chkAudioPad	-20 dB Pad	-20 dB Pad
+frmAudioSettings.lblAudioChannel	Channel	Channel
+frmAudioSettings.lblAudioFormat	Format	Format
+frmAudioSettings.lblName	Name	Name
+frmAudioSettings.cmdMatrixDelete	Delete	Delete
+frmAudioSettings.cmdMatrixAdd	Add	Add
+frmAudioSettings.lblMatrixPreset	Preset	Preset
+frmAudioSettings.mtxLabel	UiMatrixLabel1	UiMatrixLabel1
+frmAudioSettings.lblMasterR	Master R	Master R
+frmAudioSettings.mtxChannelMatrix	UiMatrix1	UiMatrix1
+frmAudioSettings.lblHR	Headphones R	Headphones R
+frmAudioSettings.lblMasterL	Master L	Master L
+frmAudioSettings.lblHL	Headphones L	Headphones L
+frmAudioSettings.cmdShowEditor	Show Editor	Show Editor
+frmAudioSettings.cmdResetEQ	Reset	Reset
+frmAudioSettings.chkEnableEQ	Enable EQ	Enable EQ
+frmAudioSettings.chkEnableGate	Enable Noise Gate	Enable Noise Gate
+frmAudioSettings.lblGateThreshold	Threshold	Threshold
+frmAudioSettings.cmdGateReset	Reset	Reset
+frmAudioSettings.lblDB	dBFS	dBFS
+frmAudioSettings.lblPost	Post	Post
+frmAudioSettings.UiMeterLabel1	UiMeterLabel1	UiMeterLabel1
+frmAudioSettings.lblRightPeak	-Inf	-Inf
+frmAudioSettings.lblLeftPeak	-Inf	-Inf
+frmAudioSettings.vRight	VuMeterVertical1	VuMeterVertical1
+frmAudioSettings.vLeft	VuMeterVertical1	VuMeterVertical1
+frmAudioSettings.lblPre	Pre	Pre
+frmAudioSettings.lblPreRightPeak	-Inf	-Inf
+frmAudioSettings.lblPreLeftPeak	-Inf	-Inf
+frmAudioSettings.vRightPre	VuMeterVertical1	VuMeterVertical1
+frmAudioSettings.vLeftPre	VuMeterVertical1	VuMeterVertical1
+frmAudioSettings.chkEnableCompressor	Enable Compressor	Enable Compressor
+frmAudioSettings.cmdResetCompressorRatio	Reset	Reset
+frmAudioSettings.lblCompressor	Ratio	Ratio
+frmAudioSettings.lblCompressorThreshold	Threshold	Threshold
+frmAudioSettings.cmdResetThreshold	Reset	Reset
+frmAudioSettings.chkVisible	Visible in Mixer	Visible in Mixer
+frmAudioSettings.cmdClose	Close	Close
+frmAudioSettings.tMenu.General	General	General
+frmAudioSettings.tMenu.Plugins	Plugins	Plugins
+frmAudioSettings.tMenu.Compressor	Compressor	Compressor
+frmAudioSettings.tMenu.Noise Gate	Noise Gate	Noise Gate
+frmAudioSettings.tMenu.Channel Mixer	Channel Mixer	Channel Mixer
+frmAudioSettings.tMenu.Channel Matrix	Channel Matrix	Channel Matrix
+frmAudioSettings.cmdResetDynamics	Reset	Reset
+frmAudioSettings.lblDynAttack	Attack milliseconds	Attack milliseconds
+frmAudioSettings.lblDynLowThreshold	Low Threshold	Low Threshold
+frmAudioSettings.lblDynLow	Low	Low
+frmAudioSettings.lblDynHigh	High	High

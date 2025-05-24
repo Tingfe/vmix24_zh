@@ -1,0 +1,100 @@
+frmSettings.tMenu.External Output	External Output	External Output
+frmSettings.tMenu.Audio	Audio	Audio
+frmSettings.tMenu.Audio Outputs	Audio Outputs	Audio Outputs
+frmSettings.tMenu.Web Controller	Web Controller	Web Controller
+frmSettings.tMenu.Tally Lights	Tally Lights	Tally Lights
+frmSettings.tMenu.Shortcuts	Shortcuts	Shortcuts
+frmSettings.tMenu.Activators	Activators	Activators
+frmSettings.tMenu.Scripting	Scripting	Scripting
+frmSettings.tMenu.Alerts	Alerts	Alerts
+frmSettings.tMenu.About	About	About
+frmSettings.cmdImport	Import	Import
+frmSettings.cmdDefault	Default	Default
+frmSettings.cmdExport	Export	Export
+frmWizard.frmWizard	vMix Configuration	vMix Configuration
+frmWizard.lblConfigureDescription	Select a starting configuration for vMix below. These settings can be customised later by clicking the Settings button.	Select a starting configuration for vMix below. These settings can be customised later by clicking the Settings button.
+frmLanguage.frmLanguage	vMix Language	vMix Language
+frmLanguage.lblTranslation	Translations provided by Google Translate	Translations provided by Google Translate
+frmLanguage.cboLanguage	English 	English
+frmTextEditor.frmTextEditor	Title Editor	Title Editor
+frmTextEditor.tFont	Title Editor	Title Editor
+frmTextEditor.cmdClocks	Clocks	Clocks
+frmTextEditor.cmdBrowse	Browse	Browse
+frmTextEditor.lblCountdown	Countdown	Countdown
+frmTextEditor.cmdCountdownSettings	Settings	Settings
+frmTextEditor.cmdExport	Export	Export
+frmTextEditor.cmdImport	Import	Import
+frmTextEditor.cmdClear	Clear	Clear
+frmTextEditor.lblPresets	Presets	Presets
+frmTextEditor.cmdLiveEdit	Live	Live
+frmDuration.frmDuration	Duration	Duration
+frmDuration.gAnimation	Animation	Animation
+frmDuration.lblDuration	Duration	Duration
+frmDuration.cmdCancel	Cancel	Cancel
+frmMultiCorder.frmMultiCorder	MultiCorder	MultiCorder
+frmMultiCorder.lblVMXQuality	Quality:	Quality:
+frmMultiCorder.chkPreserveFormat	Record NDI in original MOV format	Record NDI in original MOV format
+frmMultiCorder.cmdvMix	vMix AVI	vMix AVI
+frmMultiCorder.cmdAudioRecording	WAV File Record	WAV File Record
+frmMultiCorder.chkFragmented	Fault Tolerant	Fault Tolerant
+frmMultiCorder.lblAudioBitRate	Audio Bit Rate:	Audio Bit Rate:
+frmMultiCorder.chkHardwareEncoder	Use Hardware Encoder	Use Hardware Encoder
+frmMultiCorder.lblBitRate	Video Bit Rate:	Video Bit Rate:
+frmMultiCorder.lblFFMPEGABitrate	Audio Quality:	Audio Quality:
+frmMultiCorder.lblFFMPEGVBitrate	Video Quality:	Video Quality:
+frmMultiCorder.lblFFMPEGExt	Format:	Format:
+frmMultiCorder.lblFFMPEGFormat	Codec:	Codec:
+frmMultiCorder.cmdFFMPEG	FFMPEG	FFMPEG
+frmMultiCorder.lblMinutes	Minutes	Minutes
+frmMultiCorder.lblRestartInterval	New File Every:	New File Every:
+frmMultiCorder.lblAudioSource	Audio:	Audio:
+frmMultiCorder.cmdRecStartStop	Start	Start
+frmMultiCorder.cmdTS	MPEG-2 TS	MPEG-2 TS
+frmMultiCorder.cmdMKV	MKV	MKV
+frmMultiCorder.cmdAVI	AVI	AVI
+frmMultiCorder.lblCodec	Codec:	Codec:
+frmMultiCorder.cmdBrowse	Change Recording Folder	Change Recording Folder
+frmTallyLight.frmTallyLight	Edit Tally Light	Edit Tally Light
+frmTallyLight.lblActivePin	Active Pin:	Active Pin:
+frmTallyLight.lblPreviewPin	Preview Pin:	Preview Pin:
+frmTallyLight.Cancel_Button	Cancel	Cancel
+frmShortcuts.frmShortcuts	Shortcuts	Shortcuts
+frmShortcuts.cmdWebInterface	Web Controller	Web Controller
+frmShortcuts.cmdEdit	Edit	Edit
+frmShortCut.frmShortCut	Add Shortcut	Add Shortcut
+frmShortCut.lblReplayChannel	Replay Channel:	Replay Channel:
+frmShortCut.lblMix	Mix:	Mix:
+frmShortCut.lblVoice	Phrase	Phrase
+frmShortCut.lblStreamDeck	StreamDeck	StreamDeck
+frmShortCut.cmdDisplayBrowse	Browse	Browse
+frmShortCut.lblDisplayType	Display:	Display:
+frmShortCut.chkPressure	Pressure Enabled	Pressure Enabled
+frmShortCut.lblJSIndex	Index	Index
+frmShortCut.lblJSButton	Button	Button
+frmShortCut.chkControllerShow	Show in Web Controller	Show in Web Controller
+frmShortCut.tabAll	All	All
+frmShortCut.chkInputNumber	Assign Shortcut to Input Number	Assign Shortcut to Input Number
+frmShortCut.lblMidiValueType	Type	Type
+frmShortCut.chkMidiValue	Value	Value
+frmShortCut.lblMidiNote	Note	Note
+frmShortCut.lblChannel	Channel	Channel
+frmShortCut.lblMilliseconds	Milliseconds	Milliseconds
+frmShortCut.cmdFindKey	Find ...	Find ...
+frmShortCut.lblCustomTitle	Title:	Title:
+frmShortCut.chkLocal	Local Shortcut (This Preset Only)	Local Shortcut (This Preset Only)
+frmShortCut.lblValue	Value:	Value:
+frmShortCut.lblInput	Input:	Input:
+frmShortCut.lblDescription1	Description1:	Description1:
+frmShortCut.lblKey	Key/Control:	Key/Control:
+frmShortCut.lblSelectable	Video:	Video:
+frmShortCut.lblDuration	Duration:	Duration:
+frmShortCut.lblFunc	Function:	Function:
+frmShortCut.lblDescription2	Description2:	Description2:
+frmShortCut.cmdRemove	&Remove	&Remove
+frmShortCut.lblTrigger	Trigger the following keys in addition to this Shortcut:	Trigger the following keys in addition to this Shortcut:
+frmShortCut.cmdAdd	&Add	&Add
+frmShortCut.cmdCancel	Cancel	Cancel
+frmShortCut.tMenu.General	General	General
+frmShortCut.tMenu.Advanced	Advanced	Advanced
+frmPowerPoint.frmPowerPoint	PowerPoint	PowerPoint
+frmPowerPoint.lblMilliseconds	Milliseconds	Milliseconds

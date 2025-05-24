@@ -1,0 +1,100 @@
+frmInput.cmdVideoCallCopy	Copy	Copy
+frmInput.lblReturnAudio	Audio Source	Audio Source
+frmInput.cmdVideoCallConnect	Connect to Call	Connect to Call
+frmInput.cmdVideoCallHost	Host a Call	Host a Call
+frmInput.cmdVideoCallGenerateKey	Reset Password	Reset Password
+frmInput.lblReturnBandwidth	Video Bandwidth{newline}	Video Bandwidth{newline}
+frmInput.lblReturnVideo	Return Feed (To Guest)	Return Feed (To Guest)
+frmInput.lblKey	Password	Password
+frmInput.lblInputNumber	Number	Number
+frmInput.cmdCancel	Cancel	Cancel
+frmInput.cmdStressTest	Stress Test	Stress Test
+frmInput.cmdSignalGenerator	Signal Generator	Signal Generator
+frmInput.tMenu.Video	Video	Video
+frmInput.tMenu.DVD	DVD	DVD
+frmInput.tMenu.List	List	List
+frmInput.tMenu.Camera	Camera	Camera
+frmInput.tMenu.NDI / Desktop Capture	NDI / Desktop Capture	NDI / Desktop Capture
+frmInput.tMenu.Stream / SRT	Stream / SRT	Stream / SRT
+frmInput.tMenu.Instant Replay	Instant Replay	Instant Replay
+frmInput.tMenu.Image Sequence / Stinger	Image Sequence / Stinger	Image Sequence / Stinger
+frmInput.tMenu.Video Delay	Video Delay	Video Delay
+frmInput.tMenu.Image	Image	Image
+frmInput.tMenu.Photos	Photos	Photos
+frmInput.tMenu.PowerPoint	PowerPoint	PowerPoint
+frmInput.tMenu.Colour	Colour	Colour
+frmInput.tMenu.Audio	Audio	Audio
+frmInput.tMenu.Audio Input	Audio Input	Audio Input
+frmInput.tMenu.Title / XAML	Title / XAML	Title / XAML
+frmInput.tMenu.Virtual Set	Virtual Set	Virtual Set
+frmInput.tMenu.Web Browser	Web Browser	Web Browser
+frmInput.tMenu.Video Call	Video Call	Video Call
+frmInputSettings.frmInputSettings	Input Settings	Input Settings
+frmInputSettings.cmdExportMultiView	Export	Export
+frmInputSettings.cmdImportMultiView	Import	Import
+frmInputSettings.cmdRemoveMultiView	Remove	Remove
+frmInputSettings.cmdAddMultiView	Add	Add
+frmInputSettings.lblRadius	Radius:	Radius:
+frmInputSettings.lblThickness	Thickness:	Thickness:
+frmInputSettings.lblColour	Colour:	Colour:
+frmInputSettings.chkEnableBorder	Border	Border
+frmInputSettings.cmdResetRotate	Reset	Reset
+frmInputSettings.cmdResetZoomY	Reset	Reset
+frmInputSettings.cmdResetZoomX	Reset	Reset
+frmInputSettings.lblZoomY	Zoom Y:	Zoom Y:
+frmInputSettings.lblRotateZ	Rotate:	Rotate:
+frmInputSettings.lblZoomX	Zoom X:	Zoom X:
+frmInputSettings.cmdResetPanY	Reset	Reset
+frmInputSettings.cmdResetPanX	Reset	Reset
+frmInputSettings.cmdResetZoom	Reset	Reset
+frmInputSettings.lblPanY	Pan Y:	Pan Y:
+frmInputSettings.lblPanX	Pan X:	Pan X:
+frmInputSettings.lblZoom	Zoom:	Zoom:
+frmInputSettings.chkEnableCrop	Cropping	Cropping
+frmInputSettings.lblCropX1	Crop X1:	Crop X1:
+frmInputSettings.lblCropY1	Crop Y1:	Crop Y1:
+frmInputSettings.lblCropX2	Crop X2:	Crop X2:
+frmInputSettings.lblCropY2	Crop Y2:	Crop Y2:
+frmInputSettings.cmdResetPosition	Reset All	Reset All
+frmInputSettings.lblTriggerMix	Mix	Mix
+frmInputSettings.cmdDeleteTrigger	Delete	Delete
+frmInputSettings.cmdEditTrigger	Edit	Edit
+frmInputSettings.cmdAddTrigger	Add	Add
+frmInputSettings.chkPTZInputThumbnail	Always show thumbnail in input preview	Always show thumbnail in input preview
+frmInputSettings.lblPTZSupport	PTZ (Pan Tilt Zoom) camera control is available in the 4K and Pro editions of vMix. Visit www.vmix.com for more information,	PTZ (Pan Tilt Zoom) camera control is available in the 4K and Pro editions of vMix. Visit www.vmix.com for more information,
+frmInputSettings.chkTally	Tally	Tally
+frmInputSettings.chkFocus	Focus	Focus
+frmInputSettings.lblZoom	Zoom	Zoom
+frmInputSettings.lblPositionSpeed	Position Speed	Position Speed
+frmInputSettings.lblPTSpeed	Speed	Speed
+frmInputSettings.cmdPTZConnect	Connect	Connect
+frmInputSettings.lblConnectionName	URL	URL
+frmInputSettings.lblPTZProvider	Device Type	Device Type
+frmInputSettings.lblInfoDeinterlacing	Deinterlacing	Deinterlacing
+frmInputSettings.lblClickAction	Mouse Click Action	Mouse Click Action
+frmInputSettings.cmdChange	Change	Change
+frmInputSettings.lblSource	Blank	Blank
+frmInputSettings.lblCategory	Category	Category
+frmInputSettings.cmdAudioSettings	Audio Settings	Audio Settings
+frmInputSettings.cmdCreateVirtualInput	Create Virtual Input	Create Virtual Input
+frmInputSettings.chkMirror	Mirror	Mirror
+frmInputSettings.lblName	Name	Name
+frmInputSettings.chkPlayActive	Automatically Play with Transition	Automatically Play with Transition
+frmInputSettings.lblAspectRatio	Aspect Ratio	Aspect Ratio
+frmInputSettings.chkPausePreview	Automatically Pause after Transition	Automatically Pause after Transition
+frmInputSettings.chkRestart	Automatically Restart with Transition	Automatically Restart with Transition
+frmInputSettings.chkDeinterlace	Deinterlace Blend	Deinterlace Blend
+frmInputSettings.chkAutoMixAudio	Automatically mix audio	Automatically mix audio
+frmInputSettings.chkSharpen	Sharpen	Sharpen
+frmInputSettings.lblInfoResolution	Resolution	Resolution
+frmInputSettings.lblInfoSourceAspectRatio	Source Aspect Ratio	Source Aspect Ratio
+frmInputSettings.lblInfoFrameRate	Frame Rate	Frame Rate
+frmInputSettings.cbSat	Sat	Sat
+frmInputSettings.cbHue	Hue	Hue
+frmInputSettings.cmdCCAuto	Basic Auto Correct	Basic Auto Correct
+frmInputSettings.cmdCCPresets	Presets	Presets
+frmInputSettings.cwGain	Gain	Gain
+frmInputSettings.cmdColorWheelsDisplay	Display: Colour Wheels	Display: Colour Wheels
+frmInputSettings.cwLift	Lift	Lift
+frmInputSettings.cwGamma	Gamma	Gamma
+frmInputSettings.chkRec601Fix	Rec. 601 to 709	Rec. 601 to 709

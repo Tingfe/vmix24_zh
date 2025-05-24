@@ -1,0 +1,100 @@
+HEIGHT_NOT_NUMBER	Height must be a number.	Height must be a number.
+BITRATE_NOT_NUMBER	BitRate must be a number.	BitRate must be a number.
+FPS_NOT_NUMBER	FPS must be a number.	FPS must be a number.
+PORT_NOT_NUMBER	Port must be a number.	Port must be a number.
+QUALITY_NOT_NUMBER	Quality must be a number.	Quality must be a number.
+WMV_FORMAT_INVALID	WMV Format is not valid.	WMV Format is not valid.
+WMV_PORT_IN_USE	Streaming Port is currently in use.	Streaming Port is currently in use.
+DELAY_NOT_NUMBER	Delay must be a number.	Delay must be a number.
+CAPTURE_RESOLUTION_NOT_SUPPORTED	Capture Resolution is not supported by this device.	Capture Resolution is not supported by this device.
+CAPTURE_PIN_NOT_FOUND	Capture Pin could not be found.	Capture Pin could not be found.
+CAPTURE_CONFIGURE_CROSSBAR	Could not Configure Crossbar.	Could not Configure Crossbar.
+CAPTURE_CONNECT_AUDIO	Could not Connect Audio.	Could not Connect Audio.
+CAPTURE_ANALOG_FORMAT	Could not set Analog Format.	Could not set Analog Format.
+CAPTURE_PIN_FORMAT	CAPTURE_PIN_FORMAT	CAPTURE_PIN_FORMAT
+RENDER_PIN	Could not Render Output.	Could not Render Output.
+VMR9_INIT	Could not Configure VMR.	Could not Configure VMR.
+TRANSITION_DURATION_NOT_NUMBER	Duration is not a number or is invalid.	Duration is not a number or is invalid.
+STINGER_CUT_POINT_NOT_NUMBER	The Stinger Cut Point must be a number in milliseconds.	The Stinger Cut Point must be a number in milliseconds.
+STINGER_CUT_POINT_GREATER_DURATION	The Stinger Cut Point cannot be greater than the Duration.	The Stinger Cut Point cannot be greater than the Duration.
+ASF_WRITER_NOT_FOUND	ASF Writer could not be found.	ASF Writer could not be found.
+WINDOWS_MEDIA_SERVICE_INTERFACE_NOT_FOUND	Windows Media Service Interface could not be found.	Windows Media Service Interface could not be found.
+WINDOWS_MEDIA_PROFILE_MANAGER_NOT_FOUND	Windows Media Profile Manager could not be found.	Windows Media Profile Manager could not be found.
+ASF_WRITER_CONFIG_NOT_FOUND	ASF Writer Configuration not found.	ASF Writer Configuration not found.
+WINDOWS_MEDIA_PROFILE_SETTINGS_NOT_COMPATIBLE	Windows Media Profile Settings are not compatible.	Windows Media Profile Settings are not compatible.
+REGISTRATION_EXPIRED	The current Registration Key has expired.	The current Registration Key has expired.
+REGISTRATION_INVALID	The current Registration is invalid.	The current Registration is invalid.
+REGISTRATION_DIFFERENTMACHINE	Hardware has changed. Activate your key at {newline} http://www.vmix.com/activate	Hardware has changed. Activate your key at {newline} http://www.vmix.com/activate
+REGISTRATION_CORRUPT	The current Registration is corrupt, please try registering again.	The current Registration is corrupt, please try registering again.
+REGISTRATION_INVALIDDATE	The System Date is invalid.	The System Date is invalid.
+REGISTRATION_RENEWFAILED	Unable to renew Registration Key, check your internet connection and try again.	Unable to renew Registration Key, check your internet connection and try again.
+REGISTRATION_SUBSCRIPTIONEXPIRED	Subscription has expired, please check your account and try again.	Subscription has expired, please check your account and try again.
+INPUT_LIMIT_REACHED	The Input Limit in this Edition has been reached. {newline}Upgrade vMix to enable more features.{newline}http://www.vmix.com/upgrade	The Input Limit in this Edition has been reached. {newline}Upgrade vMix to enable more features.{newline}http://www.vmix.com/upgrade
+CAPTURE_LIMIT_REACHED	The Capture Input Limit in this Edition has been reached. {newline}Upgrade vMix to enable more features.{newline}http://www.vmix.com/upgrade	The Capture Input Limit in this Edition has been reached. {newline}Upgrade vMix to enable more features.{newline}http://www.vmix.com/upgrade
+RESOLUTION_LIMIT_EXCEEDED	The selected resolution is not supported in this Edition of vMix. {newline}Upgrade vMix to enable more features.{newline}http://www.vmix.com/upgrade	The selected resolution is not supported in this Edition of vMix. {newline}Upgrade vMix to enable more features.{newline}http://www.vmix.com/upgrade
+AVI_RECORDING_NOT_SUPPORTED	AVI Recording is not supported in this Edition of vMix. {newline}Upgrade vMix to enable more features.{newline}http://www.vmix.com/upgrade	AVI Recording is not supported in this Edition of vMix. {newline}Upgrade vMix to enable more features.{newline}http://www.vmix.com/upgrade
+WMV_RECORDING_NOT_SUPPORTED	WMV Recording and Streaming is not supported in this Edition of vMix. {newline}Upgrade vMix to enable more features.{newline}http://www.vmix.com/upgrade	WMV Recording and Streaming is not supported in this Edition of vMix. {newline}Upgrade vMix to enable more features.{newline}http://www.vmix.com/upgrade
+OVERLAY_LIMIT_REACHED	Multiple Overlays are not supported in this Edition of vMix. {newline}Upgrade vMix to enable more features.{newline}http://www.vmix.com/upgrade	Multiple Overlays are not supported in this Edition of vMix. {newline}Upgrade vMix to enable more features.{newline}http://www.vmix.com/upgrade
+FEATURE_NOT_SUPPORTED	This feature is not available in this Edition of vMix. {newline}Upgrade vMix to enable more features.{newline}http://www.vmix.com/upgrade	This feature is not available in this Edition of vMix. {newline}Upgrade vMix to enable more features.{newline}http://www.vmix.com/upgrade
+MPG_RECORDING_NOT_SUPPORTED	MPEG Recording is not supported in this Edition of vMix. {newline}Upgrade vMix to enable more features.{newline}http://www.vmix.com/upgrade	MPEG Recording is not supported in this Edition of vMix. {newline}Upgrade vMix to enable more features.{newline}http://www.vmix.com/upgrade
+MULTICORDER_NOT_SUPPORTED	MultiCorder is not available in this Edition of vMix. {newline}Upgrade vMix to enable more features.{newline}http://www.vmix.com/upgrade	MultiCorder is not available in this Edition of vMix. {newline}Upgrade vMix to enable more features.{newline}http://www.vmix.com/upgrade
+INVALID_RECORDING_FILENAME_FORMAT	Invalid Recording Filename Format. Missing one or more required options or contains invalid characters.	Invalid Recording Filename Format. Missing one or more required options or contains invalid characters.
+MULTICORDER_SELECT_INPUT	Highlight an Input first.	Highlight an Input first.
+LIST_NOT_AVAILABLE	The List Input is not available in this Edition of vMix.{newline}Upgrade vMix to enable this feature.{newline}http://www.vmix.com/upgrade	The List Input is not available in this Edition of vMix.{newline}Upgrade vMix to enable this feature.{newline}http://www.vmix.com/upgrade
+MULTICORDER_NOT_CONFIGURED	MultiCorder has not been configured.	MultiCorder has not been configured.
+REPLAY_NOT_SUPPORTED	Instant Replay is not available in this Edition of vMix. {newline}Upgrade vMix to enable more features.{newline}http://www.vmix.com/upgrade	Instant Replay is not available in this Edition of vMix. {newline}Upgrade vMix to enable more features.{newline}http://www.vmix.com/upgrade
+SCRIPTING_NOT_SUPPORTED	Scripting is not available in this Edition of vMix. {newline}Upgrade vMix to enable more features.{newline}http://www.vmix.com/upgrade	Scripting is not available in this Edition of vMix. {newline}Upgrade vMix to enable more features.{newline}http://www.vmix.com/upgrade
+PTZ_NOT_SUPPORTED	PTZ is not available in this Edition of vMix.{newline}Upgrade vMix to enable more features.{newline}http://www.vmix.com/upgrade	PTZ is not available in this Edition of vMix.{newline}Upgrade vMix to enable more features.{newline}http://www.vmix.com/upgrade
+INPUT_TYPE_NOT_SUPPORTED	The selected Input Type is not supported.	The selected Input Type is not supported.
+INPUT_FORMAT_NOT_SUPPORTED	File Format Not Supported.	File Format Not Supported.
+INPUT_LOAD_ERROR	Error Loading Input.	Error Loading Input.
+INPUT_NOT_FOUND	Could not find input.	Could not find input.
+DIRECT3D_SHADERS_NOT_SUPPORTED	vMix requires a Graphics Card that supports Pixel Shader 2.0 or higher.	vMix requires a Graphics Card that supports Pixel Shader 2.0 or higher.
+DEVICE_NOT_READY	Device Not Ready	Device Not Ready
+NET_FRAMEWORK_35_REQUIRED	.NET Framework 3.5 SP1 is required to run this software.	.NET Framework 3.5 SP1 is required to run this software.
+CAPTURE_DEVICE_IN_USE	Capture Device is still in use, close any open programs and try again.	Capture Device is still in use, close any open programs and try again.
+CAPTURE_DEVICE_LOAD_ERROR	Capture Device could not be loaded, please check the device and try again.	Capture Device could not be loaded, please check the device and try again.
+INVALID_HANDLE	Invalid Handle.	Invalid Handle.
+INVALID_LENGTH	Invalid Length.	Invalid Length.
+VIDEO_SYSTEM_NOT_COMPATIBLE_WITH_FORMAT	The selected Frame Rate is not compatible with this Recording Format.	The selected Frame Rate is not compatible with this Recording Format.
+CODEC_NOT_SUPPORTED	Codec Not Supported. Try different Output Format under Settings, Performance.	Codec Not Supported. Try different Output Format under Settings, Performance.
+CODEC_NOT_FOUND	A Video Codec has not been configured.	A Video Codec has not been configured.
+DV_DOES_NOT_SUPPORT_HD	DV Video Encoder does not support recording to HD. Select another codec or choose the MPEG-2 or MP4 recording options.	DV Video Encoder does not support recording to HD. Select another codec or choose the MPEG-2 or MP4 recording options.
+WEB_BROWSER_NOT_FOUND	Web Browser Could Not Be Found.	Web Browser Could Not Be Found.
+DVD_FILES_MISSING	DVD Files Missing.	DVD Files Missing.
+RENDERER_NOT_CONNECTED	Video could not be connected. Please make sure an appropriate video codec for this format is installed.	Video could not be connected. Please make sure an appropriate video codec for this format is installed.
+INVALID_RENDERER	Invalid Renderer.	Invalid Renderer.
+DVD_NOT_FOUND	DVD Could Not Be Found.	DVD Could Not Be Found.
+DVD_NAVIGATOR_NOT_FOUND	DVD Navigator Could Not Be Found.	DVD Navigator Could Not Be Found.
+DESKTOP_CAPTURE_SOURCE_NOT_AVAILABLE	Desktop Capture Source Is No Longer Available.	Desktop Capture Source Is No Longer Available.
+AAC_AUDIO_FORMAT_NOT_SUPPORTED	The selected Audio Sample Rate and Channels are not supported by this Encoder.	The selected Audio Sample Rate and Channels are not supported by this Encoder.
+PRESET_NOT_FOUND	Preset Not Found.	Preset Not Found.
+PRESET_LOAD_ERROR	Error Loading Preset.	Error Loading Preset.
+PLAYLIST_LOAD_ERROR	PlayList Could Not Be Loaded.	PlayList Could Not Be Loaded.
+PLAYLIST_NOT_FOUND	PlayList could not be found.	PlayList could not be found.
+PLAYLIST_RUNNING	PlayList is currently running, please stop PlayList and try again.	PlayList is currently running, please stop PlayList and try again.
+PLAYLIST_INPUT_NOT_FOUND	PlayList Input Not Found.	PlayList Input Not Found.
+PLAYLIST_ALREADY_EXISTS	PlayList name already exists.	PlayList name already exists.
+PLAYLIST_EMPTY	PlayList has not been configured.	PlayList has not been configured.
+OUTPUT_POSITION_NOT_NUMERIC	Output Position Values must be Numeric.	Output Position Values must be Numeric.
+OUTPUT_POSITION_WIDTH_HEIGHT_ZERO	Output Position Width and Height must be greater than zero.	Output Position Width and Height must be greater than zero.
+INVALID_MEDIA_TYPE	Invalid Media Type.	Invalid Media Type.
+INVALID_RESOLUTION	Invalid Resolution.	Invalid Resolution.
+SELECT_CAPTURE_DEVICE	Select Capture Device.	Select Capture Device.
+SELECT_AUDIO_DEVICE	Select Audio Device.	Select Audio Device.
+QUICKTIME_INIT_ERROR	Error Initialising QuickTime.	Error Initialising QuickTime.
+QUICKTIME_NOT_INSTALLED	QuickTime 7.6 or higher is not installed.	QuickTime 7.6 or higher is not installed.
+QUICKTIME_CONTEXT_ERROR	QuickTime Context Error.	QuickTime Context Error.
+QUICKTIME_UNDEFINED_ERROR	Undefined QuickTime Error.	Undefined QuickTime Error.
+FLASH_NOT_INSTALLED	Please install Adobe Flash Player for Internet Explorer to use this feature.	Please install Adobe Flash Player for Internet Explorer to use this feature.
+INVALID_PORT	Invalid Port.	Invalid Port.
+INVALID_HOSTNAME	Invalid Hostname/IP.	Invalid Hostname/IP.
+INVALID_LATENCY	Invalid Latency.	Invalid Latency.
+INVALID_PASS_PHRASE	Invalid Passphrase, must be between 10 and 79 characters.	Invalid Passphrase, must be between 10 and 79 characters.
+VC_H264_ENCODER_NOT_FOUND	H264 encoder could not be found on this PC.	H264 encoder could not be found on this PC.
+VC_HEVC_ENCODER_NOT_FOUND	HEVC encoder is not installed. This can be installed by searching for HEVC Video Extensions in the Windows 10 Microsoft Store.	HEVC encoder is not installed. This can be installed by searching for HEVC Video Extensions in the Windows 10 Microsoft Store.
+FILE_FORMAT_NOT_RECOGNISED	File Format Not Recognised.	File Format Not Recognised.
+FILE_FORMAT_NEEDS_SOURCE_FILTER	Windows needs an additional component installed to play this file format.	Windows needs an additional component installed to play this file format.
+FILE_FORMAT_NEEDS_HAALI_FILTER	Please install the Haali Media Splitter to play this file format.	Please install the Haali Media Splitter to play this file format.
+EMPTY_DIRECTORY	Directory Is Empty.	Directory Is Empty.
+RECORDING_UNEXPECTED_ERROR	Recording has stopped unexpectedly.	Recording has stopped unexpectedly.

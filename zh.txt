@@ -1,1 +1,1151 @@
+frmAudioEngine.frmAudioEngine	Audio Engine	音频引擎
+frmAudioEngine.lblBitRate	Bit Rate:	比特率：
+frmAudioEngine.lblSampleRate	Sample Rate:	采样率：
+frmAudioEngine.lblLastError	Last Error:	最后一个错误：
+frmAudioEngine.lblMixingErrors	Mixing Errors:	混合错误：
+frmAudioEngine.lblStatus	Status:	状态：
+frmmain.cmdRestartM	Restart	重新开始
+frmmain.cmdFTB	FTB	的FTB
+frmmain.cmdQuickPlay	Quick Play	快速播放
+frmmain.cmdCut	Cut	切
+frmmain.cmdFade	Fade	褪色
+frmmain.cmdEffect	Zoom	缩放
+frmmain.cmdFade2	Wipe	擦除
+frmmain.cmdFade4	Slide	滑动
+frmmain.cmdRestart	Restart	重新开始
+frmmain.cmdConfirmYes	YES	是
+frmmain.lblConfirm	Close input?	关闭输入？
+frmmain.cmdList	List	名单
+frmmain.cmdReplay	Instant Replay	即时重播
+frmmain.cmdAudioMixer	Audio Mixer	调音台
+frmmain.cmdPlaylist	PlayList	播放列表
+frmmain.cmdMultiCorderStartStop	MultiCorder	MultiCorder
+frmmain.cmdStreaming	Stream	流
+frmmain.cmdDeckLinkRender	External	外部
+frmmain.cmdRecStartStop	Record	记录
+frmmain.cmdAddInput	Add Input	添加输入
+frmmain.cmdOverlaySettings	Overlay	覆盖
+frmmain.lblPreset	Preset	预置
+frmmain.cmdOpen	Open	开放
+frmmain.cmdSave	Save	保存
+frmmain.cmdClose	New	新
+frmmain.cmdLastPreset	Last	最后
+frmmain.cmdScreen	Fullscreen	全屏
+frmmain.pctSRT	SRT	SRT
+frmmain.pctRec	REC	REC
+frmmain.pctExt	EXT	EXT
+frmmain.pctStream	STREAM 1	流1
+frmmain.pctSolo	SOLO	ONLY
+frmmain.cmdSettings	Settings	设置
+frmmain.cmdPause	Pause Inputs	暂停输入
+frmmain.cmdAdvanced	Advanced	先进
+frmAudioSettings.frmAudioSettings	Audio Settings	音频设置
+frmAudioSettings.lblMilliseconds	milliseconds	毫秒
+frmAudioSettings.lblDelay	Delay	延迟
+frmAudioSettings.cmdReset	Reset	重置
+frmAudioSettings.cmdResetGain2	Reset	重置
+frmAudioSettings.lblGain2	Gain 2	获得2
+frmAudioSettings.chkAGC	Automatic Gain Control	自动增益控制
+frmAudioSettings.lblGain	Gain	获得
+frmAudioSettings.cmdResetGain	Reset	复位
+frmAudioSettings.lblHardwareVolume	Device Volume	设备音量
+frmAudioSettings.chkAudioPad	-20 dB Pad	-20 dB打击垫
+frmAudioSettings.lblAudioChannel	Channel	渠道
+frmAudioSettings.lblAudioFormat	Format	格式
+frmAudioSettings.lblName	Name	名称
+frmAudioSettings.cmdMatrixDelete	Delete	删除
+frmAudioSettings.cmdMatrixAdd	Add	加
+frmAudioSettings.lblMatrixPreset	Preset	预设值
+frmAudioSettings.mtxLabel	UiMatrixLabel1	UiMatrixLabel1
+frmAudioSettings.lblMasterR	Master R	法师 -  [R
+frmAudioSettings.mtxChannelMatrix	UiMatrix1	UiMatrix1
+frmAudioSettings.lblHR	Headphones R	耳机R
+frmAudioSettings.lblMasterL	Master L	大师
+frmAudioSettings.lblHL	Headphones L	耳机L
+frmAudioSettings.cmdShowEditor	Show Editor	显示编辑器
+frmAudioSettings.cmdResetEQ	Reset	重置
+frmAudioSettings.chkEnableEQ	Enable EQ	启用EQ
+frmAudioSettings.chkEnableGate	Enable Noise Gate	启用噪声门
+frmAudioSettings.lblGateThreshold	Threshold	门槛
+frmAudioSettings.cmdGateReset	Reset	重置
+frmAudioSettings.lblDB	dBFS	dBFS的
+frmAudioSettings.lblPost	Post	岗位
+frmAudioSettings.UiMeterLabel1	UiMeterLabel1	UiMeterLabel1
+frmAudioSettings.lblRightPeak	-Inf	-Inf
+frmAudioSettings.lblLeftPeak	-Inf	-Inf
+frmAudioSettings.vRight	VuMeterVertical1	VuMeterVertical1
+frmAudioSettings.vLeft	VuMeterVertical1	VuMeterVertical1
+frmAudioSettings.lblPre	Pre	为
+frmAudioSettings.lblPreRightPeak	-Inf	-Inf
+frmAudioSettings.lblPreLeftPeak	-Inf	-Inf
+frmAudioSettings.vRightPre	VuMeterVertical1	VuMeterVertical1
+frmAudioSettings.vLeftPre	VuMeterVertical1	VuMeterVertical1
+frmAudioSettings.chkEnableCompressor	Enable Compressor	启用压缩机
+frmAudioSettings.cmdResetCompressorRatio	Reset	复位
+frmAudioSettings.lblCompressor	Ratio	比
+frmAudioSettings.lblCompressorThreshold	Threshold	门槛
+frmAudioSettings.cmdResetThreshold	Reset	重置
+frmAudioSettings.chkVisible	Visible in Mixer	在混音器中可见
+frmAudioSettings.cmdClose	Close	关闭
+frmAudioSettings.tMenu.General	General	一般
+frmAudioSettings.tMenu.Plugins	Plugins	插件
+frmAudioSettings.tMenu.Compressor	Compressor	压缩机
+frmAudioSettings.tMenu.Noise Gate	Noise Gate	噪声门
+frmAudioSettings.tMenu.Channel Mixer	Channel Mixer	通道混合器
+frmAudioSettings.tMenu.Channel Matrix	Channel Matrix	频道矩阵
+frmAudioSettings.cmdResetDynamics	Reset	重启
+frmAudioSettings.lblDynAttack	Attack milliseconds	攻击毫秒
+frmAudioSettings.lblDynLowThreshold	Low Threshold	低阈值
+frmAudioSettings.lblDynLow	Low	低
+frmAudioSettings.lblDynHigh	High	高
+frmAudioSettings.chkEnableDynamics	Enable Dynamics	启用动态
+frmBlockedFilterList.frmBlockedFilterList	DirectShow Blocked Filter List	DirectShow的阻止筛选器列表
+frmBlockedFilterList.cmdCancel	Cancel	取消
+frmBlockedFilterList.lblInfo	Any filters checked in the list below will not be used by vMix.	在下面的列表中选中的任何过滤器将无法使用vMix。
+frmColourSelect.frmColourSelect	Colour Select	颜色选择
+frmColourSelect.lblInfo	Click on a neutral colour from the image below. A neutral colour should reflect all light evenly (a grey sheet of cardboard, for example)	点击从下面的图像中的中性色。中性色应反映所有光线均匀（灰色的纸板表，例如）
+frmError.frmError	vMix Error	vMix错误
+frmError.lblMessage	Error Message	错误信息
+frmError.cmdSendErrorReport	Send Error Report	发送错误报告
+frmError.cmdClose	Close	关闭
+frmfull.frmfull	Fullscreen	全屏
+frmInput.frmInput	Input Select	输入选择
+frmInput.chkRTMPInstanceURL	URL includes App Instance	URL包括应用实例
+frmInput.chkInterlaced	Video is Interlaced	视频是隔行扫描
+frmInput.chkImageSequence	Image Sequence	图像序列
+frmInput.chkAlpha	Video contains Alpha Channel	视频包含Alpha通道
+frmInput.lblRTMPMilliseconds	milliseconds	毫秒
+frmInput.lblRTMPBuffer	RTMP Buffer:	RTMP的缓冲区：
+frmInput.lblFlashResolution	Resolution:	决议：
+frmInput.cmdClear	Clear	清除
+frmInput.cmdBrowse	Browse	浏览
+frmInput.tAudio	Aud	AUD
+frmInput.tImage	Img	图
+frmInput.tPhotos	Phot	照片
+frmInput.tPowerpoint	PPT	PPT
+frmInput.tDVD	DVD	DVD
+frmInput.tCapture	Cap	采集
+frmInput.chkCameraAudioEnabled	Audio Enabled	启用音频
+frmInput.chkCaptureInterlaced	Interlaced	隔行扫描
+frmInput.lblAudioInput	Audio Input:	音频输入：
+frmInput.lblVideoFormat	Video Format:	视频格式：
+frmInput.lblAudioFormat	Audio Format:	音频格式：
+frmInput.lblAudioDevice	Audio Device:	音频设备：
+frmInput.chkVMR	Use VMR	使用VMR
+frmInput.lblCapture	Camera:	摄像头：
+frmInput.lblSystem	Frame Rate:	帧速率：
+frmInput.lblInput	Input:	输入：
+frmInput.lblResolution	Resolution:	决议：
+frmInput.tNetwork	Desk	桌面
+frmInput.lblDesktopCaptureWindowType	Window Capture Method	窗口捕捉方法
+frmInput.cmdLocalDesktopTab	Local Desktop Capture	本地桌面捕捉
+frmInput.cmdNDITab	NDI	NDI
+frmInput.chkFEIM	FEIM	有限元
+frmInput.chkNDIBuffer	Increase Buffer Size	增加缓冲区大小
+frmInput.chkNDIPSF	PsF	在PsF
+frmInput.chkAudioOnly	Audio Only	仅音频
+frmInput.lnkNDI	http://NDI.NewTek.com/	http://NDI.NewTek.com/
+frmInput.chkNDILowBandwidth	Low Bandwidth Mode	低带宽模式
+frmInput.tAudioInput	AuI	AUI
+frmInput.chkMuteHeadphones	Mute in Headphones	在耳机中静音
+frmInput.lblAudioChannels	Audio Channels:	音频通道：
+frmInput.lblAudioAudioFormat	Audio Format:	音频格式：
+frmInput.lblAudioAudioDevice	Audio Device:	音频设备：
+frmInput.tFlash	Fsh	FSH
+frmInput.tVideoDelay	Del	延迟
+frmInput.lblSaveCodec	Save Codec:	保存编解码器：
+frmInput.lblSource	Source:	来源：
+frmInput.lblSeconds	Seconds:	秒：
+frmInput.lblVideoDelayResolution	Resolution:	决议：
+frmInput.tTitle	Ttl	TTL
+frmInput.tColour	Col	颜色
+frmInput.rTransparent	Transparent	透明
+frmInput.rColourBars	Colour Bars	彩条
+frmInput.rColour	Colour	颜色
+frmInput.tVideoList	Lst	LST
+frmInput.chkListInterlaced	Selected video is interlaced	所选的视频是隔行扫描
+frmInput.cmdClearVideoList	Clear	清除
+frmInput.cmdRemove	Remove	清除
+frmInput.cmdRandomise	Shuffle	拖曳
+frmInput.cmdAdd	Add	加
+frmInput.tVirtualSet	Virt	虚拟
+frmInput.tRTSP	Strm	流
+frmInput.lblSRTStreamID	Stream ID	流ID
+frmInput.lblSRTKeyLength	Key Length	键长
+frmInput.lblSRTDecoderDelay	Decoder Delay (ms)	解码器延迟（毫秒）
+frmInput.chkSRTHWDecoder	Use Hardware Decoder	使用硬件解码器
+frmInput.lblSRTPassPhrase	Passphrase	密码
+frmInput.lblSRTLatencyMs	Latency (ms)	延迟（ms）
+frmInput.chkStreamLowLatency	Low Latency Mode	低延时模式
+frmInput.lblStreamMilliseconds	milliseconds	毫秒
+frmInput.lblStreamBuffer	Buffer	缓冲区
+frmInput.lblStreamType	Stream Type	码流类型
+frmInput.lblStreamURL	URL	网址
+frmInput.lblStreamPort	Port	端口
+frmInput.cmdClearStream	Clear	清除
+frmInput.chkGPUDisabled	Disable GPU Acceleration	禁用GPU加速
+frmInput.lblBrowserVersion	Browser Version	浏览器版本
+frmInput.cmdWBClear	Clear	明确
+frmInput.lblWBHeight	Height	高度
+frmInput.lblWBWidth	Width	宽度
+frmInput.lblWBURL	URL	网址
+frmInput.lnkVCDirect	More Information	更多信息
+frmInput.chkVideoCallAdvanced	Show Advanced Options	显示高级选项
+frmInput.chkVideoCallSTUN	Allow only direct peer to peer connections	仅允许直接对等连接
+frmInput.lnkVCLowLatency	More Information	更多信息
+frmInput.chkVideoCallDebugLog	Enable Debug Logging	启用调试日志记录
+frmInput.chkVideoCallLowLatency	Low Latency Mode	低延迟模式
+frmInput.cmdVideoCallCopyLink	Copy Link	复制链接
+frmInput.lblVideoCallName	Name	名称
+frmInput.lblReturnVideoSource	Video Source	视频源
+frmInput.cmdVideoCallCopy	Copy	复制
+frmInput.lblReturnAudio	Audio Source	音源
+frmInput.cmdVideoCallConnect	Connect to Call	连接到呼叫
+frmInput.cmdVideoCallHost	Host a Call	主机呼叫
+frmInput.cmdVideoCallGenerateKey	Reset Password	重设密码
+frmInput.lblReturnBandwidth	Video Bandwidth{newline}	视频带宽
+frmInput.lblReturnVideo	Return Feed (To Guest)	返回饲料（客串）
+frmInput.lblKey	Password	密码
+frmInput.lblInputNumber	Number	数
+frmInput.cmdCancel	Cancel	取消
+frmInput.cmdStressTest	Stress Test	压力测试
+frmInput.cmdSignalGenerator	Signal Generator	信号发生器
+frmInput.tMenu.Video	Video	视频
+frmInput.tMenu.DVD	DVD	DVD
+frmInput.tMenu.List	List	表
+frmInput.tMenu.Camera	Camera	相机
+frmInput.tMenu.NDI / Desktop Capture	NDI / Desktop Capture	NDI /桌面捕捉
+frmInput.tMenu.Stream / SRT	Stream / SRT	流/ SRT
+frmInput.tMenu.Instant Replay	Instant Replay	即时回放
+frmInput.tMenu.Image Sequence / Stinger	Image Sequence / Stinger	图像序列/毒刺
+frmInput.tMenu.Video Delay	Video Delay	视频延迟
+frmInput.tMenu.Image	Image	图像
+frmInput.tMenu.Photos	Photos	照片
+frmInput.tMenu.PowerPoint	PowerPoint	PowerPoint中
+frmInput.tMenu.Colour	Colour	颜色
+frmInput.tMenu.Audio	Audio	音频
+frmInput.tMenu.Audio Input	Audio Input	音频输入
+frmInput.tMenu.Title / XAML	Title / XAML	标题/ XAML
+frmInput.tMenu.Virtual Set	Virtual Set	虚拟集
+frmInput.tMenu.Web Browser	Web Browser	网页浏览器
+frmInput.tMenu.Video Call	Video Call	视频电话
+frmInputSettings.frmInputSettings	Input Settings	输入设置
+frmInputSettings.cmdExportMultiView	Export	出口
+frmInputSettings.cmdImportMultiView	Import	进口
+frmInputSettings.cmdRemoveMultiView	Remove	消除
+frmInputSettings.cmdAddMultiView	Add	补充
+frmInputSettings.lblRadius	Radius:	半径：
+frmInputSettings.lblThickness	Thickness:	厚度：
+frmInputSettings.lblColour	Colour:	颜色：
+frmInputSettings.chkEnableBorder	Border	边界
+frmInputSettings.cmdResetRotate	Reset	重置
+frmInputSettings.cmdResetZoomY	Reset	复位
+frmInputSettings.cmdResetZoomX	Reset	复位
+frmInputSettings.lblZoomY	Zoom Y:	缩放Y：
+frmInputSettings.lblRotateZ	Rotate:	旋转：
+frmInputSettings.lblZoomX	Zoom X:	放大X：
+frmInputSettings.cmdResetPanY	Reset	复位
+frmInputSettings.cmdResetPanX	Reset	复位
+frmInputSettings.cmdResetZoom	Reset	复位
+frmInputSettings.lblPanY	Pan Y:	潘Y：
+frmInputSettings.lblPanX	Pan X:	X先生：
+frmInputSettings.lblZoom	Zoom:	放大：
+frmInputSettings.chkEnableCrop	Cropping	裁剪
+frmInputSettings.lblCropX1	Crop X1:	作物X1：
+frmInputSettings.lblCropY1	Crop Y1:	作物Y1：
+frmInputSettings.lblCropX2	Crop X2:	作物X2：
+frmInputSettings.lblCropY2	Crop Y2:	作物Y2：
+frmInputSettings.cmdResetPosition	Reset All	全部重置
+frmInputSettings.lblTriggerMix	Mix	混合
+frmInputSettings.cmdDeleteTrigger	Delete	删除
+frmInputSettings.cmdEditTrigger	Edit	编辑
+frmInputSettings.cmdAddTrigger	Add	加
+frmInputSettings.chkPTZInputThumbnail	Always show thumbnail in input preview	始终在输入预览中显示缩略图
+frmInputSettings.lblPTZSupport	PTZ (Pan Tilt Zoom) camera control is available in the 4K and Pro editions of vMix. Visit www.vmix.com for more information,	PTZ（云台变焦）摄像机控制在4K和vMix的专业版中提供使用。访问www.vmix.com了解更多信息，
+frmInputSettings.chkTally	Tally	相符
+frmInputSettings.chkFocus	Focus	焦点
+frmInputSettings.lblZoom	Zoom	飞涨
+frmInputSettings.lblPositionSpeed	Position Speed	位置速度
+frmInputSettings.lblPTSpeed	Speed	速度
+frmInputSettings.cmdPTZConnect	Connect	接
+frmInputSettings.lblConnectionName	URL	网址
+frmInputSettings.lblPTZProvider	Device Type	设备类型
+frmInputSettings.lblInfoDeinterlacing	Deinterlacing	去隔行
+frmInputSettings.lblClickAction	Mouse Click Action	鼠标单击操作
+frmInputSettings.cmdChange	Change	变化
+frmInputSettings.lblSource	Blank	空白
+frmInputSettings.lblCategory	Category	类别
+frmInputSettings.cmdAudioSettings	Audio Settings	音频设置
+frmInputSettings.cmdCreateVirtualInput	Create Virtual Input	创建虚拟输入
+frmInputSettings.chkMirror	Mirror	镜子
+frmInputSettings.lblName	Name	名
+frmInputSettings.chkPlayActive	Automatically Play with Transition	自动播放与转型
+frmInputSettings.lblAspectRatio	Aspect Ratio	长宽比
+frmInputSettings.chkPausePreview	Automatically Pause after Transition	自动暂停后过渡
+frmInputSettings.chkRestart	Automatically Restart with Transition	自动重新启动与过渡
+frmInputSettings.chkDeinterlace	Deinterlace Blend	隔行扫描混合
+frmInputSettings.chkAutoMixAudio	Automatically mix audio	自动混合音频
+frmInputSettings.chkSharpen	Sharpen	锐化
+frmInputSettings.lblInfoResolution	Resolution	决议
+frmInputSettings.lblInfoSourceAspectRatio	Source Aspect Ratio	来源长宽比
+frmInputSettings.lblInfoFrameRate	Frame Rate	帧速率
+frmInputSettings.cbSat	Sat	星期六
+frmInputSettings.cbHue	Hue	色调
+frmInputSettings.cmdCCAuto	Basic Auto Correct	基本自动校正
+frmInputSettings.cmdCCPresets	Presets	预置
+frmInputSettings.cwGain	Gain	获得
+frmInputSettings.cmdColorWheelsDisplay	Display: Colour Wheels	显示：彩色轮子
+frmInputSettings.cwLift	Lift	电梯
+frmInputSettings.cwGamma	Gamma	伽玛
+frmInputSettings.chkRec601Fix	Rec. 601 to 709	建议601至709
+frmInputSettings.lblBlue	Blue	蓝色
+frmInputSettings.chkPremultipliedAlpha	Premultiplied Alpha	预乘Alpha
+frmInputSettings.lblGreen	Green	绿色
+frmInputSettings.lblSaturation	Saturation	饱和
+frmInputSettings.lblRed	Red	红色
+frmInputSettings.lblAlpha	Alpha	阿尔法
+frmInputSettings.cmdAuto	Auto	汽车
+frmInputSettings.cmdAutoWhiteBalance	Auto White Balance	自动白平衡
+frmInputSettings.cmdReset	Reset	复位
+frmInputSettings.lblWhiteStretch	White Stretch	白色加长
+frmInputSettings.lblBlackStretch	Black Stretch	黑色弹力
+frmInputSettings.chkColorCorrectionSource	Use Source Settings	使用源设置
+frmInputSettings.cmdClose	Close	关闭
+frmInputSettings.cmdApply	Apply	申请
+frmInputSettings.lblFilters	Filters	过滤器
+frmInputSettings.lblDelayFrames	frames	帧
+frmInputSettings.lblDelay	Delay	延迟
+frmInputSettings.cmdProperties	Properties	属性
+frmInputSettings.lblOtherTallyInfo	For information on other Tally Light options, see the Tally Lights tab in Settings	有关其他提示灯选项的信息，请参阅设置中的提示灯标签
+frmInputSettings.lblOtherTally	Other Tally Lights	其他理货灯
+frmInputSettings.lblArduino	Arduino Tally Lights	Arduino的理货灯
+frmInputSettings.lblTallyStatusLabel	Status	状态
+frmInputSettings.lblComPort	COM Port	COM端口
+frmInputSettings.lblTallyNumber	Tally Number	理货号码
+frmInputSettings.chkColorKey	Colour Key	彩色钥匙
+frmInputSettings.Label1	Auto Chroma Key Presets	自动色度键预设
+frmInputSettings.chkAntiAliasing	Anti Aliasing	反锯齿
+frmInputSettings.chkGreenFilter	Chroma Key Filter	色度键过滤器
+frmInputSettings.cmdResetTolerance	Reset	复位
+frmInputSettings.lblChromaKey	Chroma Key	色度键
+frmInputSettings.lblRedKey	Red	红色
+frmInputSettings.lblBlueKey	Blue	蓝色
+frmInputSettings.lblGreenKey	Green	绿色
+frmInputSettings.lblLumaKey	Luma Key	咬关键
+frmInputSettings.lblKeyFill	Key/Fill Input	键/填充输入
+frmInputSettings.cmdCopy	Copy From...	复制自......
+frmInputSettings.tMenu.General	General	一般
+frmInputSettings.tMenu.Colour Adjust	Colour Adjust	「颜色调整」
+frmInputSettings.tMenu.Colour Key	Colour Key	彩色钥匙
+frmInputSettings.tMenu.Colour Correction	Colour Correction	色彩校正
+frmInputSettings.tMenu.Position	Position	位置
+frmInputSettings.tMenu.Layers / Multi View	Layers / Multi View	图层/多视图
+frmInputSettings.tMenu.Triggers	Triggers	触发器
+frmInputSettings.tMenu.Tally Lights	Tally Lights	理货灯
+frmInputSettings.tMenu.PTZ	PTZ	云台
+frmInputSettings.tMenu.Advanced	Advanced	先进
+frmOverlay.frmOverlay	Overlay Settings	叠加设置
+frmOverlay.chkDisplayUnderneath	Display underneath Overlays	在重叠式广告下显示
+frmOverlay.rFrames	Frames	帧
+frmOverlay.rMilliseconds	Milliseconds	毫秒
+frmOverlay.rFrames	Frames	帧
+frmOverlay.rMilliseconds	Milliseconds	毫秒
+frmOverlay.lblStingerInput	Stinger Input:	毒刺输入：
+frmOverlay.lblStingerMilliseconds	(0 to disable)	（0代表停用）
+frmOverlay.lblStingerCut	Stinger Cut Point:	毒刺切点：
+frmOverlay.lblAlpha	Alpha:	阿尔法：
+frmOverlay.cmdCancel	Cancel	取消
+frmOverlay.lblMilliseconds2	(0 to disable)	（0代表停用）
+frmOverlay.lblOverlayDuration	Duration:	时间：
+frmOverlay.lblMilliseconds	Milliseconds	毫秒
+frmOverlay.lblDuration	Effect Duration:	效果持续时间：
+frmOverlay.lblOverlayEffect	Effect:	效果：
+frmOverlay.lblOverlayNumber	Number:	编号：
+frmOverlay.lblDragTip	To adjust position, drag the red box or hold down shift to resize	若要调整位置，拖动红色框或按住shift键来调整
+frmOverlay.lblRadius	Radius:	半径：
+frmOverlay.lblThickness	Thickness:	厚度：
+frmOverlay.lblColour	Colour:	颜色：
+frmOverlay.lblBorder	Border	边境
+frmOverlay.cmdResetRotate	Reset	重置
+frmOverlay.cmdResetZoomY	Reset	重置
+frmOverlay.cmdResetZoomX	Reset	重置
+frmOverlay.lblZoomY	Zoom Y:	变焦Ÿ：
+frmOverlay.lblRotateZ	Rotate:	旋转：
+frmOverlay.lblZoomX	Zoom X:	变焦X：
+frmOverlay.cmdResetPanY	Reset	重置
+frmOverlay.cmdResetPanX	Reset	重置
+frmOverlay.cmdResetZoom	Reset	重置
+frmOverlay.lblPanY	Pan Y:	潘Ÿ：
+frmOverlay.lblPanX	Pan X:	潘贤章：
+frmOverlay.lblZoom	Zoom:	变焦：
+frmOverlay.lblPIPLocation	Picture In Picture Location	图片在图片位置
+frmOverlay.lblOverlayType	Type:	类型：
+frmPlaylist.frmPlaylist	PlayList	播放列表
+frmPlaylist.chkManual	Manual Mode	手动模式
+frmPlaylist.chkClearOverlay	Clear Overlays	清除覆盖
+frmPlaylist.cmdPrevious	Previous	前
+frmPlaylist.chkBeginSelected	Begin from selected item	从选择项目开始
+frmPlaylist.cmdNext	Next	未来
+frmPlaylist.chkLoop	Loop	环路
+frmPlaylist.lblAvailableInputs	Available Inputs	可用的输入
+frmPlaylist.lblPlayList	Playlist	播放
+frmPlaylist.cmdCreatePlayList	New PlayList	新的播放列表
+frmPlaylist.cmdDeletePlayList	Delete PlayList	删除播放列表
+frmPlaylist.cmdClose	Close	关闭
+frmPlaylist.cmdStartStop	Start	开始
+frmPlayListItem.frmPlayListItem	PlayList	播放列表
+frmPlayListItem.lblDisplayType	Display Type:	显示类型：
+frmPlayListItem.lblVideo	Video:	视频：
+frmPlayListItem.lblStartingPosition	Starting Position:	起始位置：
+frmPlayListItem.lblTransitionDuration	Transition Duration (in Milliseconds):	过渡的持续时间（以毫秒为单位）：
+frmPlayListItem.lblTransition	Transition:	过渡：
+frmPlayListItem.Cancel_Button	Cancel	取消
+frmPlayListItem.lblDuration	Duration:	时间：
+frmPlayListSave.frmPlayListSave	Create PlayList	创建播放列表
+frmPlayListSave.chkCopy	Copy Current PlayList	复制当前播放列表
+frmPlayListSave.lblSavePlaylist	Select a name for the new PlayList. Each PlayList will be added to the open Preset	选择的新的播放列表的名称。每个播放列表将被添加到打开预置
+frmPlayListSave.cmdCancel	Cancel	取消
+frmRecordingInfo.frmRecordingInfo	Recording Information	记录信息
+frmRecordingInfo.lblSize	Size:	大小：
+frmRecordingInfo.gBuffer	Buffer	缓冲区
+frmRecordingInfo.lblRead	Read:	阅读：
+frmRecordingInfo.lblWrite	Write:	写：
+frmRecordingInfo.gDroppedFrames	Dropped Frames	丢帧
+frmRecordingInfo.lblTotalThisSession	Total This Session:	总此会话：
+frmRecordingInfo.lblHardDiskCpu	Due To Hard Disk/CPU:	由于硬盘/ CPU：
+frmRecordingInfo.lblSourceFrameRate	Due To Source Frame Rate:	由于源帧率：
+frmRecordingInfo.lblTotalThisRecording	Total This Recording:	共有这段录音：
+frmRecordingInfo.lblAudioDevice	Audio Device:	音频设备：
+frmRecordingInfo.lblSystem	System:	系统：
+frmRecordingInfo.lblCodec	Codec:	编解码器：
+frmRecordingInfo.lblDuration	Duration:	时间：
+frmRecordingInfo.lblFilename	Filename:	文件名：
+frmRecordingInfo.cmdClose	Close	关闭
+frmRecordingSetup.frmRecordingSetup	Recording Setup	录制设置
+frmRecordingSetup.lblVMXQuality	Quality:	质量：
+frmRecordingSetup.lblKbps	Kbps	Kbps的
+frmRecordingSetup.lblAudioBitRate	Audio Bit Rate:	音频比特率：
+frmRecordingSetup.lblMinutes	Minutes	会议纪要
+frmRecordingSetup.lblRestart	New File Every:	新的文件，每隔：
+frmRecordingSetup.lblSize	Size:	大小：
+frmRecordingSetup.cmdBrowse	Browse	浏览
+frmRecordingSetup.lblFilename	Filename:	文件名：
+frmRecordingSetup.lblSystem	Frame Rate:	帧速率：
+frmRecordingSetup.lblCodec	Codec:	编解码器：
+frmRecordingSetup.lblMilliseconds	Milliseconds	毫秒
+frmRecordingSetup.lblAudioDelay	Audio Delay:	音频延迟：
+frmRecordingSetup.lblAudio	Audio:	音频：
+frmRecordingSetup.chkFragmented	Fault Tolerant	容错
+frmRecordingSetup.lblMp4Format	Profile:	简介：
+frmRecordingSetup.chkHardwareAcceleration	Use Hardware Encoder	使用硬件编码器
+frmRecordingSetup.cmdCancel	Cancel	取消
+frmRecordingSetup.lblMbps	Mbps	Mbps的
+frmRecordingSetup.lblMPEGBitRate	Bit Rate:	比特率：
+frmRecordingSetup.lblFileFormat	File Format:	文件格式：
+frmRecordingSetup.lblMpegFileFormat	TS (Transport Stream) is recommended for Editing.	TS（传输流）建议进行编辑。
+frmRecordingSetup.lblHttpPort	HTTP Port:	HTTP端口：
+frmRecordingSetup.lblAudioCodec	Audio Codec:	音频编解​​码器：
+frmRecordingSetup.lblWMVCodec	Codec:	编解码器：
+frmRecordingSetup.lblQuality	Quality:	质量：
+frmRecordingSetup.lblFPS	FPS:	FPS：
+frmRecordingSetup.lblBitRate	Bit Rate:	比特率：
+frmRecordingSetup.lblFFMPEGABitrate	Audio Quality:	音频质量：
+frmRecordingSetup.lblFFMPEGVBitrate	Video Quality:	视频质量：
+frmRecordingSetup.lblFFMPEGExt	Format:	格式：
+frmRecordingSetup.lblFFMPEGFormat	Codec:	编解码器：
+frmRecordingSetup.cmdAudioRecording	WAV File Record	WAV文件记录
+frmRecordingSetup.tMenu.AVI	AVI	的AVI
+frmRecordingSetup.tMenu.MPEG-2	MPEG-2	的MPEG-2
+frmRecordingSetup.tMenu.WMV	WMV	对WMV
+frmRecordingSetup.tMenu.WMV Streaming	WMV Streaming	WMV流媒体
+frmRecordingSetup.tMenu.FFMPEG	FFMPEG	FFMPEG
+frmRecordingSetup.tMenu.vMix AVI	vMix AVI	vMix AVI
+frmRecordingSetup.chkEnabled	Enabled	启用
+frmRegistration.frmRegistration	vMix Registration	vMix注册
+frmRegistration.lnkBasic	Visit https://register.vmix.com/ to register for the FREE Basic Edition	访问https://register.vmix.com/注册免费的基本版
+frmRegistration.cmdCancel	Cancel	取消
+frmRegistration.lblInternetAccess	Internet access required to complete Registration	互联网接入要求完成注册
+frmRegistration.lblRegistration	Registration	注册
+frmRegistration.lblEmailAddressB	Email Address	电邮地址
+frmRegistration.rTrial	Register for a fully functional 60 Day Trial	注册一个全功能的60天试用
+frmRegistration.lnkvMix	Visit http://www.vmix.com/ to purchase a Registration Key	访问http://www.vmix.com/购买注册码
+frmRegistration.lblEmailAddressA	Email Address	电邮地址
+frmRegistration.lblKey	Key	重点
+frmRegistration.rFree	Register for the FREE Basic Edition	注册为免费的基本版
+frmRegistration.rKey	I have a Registration Key	我有一个注册码
+frmSettings.frmSettings	Settings	设置
+frmSettings.lblAudioDrop	Audio Gap Handling:	音频间隙处理：
+frmSettings.chkAudioMixerFollowsCategories	Hide Audio Mixers based on selected Category	隐藏基于选定类别的混音器
+frmSettings.chkNotificationSounds	Enable Notification Sounds (for Video Call messages etc)	启用通知声音（用于视频通话消息等）
+frmSettings.cmdTestVoice	Test	测试
+frmSettings.lblVoiceShortcuts	Voice Shortcuts	语音快捷方式
+frmSettings.chkVoice	Enabled	启用
+frmSettings.lblVoiceAudio	Audio Source:	音频来源：
+frmSettings.lblVoiceConfidence	Confidence:	置信度：
+frmSettings.lblAudioSource	Recording Audio:	录制音频：
+frmSettings.lblAudioSourceDescription	The selected Audio Device will be used for Recording, Streaming and External Output	选定的音频设备，将用于录制，流媒体和外部输出
+frmSettings.lblAudioSourceFormat	Format:	格式：
+frmSettings.lblMasterBitRate	Master Bit Rate:	主比特率：
+frmSettings.lblSamplingRate	Master Sample Rate:	主采样率：
+frmSettings.lblAudioDelayMilliseconds	milliseconds	毫秒
+frmSettings.lblDefaultAudioDelay	Default Input Audio Delay:	默认输入音频延迟：
+frmSettings.chkFTBAudio	Fade To Black includes Audio	淡入淡出的包括音频
+frmSettings.chkInputAudioMeter	Show Audio Meter next to Inputs	显示音频指示器旁边的输入
+frmSettings.chkAutoAudioMixing	Automatically Mix Audio	自动混合音频
+frmSettings.chkMasterAudioMeter	Show Master Audio Meter in Main Window	在主窗口显示主音频仪表
+frmSettings.chkSonyPTZNDI	Enable Sony VISCA over IP with NDI	使用NDI启用IP上的Sony VISCA
+frmSettings.chkStartSRTOutput	Start SRT Output	启动SRT输出
+frmSettings.chkGlobalDataSources	Save Data Sources in Global Settings	在全局设置中保存数据源
+frmSettings.chkTBarTriggers	Enable Triggers on T-Bar	在T-Bar上启用触发器
+frmSettings.chkControllerNotifications	Controller Plug And Play Enabled	控制器即插即用启用
+frmSettings.chkInputCloseConfirm	Display confirmation for Input Close button	显示输入关闭按钮的确认
+frmSettings.chkShowProductionClocks	Production Clocks	生产时钟
+frmSettings.chkShowFTB	FTB	FTB
+frmSettings.chkShowTBar	T-Bar	T-酒吧
+frmSettings.chkShowTransition24	Transitions 2-4	过渡2-4
+frmSettings.chkShowQuickPlay	QuickPlay	快玩
+frmSettings.lblTransitionDisplay	Transition Display:	过渡显示：
+frmSettings.chkShowOverlays	Overlay	覆盖
+frmSettings.chkControlSurfaceEnabled	vMix Control Surface Enabled	vMix控制界面启用
+frmSettings.chkMultiInstance	Enable Multiple Instances	启用多个实例
+frmSettings.chkRememberWindowPosition	Remember Window Position	记住窗口位置
+frmSettings.chkRecordingConfirm	Display confirmation for Record, External, Stream and MultiCorder buttons	显示确认的记录，外部，流和MultiCorder按钮
+frmSettings.chkPreviewClick	Activate QuickPlay by clicking Preview Window	通过点击预览窗口激活的QuickPlay
+frmSettings.lblLanguage	Language:	语言：
+frmSettings.chkExternal	Start External Output	启动外部输出
+frmSettings.chkPausePreview	Automatically Pause Preview Input after Transition	过渡期后自动暂停预览输入
+frmSettings.chkMaximised	Start Maximised	开始Maximised
+frmSettings.chkAdvanced	Start in Advanced mode	以高级模式启动
+frmSettings.chkRestartActive	Automatically Restart Output Input with Transition	自动重启动输出输入与转换
+frmSettings.chkFullscreen	Start Fullscreen display	开始全屏显示
+frmSettings.chkPlayActive	Automatically Play Output Input with Transition	自动播放输出输入与转型
+frmSettings.lblMilliseconds	Milliseconds	毫秒
+frmSettings.lblQuickPlayTransition	QuickPlay Transition:	QuickPlay的过渡：
+frmSettings.lblQuickPlayDuration	QuickPlay Duration:	QuickPlay的时间：
+frmSettings.chkRecordingAlert	Display alert on UI and MultiView when NOT Recording	不录制时在UI和MultiView上显示警报
+frmSettings.lblRecordingAlert	No Recording Alert	无录音提示
+frmSettings.chkFTBAlert	Display alert on UI and MultiView when Fade To Black (FTB) enabled	启用淡入黑色（FTB）时在UI和MultiView上显示警报
+frmSettings.lblFTBAlert	Fade To Black Alert	淡入黑色警报
+frmSettings.lblAlertSeconds	seconds.	秒。
+frmSettings.lblAlertDB	dB for	分贝
+frmSettings.chkVolumeAlert	Display alert on UI and MultiView when Volume drops below	当音量降至以下时在UI和MultiView上显示警报
+frmSettings.lblVolumeAlert	Volume Alert	音量警报
+frmSettings.chkPerformanceAlerts	Show GPU / CPU alerts	显示GPU / CPU警报
+frmSettings.lblDisplayMethod	Display Method:	显示方法：
+frmSettings.chkDisableWindowsUpdate	Disable Windows Update when vMix is running	vMix运行时禁用Windows更新
+frmSettings.lblHighPerformanceMode	For graphics cards with 3GB+ memory only	对于只有3GB +内存的显卡
+frmSettings.chkHighPerformanceMode	High Input Performance Mode	高输入性能模式
+frmSettings.Label1	Graphics Adapter:	图形适配器：
+frmSettings.chkNDIFeim	NDI Faulty encoder isolation mode	AND错误的编码器隔离模式
+frmSettings.chkPerfReadLock	High Output Performance Mode	高输出性能模式
+frmSettings.chkGTSurfaceLock	Lock GT Surfaces	锁定GT表面
+frmSettings.lblPreviewSkip	Preview Skip:	预览跳过：
+frmSettings.chkDirect3D9ExPreview	Enable FlipEx on Previews	在预览启用FlipEx
+frmSettings.chkOptimus	Enable Optimus Graphics compatibility	启用Optimus显卡兼容性
+frmSettings.lblApplicationPriority	Application Priority:	申请的优先权：
+frmSettings.chkDirect3D9Ex	Enable FlipEx on Fullscreen	启用FlipEx上全屏
+frmSettings.lblOutputFormat	Output Format:	输出格式：
+frmSettings.lblVideoRenderer	Video Renderer:	视频渲染器：
+frmSettings.chkLockBackBuffer	Synchronize Output with Refresh Rate	与刷新率同步输出
+frmSettings.chkYUVFix	Automatically convert 16-235 to 0-255 for YUV inputs	自动转换16-235用于YUV输入到0-255
+frmSettings.chkMemoryLock	Memory Lock	内存锁
+frmSettings.chkDisableInputEffects	Disable Effects on Input Previews	禁用对输入预览的影响
+frmSettings.lblActiveAdapter	In Use: None	在用途：无
+frmSettings.lblAdapter	Graphics Adapter:	图形适配器：
+frmSettings.chkCaptureLowLatency	Low Latency Capture	低延时捕获
+frmSettings.lblProductName	vMix	vMix
+frmSettings.lnkPrivacyPolicy	View Privacy Policy	查看隐私政策
+frmSettings.lnkEULA	View End User Licensing Agreement	查看最终用户许可协议
+frmSettings.cmdSendReport	Send Support Report	发送报告的支持
+frmSettings.chkUpdateCheck	Check for updates on startup	在启动时检查更新
+frmSettings.lblFeatures	Features:	特点：
+frmSettings.lblCaptureInputs	Capture Inputs:	捕捉输入：
+frmSettings.lblInputs	Inputs:	输入：
+frmSettings.lblMaximumSize	Maximum Size:	最大尺寸：
+frmSettings.lblExpiryDate	Expiry Date:	截止日期：
+frmSettings.lblVersion	Version:	版本：
+frmSettings.cmdChangeRegistration	Change Registration Key	更改注册码
+frmSettings.cmdMVInputs	Customise Layout	自定义布局
+frmSettings.lblOutputsDescription	Description	描述
+frmSettings.lblNDIAdditional	Additional NDI Outputs	其他具有输出
+frmSettings.lblName	Output	产量
+frmSettings.cmdNDI	NDI OFF	带关闭
+frmSettings.lblName	Output	产量
+frmSettings.cmdNDI	NDI OFF	带关闭
+frmSettings.lblOutputsOverlay	Overlays	叠加
+frmSettings.lblOutputsSource	Source	资源
+frmSettings.lblName	Output	产量
+frmSettings.cmdNDI	NDI OFF	带关闭
+frmSettings.lblName	Output	产量
+frmSettings.cmdNDI	NDI OFF	带关闭
+frmSettings.lblName	Output	产量
+frmSettings.cmdNDI	NDI OFF	带关闭
+frmSettings.lblName	Output	产量
+frmSettings.cmdNDI	NDI OFF	带关闭
+frmSettings.lblName	Output	产量
+frmSettings.cmdNDI	NDI OFF	带关闭
+frmSettings.lblName	Output	产量
+frmSettings.cmdNDI	NDI OFF	带关闭
+frmSettings.cmdMVStandard	Legacy	遗产
+frmSettings.lblMultiViewLayout	MultiView Layout	多视图布局
+frmSettings.chkWebLocalhostAccess	Allow software on this computer access without login.	允许无需登录即可访问此计算机上的软件。
+frmSettings.lblWebPermit	Allow access to following pages without login:	允许访问以下页面而无需登录：
+frmSettings.lblWebPassword	Password:	密码：
+frmSettings.lblUsername	Username:	用户名：
+frmSettings.lblWebControllerDescription	TIP: The Web Site Address above can be used to control vMix from any device on the same network including Android, iPad, Surface and Mobile Phones. Simply type it into the browser on that device.	提示：上面的网站地址可以被用来从任何设备控制vMix同一网络包括Android，iPad的，表面和移动电话上。只需将其输入到该设备上的浏览器。
+frmSettings.txtWebServerLink	Not Enabled	未启用
+frmSettings.chkWebServerEnabled	Enabled	启用
+frmSettings.lblWebServerAddress	Web Site Address:	网站地址：
+frmSettings.lblPort	Port:	港口：
+frmSettings.chkInputNumbers	Show Input Numbers	显示输入号码
+frmSettings.lblFullscreen	Fullscreen:	全屏：
+frmSettings.cmdDisplay2	Fullscreen 2	全屏2
+frmSettings.cmdDisplay1	Fullscreen 1	全屏1
+frmSettings.lblActiveColour	Output Colour:	输出颜色：
+frmSettings.lblPreviewColour	Preview Colour:	预览颜色：
+frmSettings.lblOutputSize	Output Size:	输出尺寸：
+frmSettings.lblOutputAspectRatio	Output Aspect Ratio:	输出的宽高比：
+frmSettings.lblInputSize	Input Size:	输入大小：
+frmSettings.lblOutputScreen	Display:	显示方式：
+frmSettings.lblTheme	Theme:	主题：
+frmSettings.lblSystem	Master Frame Rate:	主帧速率：
+frmSettings.chkOutputMinimise	Minimise	最大限度地减少
+frmSettings.chkOutputAlwaysOnTop	On Top	顶部
+frmSettings.lblOutputPosition	Position:	您的位置：
+frmSettings.chkOutputHideCursor	Hide Cursor	隐藏光标
+frmSettings.lblDefaultAudioBus	Default Bus for New Inputs	新输入默认巴士
+frmSettings.lblDefaultAudioRenderer	Master Output	主输出
+frmSettings.lblHeadphonesAudio	Headphones	头戴耳机
+frmSettings.cmdFind	Find	找
+frmSettings.cmdSCJoystick	Joystick	操纵杆
+frmSettings.cmdSCShuttle	Shuttle PRO	班车PRO
+frmSettings.cmdSCXKeys	Surface	表面
+frmSettings.cmdSCKB	Keyboard	键盘
+frmSettings.cmdSCMIDI	MIDI	下午
+frmSettings.cmdSCAll	All	所有
+frmSettings.cmdCloneShortcut	Clone	克隆
+frmSettings.cmdMIDI	MIDI Settings	MIDI设置
+frmSettings.cmdTemplates	Templates	模板
+frmSettings.cmdEditShortcut	Edit	编辑
+frmSettings.cmdRemoveShortcut	Remove	删除
+frmSettings.cmdAddShortcut	Add	添加
+frmSettings.chkExternalUseDisplaySettings	Use Display Settings	使用显示设置
+frmSettings.chkExternalUseStreamingSettings	Use Streaming Settings	使用流设置
+frmSettings.cmdAux2	External 2	外部2
+frmSettings.cmdAux1	External	外部
+frmSettings.cVirtual	vMix Video / Streaming	vMix视频/流
+frmSettings.cDeckLink	External Renderer	外部渲染
+frmSettings.lblExSystem	Frame Rate:	帧速率：
+frmSettings.lblExtAlpha	Alpha Channel:	Alpha频道：
+frmSettings.lblExtAudioChannels	Audio Channels:	音频通道：
+frmSettings.lblExPort	Port:	港口：
+frmSettings.lblExDevice	Device:	设备：
+frmSettings.lblExAudioDevice	Audio Device:	音频设备：
+frmSettings.lblDelayInfo	This sets a delay on the audio input in milliseconds. For example if the audio is earlier than the video by 200ms, type in 200 here	这台音频输入以毫秒为单位的延迟。例如，如果音频比视频早在20​​0这里是200毫秒，键入
+frmSettings.lblAudioDelay	Audio Delay:	音频延迟：
+frmSettings.lblExOutputSize	Output Size:	输出尺寸：
+frmSettings.chkAdvancedSettings	Show Advanced Settings	显示高级设置
+frmSettings.cmdCancel	Cancel	取消
+frmSettings.chkInterlaced	Interlaced Recording	隔行记录
+frmSettings.lblDefaultFolder	Default Folder for Recordings	录音的默认文件夹
+frmSettings.lblRecordingFilenameFormat	Filename Format	文件名格式
+frmSettings.cmdBrowse	Browse	浏览
+frmSettings.chkRecordingSetup	Automatically Setup Recording With Previous Settings	自动设置的录制与以前的设置
+frmSettings.lblRecordingMemoryBuffer	Recording Memory Buffer	录音内存缓冲区
+frmSettings.lblBuffer	5 Frames (Between 20 MB and 40 MB for 1080p)	5帧（20 MB和40 MB用于1080p之间）
+frmSettings.lblFFMpegFormats	Play the file types below using the FFMPEG decoder (Example: *.mov,*.qt,*.mxf)	播放的文件类型下使用FFmpeg的解码器（例如：*。MOV，QT *，* MXF）
+frmSettings.lblFFMPEG	FFMPEG:	FFMPEG：
+frmSettings.lblDirectShow	DirectShow:	DirectShow的：
+frmSettings.lblCamera	Camera:	摄像头：
+frmSettings.lblVideo	Video Playback:	视频播放：
+frmSettings.lblDeinterlacing	Preferred Deinterlacing:	首选逐行扫描：
+frmSettings.cmdBlockedFilterList	Blocked Filter List	被阻止的筛选器列表
+frmSettings.lblDirectShowFilters	Filters:	过滤器：
+frmSettings.lblMPEG2Video	MPEG 2 Video:	MPEG - 2视频：
+frmSettings.cmd264Properties	Properties	属性
+frmSettings.cmdProperties	Properties	属性
+frmSettings.lblMPEGAudio	MPEG Audio:	MPEG音频：
+frmSettings.lblx264Video	x264 Video:	X264视频：
+frmSettings.chkDeinterlace	Use vMix Deinterlacing	使用vMix逐行扫描
+frmSettings.cmdAudioProperties	Properties	属性
+frmSettings.cmdStopAllScripts	Stop All	全部停止
+frmSettings.cmdStartStopScript	Start	开始
+frmSettings.cmdRemoveScript	Remove	拆除
+frmSettings.cmdEditScript	Edit	编辑
+frmSettings.cmdAddScript	Add	添加
+frmSettings.chkRadioFarEnabled	Enabled	启用
+frmSettings.lblRadioFar	Radio-Far Tally Lights	无线电远泰丽灯
+frmSettings.lblTallyLightsLLCDescription	These tallys are automatically enabled when plugged in and are assigned to the Input number	插上电源并分配到输入号码时，这些tallys会自动启用
+frmSettings.lblTallyLightsLLC	Tally Lights LLC / metaSETZ	泰丽灯LLC / metaSETZ
+frmSettings.lblWebTallyLightsHelp	Browse to the page below on any WiFi connected device to turn it into an instant Tally Light	浏览以下网页上的任何WiFi连接的设备把它变成一个即时Tally灯
+frmSettings.lblWebTallyLights	Web Tally Lights	网络理货灯
+frmSettings.lblArduino	Arduino Tally Lights	Arduino的理货灯
+frmSettings.cmdSwapPreviewActive	Swap Preview Active	交换预览活动
+frmSettings.cmdTallyReset	Reset to Default	重置为默认值
+frmSettings.cmdTallyLightsLegacy	Reset to Legacy Mode	复位到传统模式
+frmSettings.lblDevicesNotice	No Devices have been enabled yet. Click Enable Devices to set them up.	没有设备已被尚未启用。单击启用设备对它们进行设置。
+frmSettings.cmdDevices	Enable Devices	让设备
+frmSettings.cmdExport	Export	出口
+frmSettings.cmdImport	Import	进口
+frmSettings.cmdRemove	Remove	去掉
+frmSettings.cmdClone	Clone	克隆
+frmSettings.cmdEdit	Edit	编辑
+frmSettings.cmdAdd	Add	加
+frmSettings.tMenu.Display	Display	显示
+frmSettings.tMenu.Outputs / NDI / SRT	Outputs / NDI / SRT	输出/ I / SRT
+frmSettings.tMenu.Options	Options	选项
+frmSettings.tMenu.Performance	Performance	性能
+frmSettings.tMenu.Decoders	Decoders	解码器
+frmSettings.tMenu.Recording	Recording	录音
+frmSettings.tMenu.External Output	External Output	外部输出
+frmSettings.tMenu.Audio	Audio	音频
+frmSettings.tMenu.Audio Outputs	Audio Outputs	音频输出
+frmSettings.tMenu.Web Controller	Web Controller	网络控制器
+frmSettings.tMenu.Tally Lights	Tally Lights	理货灯
+frmSettings.tMenu.Shortcuts	Shortcuts	快捷键
+frmSettings.tMenu.Activators	Activators	激活剂
+frmSettings.tMenu.Scripting	Scripting	脚本
+frmSettings.tMenu.Alerts	Alerts	快讯
+frmSettings.tMenu.About	About	关于
+frmSettings.cmdImport	Import	进口
+frmSettings.cmdDefault	Default	默认
+frmSettings.cmdExport	Export	出口
+frmWizard.frmWizard	vMix Configuration	vMix配置
+frmWizard.lblConfigureDescription	Select a starting configuration for vMix below. These settings can be customised later by clicking the Settings button.	选择vMix低于起始配置。这些设置可以在以后通过点击设置按钮进行自定义。
+frmLanguage.frmLanguage	vMix Language	vMix语言
+frmLanguage.lblTranslation	Translations provided by Google Translate	谷歌翻译提供的翻译
+frmLanguage.cboLanguage	English	英语
+frmTextEditor.frmTextEditor	Title Editor	标题编辑
+frmTextEditor.tFont	Title Editor	标题编辑
+frmTextEditor.cmdClocks	Clocks	钟
+frmTextEditor.cmdBrowse	Browse	浏览
+frmTextEditor.lblCountdown	Countdown	倒计时
+frmTextEditor.cmdCountdownSettings	Settings	设置
+frmTextEditor.cmdExport	Export	出口
+frmTextEditor.cmdImport	Import	进口
+frmTextEditor.cmdClear	Clear	清除
+frmTextEditor.lblPresets	Presets	预设
+frmTextEditor.cmdLiveEdit	Live	住
+frmDuration.frmDuration	Duration	时间
+frmDuration.gAnimation	Animation	动画
+frmDuration.lblDuration	Duration	为期
+frmDuration.cmdCancel	Cancel	取消
+frmMultiCorder.frmMultiCorder	MultiCorder	MultiCorder
+frmMultiCorder.lblVMXQuality	Quality:	质量：
+frmMultiCorder.chkPreserveFormat	Record NDI in original MOV format	以原始MOV格式记录NDI
+frmMultiCorder.cmdvMix	vMix AVI	vMix AVI
+frmMultiCorder.cmdAudioRecording	WAV File Record	WAV文件记录
+frmMultiCorder.chkFragmented	Fault Tolerant	容错
+frmMultiCorder.lblAudioBitRate	Audio Bit Rate:	音频比特率：
+frmMultiCorder.chkHardwareEncoder	Use Hardware Encoder	使用硬件编码器
+frmMultiCorder.lblBitRate	Video Bit Rate:	视频比特率：
+frmMultiCorder.lblFFMPEGABitrate	Audio Quality:	音频质量：
+frmMultiCorder.lblFFMPEGVBitrate	Video Quality:	视频质量：
+frmMultiCorder.lblFFMPEGExt	Format:	格式：
+frmMultiCorder.lblFFMPEGFormat	Codec:	编解码器：
+frmMultiCorder.cmdFFMPEG	FFMPEG	FFMPEG
+frmMultiCorder.lblMinutes	Minutes	会议纪要
+frmMultiCorder.lblRestartInterval	New File Every:	新的文件，每隔：
+frmMultiCorder.lblAudioSource	Audio:	音频：
+frmMultiCorder.cmdRecStartStop	Start	开始
+frmMultiCorder.cmdTS	MPEG-2 TS	MPEG-2 TS
+frmMultiCorder.cmdMKV	MKV	MKV
+frmMultiCorder.cmdAVI	AVI	AVI
+frmMultiCorder.lblCodec	Codec:	编解码器：
+frmMultiCorder.cmdBrowse	Change Recording Folder	更改拍摄文件夹
+frmTallyLight.frmTallyLight	Edit Tally Light	编辑理货灯
+frmTallyLight.lblActivePin	Active Pin:	积极引脚：
+frmTallyLight.lblPreviewPin	Preview Pin:	预览pin：
+frmTallyLight.Cancel_Button	Cancel	取消
+frmShortcuts.frmShortcuts	Shortcuts	捷径
+frmShortcuts.cmdWebInterface	Web Controller	网络控制器
+frmShortcuts.cmdEdit	Edit	编辑
+frmShortCut.frmShortCut	Add Shortcut	新增捷径
+frmShortCut.lblReplayChannel	Replay Channel:	重播频道：
+frmShortCut.lblMix	Mix:	混合：
+frmShortCut.lblVoice	Phrase	短语
+frmShortCut.lblStreamDeck	StreamDeck	StreamDeck
+frmShortCut.cmdDisplayBrowse	Browse	浏览
+frmShortCut.lblDisplayType	Display:	显示：
+frmShortCut.chkPressure	Pressure Enabled	压力已启用
+frmShortCut.lblJSIndex	Index	指数
+frmShortCut.lblJSButton	Button	按键
+frmShortCut.chkControllerShow	Show in Web Controller	显示在网络控制器
+frmShortCut.tabAll	All	所有
+frmShortCut.chkInputNumber	Assign Shortcut to Input Number	分配快捷方式输入号码
+frmShortCut.lblMidiValueType	Type	类型
+frmShortCut.chkMidiValue	Value	值
+frmShortCut.lblMidiNote	Note	注意
+frmShortCut.lblChannel	Channel	通道
+frmShortCut.lblMilliseconds	Milliseconds	毫秒
+frmShortCut.cmdFindKey	Find ...	发现...
+frmShortCut.lblCustomTitle	Title:	标题：
+frmShortCut.chkLocal	Local Shortcut (This Preset Only)	本地快捷方式（此预设只有）
+frmShortCut.lblValue	Value:	价值：
+frmShortCut.lblInput	Input:	输入：
+frmShortCut.lblDescription1	Description1:	说明1：
+frmShortCut.lblKey	Key/Control:	键/控制：
+frmShortCut.lblSelectable	Video:	视频：
+frmShortCut.lblDuration	Duration:	时间：
+frmShortCut.lblFunc	Function:	功能：
+frmShortCut.lblDescription2	Description2:	description2：
+frmShortCut.cmdRemove	&Remove	和删除
+frmShortCut.lblTrigger	Trigger the following keys in addition to this Shortcut:	除了这条捷径，引发下面的键：
+frmShortCut.cmdAdd	&Add	与添加
+frmShortCut.cmdCancel	Cancel	取消
+frmShortCut.tMenu.General	General	一般
+frmShortCut.tMenu.Advanced	Advanced	先进
+frmPowerPoint.frmPowerPoint	PowerPoint	PowerPoint中
+frmPowerPoint.lblMilliseconds	Milliseconds	毫秒
+frmPowerPoint.lblTransition	Transition:	过渡：
+frmPowerPoint.lblEffect	Effect:	效果：
+frmPowerPoint.lblDuration	Duration:	时间：
+frmPowerPoint.lblSeconds	Seconds	秒
+frmVirtualSet.frmVirtualSet	Virtual Set Zoom Editor	虚拟设置缩放编辑器
+frmVirtualSet.Cancel_Button	Cancel	取消
+frmVirtualSet.cmdResetRotate	Reset	重置
+frmVirtualSet.cmdResetZoomY	Reset	重置
+frmVirtualSet.cmdResetZoomX	Reset	重置
+frmVirtualSet.lblZoomY	Zoom Y:	变焦Ÿ：
+frmVirtualSet.lblRotateZ	Rotate:	旋转：
+frmVirtualSet.lblZoomX	Zoom X:	变焦X：
+frmVirtualSet.cmdResetPanY	Reset	重置
+frmVirtualSet.cmdResetPanX	Reset	重置
+frmVirtualSet.cmdResetZoom	Reset	重置
+frmVirtualSet.lblPanY	Pan Y:	潘Ÿ：
+frmVirtualSet.lblPanX	Pan X:	潘贤章：
+frmVirtualSet.lblZoom	Zoom:	变焦：
+frmCountdown.frmCountdown	Countdown Settings	倒计时设置
+frmCountdown.lblCurrentTime	Current Time	当前时间
+frmCountdown.chkReverseDisplay	Display (00:00:00) when Stopped	显示（00:00:00）停止时
+frmCountdown.cmdCancel	Cancel	取消
+frmCountdown.chkCountdownReverse	Reverse	逆转
+frmCountdown.lblDisplayFormat	Display Format	显示格式
+frmCountdown.lblDuration	Duration	为期
+frmCountdown.lblStartTime	Stop Time	停止时间
+frmStreaming.frmStreaming	Streaming Settings	流媒体设置
+frmStreaming.lblProvider	Destination	目的地
+frmStreaming.chkUseStream1Quality	Use Stream 1 Quality	使用流1质量
+frmStreaming.lblStream	Stream Name or Key	流名称或关键
+frmStreaming.lblURL	URL	URL
+frmStreaming.cmdAdvanced	Advanced	先进
+frmStreaming.chkHWEncoding	Use Hardware Encoder	使用硬件编码器
+frmStreaming.cmdInfo	Sign Up	报名
+frmStreaming.lblChannel	Channel	渠道
+frmStreaming.cmdLogin	Login and Update Channels	登录和更新通道
+frmStreaming.lblPassword	Password	密码
+frmStreaming.lblUsername	Username	用户名
+frmStreaming.lblQuality	Quality	质量
+frmStreaming.lblStreamingType	Application	应用
+frmStreaming.cmdDelete	Delete	删除
+frmStreaming.cmdAdd	Add	加
+frmStreaming.lblProfile	Profile	轮廓
+frmStreaming.cmdStartStopAll	Start All	全部开始
+frmStreaming.cmdLog	View Status	查看状态
+frmStreaming.cmdClose	Save and Close	保存并关闭“
+frmStreaming.cmdStartStop	Start	开始
+frmActivate.frmActivate	vMix Activation	vMix激活
+frmActivate.lblActivationInformation	Your vMix Registration Key needs to be activated again due to a recent system change or software upgrade. Click Activate below to continue.	您vMix注册码需要再次由于最近系统的变化或软件升级激活。点击下面启动继续。
+frmActivate.cmdExit	Exit	出口
+frmActivate.cmdActivate	Activate	激活
+frmActivate.lblInternetAccess	Internet access required to complete Activation	完成激活所需的互联网接入
+frmActivate.lblRegistration	Activation	激活
+frmOpenPreset.frmOpenPreset	Open Preset	开启预设
+frmOpenPreset.cmdUnselectAll	Unselect All	全部取消选择
+frmOpenPreset.cmdCancel	Cancel	取消
+frmOpenPreset.cmdAppend	Append	附加
+frmOpenPreset.cmdOpen	Open	开
+frmEditCapture.frmEditCapture	Edit Capture	编辑拍摄
+frmEditCapture.cmdRename	Edit	编辑
+frmEditCapture.cmdReset	Reset	复位
+frmEditCapture.cmdCancel	Cancel	取消
+frmEditScript.frmEditScript	Edit Script	编辑脚本
+frmEditScript.chkLocal	Local Script (This Preset Only)	本地脚本（仅此预设）
+frmEditScript.cmdImport	Import	进口
+frmEditScript.cmdExport	Export	出口
+frmEditScript.OK_Button	Save	保存
+frmEditScript.Cancel_Button	Close	关闭
+frmEditScript.lblName	Name	名字
+frmKeyFinder.frmKeyFinder	Find Control	找到控制
+frmKeyFinder.lblMidi	Note: If you would like to use a MIDI controller, click here to to enable it first	注：如果您想使用一个MIDI控制器，​​点击此处先启用
+frmKeyFinder.cmdCancel	Cancel	取消
+frmKeyFinder.lblMessage	Press a button on the keyboard or controller	按键盘或控制器上的一个按钮
+frmShortcutTemplates.frmShortcutTemplates	Shortcut Templates	快捷键模板
+frmShortcutTemplates.lblDiagramType	Display as	显示为
+frmShortcutTemplates.cmdApply	Apply	申请
+frmShortcutTemplates.cmdClose	Close	关闭
+frmShortcutTemplates.cmdSaveGraphic	Save Graphic	保存图形
+frmShortcutTemplates.cmdExport	Export	出口
+frmShortcutTemplates.cmdImport	Import	进口
+frmNewPreset.frmNewPreset	New Preset	新预设
+frmNewPreset.lblNew	Create a new blank preset with the following video format	创建具有以下视频格式一个新的空白预设
+frmNewPreset.cmdCancel	Cancel	取消
+UNDEFINED_ERROR	UNDEFINED_ERROR	UNDEFINED_ERROR
+RECORDING_NOT_READY	Recording has not been configured	录制尚未配置
+EMPTY_FILENAME	Filename cannot be left blank	文件名不能留空
+DIRECT3D_SYSTEM_COPY_NOT_SUPPORTED	Recording is not supported by the installed graphics hardware. {newline}Performance will be adversely affected	录制不支持所安装的图形硬件。性能将受到不利影响
+DIRECT3D_HARDWARE_NOT_SUPPORTED	Graphics hardware is not supported. {newline}DirectX 9 compatible hardware required.	图形硬件不支持。 DirectX 9兼容的硬件要求。
+DIRECT3D_NOT_INSTALLED	Direct3D Not Found. Please install the latest version of DirectX 9.	Direct3D的找不到。请安装最新版本的DirectX 9。
+DIRECT3D_DEVICE_LOST	The Graphics Driver has reported an error. vMix will now reset to the last known good state.	图形驱动程序报告了一个错误。 vMix现在恢复的最后一个已知的良好状态。
+CROSSBAR_NOT_FOUND	Crossbar device could not be found	找不到交叉开关设备
+CAPTURE_NOT_FOUND	Capture device could not be found	捕捉设备不能被发现
+WINDOWS_7_REQUIRED	Windows 7 or higher required.	Windows 7或更高版本。
+WINDOWS_10_REQUIRED	Windows 10 or higher required.	需要Windows 10或更高版本。
+POWERPOINT_LOAD_SLIDE_ERROR	Could not load Slide, please ensure PowerPoint is closed and try again.	无法载入幻灯片，请确保PowerPoint是关闭，然后再试一次。
+EXTERNAL_RENDERER_NOT_FOUND	External Renderer Not Found	外部渲染未找到
+AUDIO_DEVICE_NOT_FOUND	AUDIO_DEVICE_NOT_FOUND	AUDIO_DEVICE_NOT_FOUND
+AUDIO_FORMAT_NOT_FOUND	AUDIO_FORMAT_NOT_FOUND	AUDIO_FORMAT_NOT_FOUND
+EXPIRED	This Program has Expired, please visit http://www.vmix.com/ for an updated version.	该计划已过期，请访问http://www.vmix.com/的更新版本。
+WIDTH_NOT_NUMBER	Width must be a number.	宽度必须为数字。
+HEIGHT_NOT_NUMBER	Height must be a number.	高度必须为数字。
+BITRATE_NOT_NUMBER	BitRate must be a number.	比特率必须是数字。
+FPS_NOT_NUMBER	FPS must be a number.	新鲜粮食店必须是数字。
+PORT_NOT_NUMBER	Port must be a number.	端口必须是数字。
+QUALITY_NOT_NUMBER	Quality must be a number.	质量必须是数字。
+WMV_FORMAT_INVALID	WMV Format is not valid.	WMV格式是无效的。
+WMV_PORT_IN_USE	Streaming Port is currently in use.	流端口正在使用中。
+DELAY_NOT_NUMBER	Delay must be a number.	延迟必须是数字。
+CAPTURE_RESOLUTION_NOT_SUPPORTED	Capture Resolution is not supported by this device.	此设备不支持拍摄分辨率。
+CAPTURE_PIN_NOT_FOUND	Capture Pin could not be found.	捕捉引脚上无法找到。
+CAPTURE_CONFIGURE_CROSSBAR	Could not Configure Crossbar.	无法配置交叉开关。
+CAPTURE_CONNECT_AUDIO	Could not Connect Audio.	无法连接音频。
+CAPTURE_ANALOG_FORMAT	Could not set Analog Format.	无法设置模拟格式。
+CAPTURE_PIN_FORMAT	CAPTURE_PIN_FORMAT	CAPTURE_PIN_FORMAT
+RENDER_PIN	Could not Render Output.	无法渲染输出。
+VMR9_INIT	Could not Configure VMR.	无法配置VMR。
+TRANSITION_DURATION_NOT_NUMBER	Duration is not a number or is invalid.	时间不是一个数字，或者是无效的。
+STINGER_CUT_POINT_NOT_NUMBER	The Stinger Cut Point must be a number in milliseconds.	“毒刺”切点必须是一个数字，单位为毫秒。
+STINGER_CUT_POINT_GREATER_DURATION	The Stinger Cut Point cannot be greater than the Duration.	“毒刺”切点不能大于持续时间。
+ASF_WRITER_NOT_FOUND	ASF Writer could not be found.	业余作家可以不被发现。
+WINDOWS_MEDIA_SERVICE_INTERFACE_NOT_FOUND	Windows Media Service Interface could not be found.	Windows媒体服务接口可能不会被发现。
+WINDOWS_MEDIA_PROFILE_MANAGER_NOT_FOUND	Windows Media Profile Manager could not be found.	Windows Media配置文件管理器无法找到。
+ASF_WRITER_CONFIG_NOT_FOUND	ASF Writer Configuration not found.	ASF作家配置没有找到。
+WINDOWS_MEDIA_PROFILE_SETTINGS_NOT_COMPATIBLE	Windows Media Profile Settings are not compatible.	Windows Media配置文件设置不兼容。
+REGISTRATION_EXPIRED	The current Registration Key has expired.	当前注册密钥已过期。
+REGISTRATION_INVALID	The current Registration is invalid.	目前的注册是无效的。
+REGISTRATION_DIFFERENTMACHINE	Hardware has changed. Activate your key at {newline} http://www.vmix.com/activate	硬件已经改变。激活你的关键在http://www.vmix.com/activate
+REGISTRATION_CORRUPT	The current Registration is corrupt, please try registering again.	当前注册已损坏，请尝试重新注册。
+REGISTRATION_INVALIDDATE	The System Date is invalid.	系统日期是无效的。
+REGISTRATION_RENEWFAILED	Unable to renew Registration Key, check your internet connection and try again.	无法续订注册码，请检查您的互联网连接，然后重试。
+REGISTRATION_SUBSCRIPTIONEXPIRED	Subscription has expired, please check your account and try again.	订阅已过期，请检查您的帐户，然后重试。
+INPUT_LIMIT_REACHED	The Input Limit in this Edition has been reached. {newline}Upgrade vMix to enable more features.{newline}http://www.vmix.com/upgrade	在这个版本中输入限制已经达到。升级vMix，使更多的功能。 http://www.vmix.com/upgrade
+CAPTURE_LIMIT_REACHED	The Capture Input Limit in this Edition has been reached. {newline}Upgrade vMix to enable more features.{newline}http://www.vmix.com/upgrade	在这个版本中捕获输入已达到限制。升级vMix，使更多的功能。 http://www.vmix.com/upgrade
+RESOLUTION_LIMIT_EXCEEDED	The selected resolution is not supported in this Edition of vMix. {newline}Upgrade vMix to enable more features.{newline}http://www.vmix.com/upgrade	是不是在这个版本vMix支持所选择的分辨率。升级vMix，使更多的功能。 http://www.vmix.com/upgrade
+AVI_RECORDING_NOT_SUPPORTED	AVI Recording is not supported in this Edition of vMix. {newline}Upgrade vMix to enable more features.{newline}http://www.vmix.com/upgrade	AVI录制不在此版vMix的支持。升级vMix，使更多的功能。 http://www.vmix.com/upgrade
+WMV_RECORDING_NOT_SUPPORTED	WMV Recording and Streaming is not supported in this Edition of vMix. {newline}Upgrade vMix to enable more features.{newline}http://www.vmix.com/upgrade	WMV录制和流媒体是不是在这个版本vMix的支持。升级vMix，使更多的功能。 http://www.vmix.com/upgrade
+OVERLAY_LIMIT_REACHED	Multiple Overlays are not supported in this Edition of vMix. {newline}Upgrade vMix to enable more features.{newline}http://www.vmix.com/upgrade	多个覆盖层未在此版vMix的支持。升级vMix，使更多的功能。 http://www.vmix.com/upgrade
+FEATURE_NOT_SUPPORTED	This feature is not available in this Edition of vMix. {newline}Upgrade vMix to enable more features.{newline}http://www.vmix.com/upgrade	此功能不可用此版vMix的。升级vMix，使更多的功能。 http://www.vmix.com/upgrade
+MPG_RECORDING_NOT_SUPPORTED	MPEG Recording is not supported in this Edition of vMix. {newline}Upgrade vMix to enable more features.{newline}http://www.vmix.com/upgrade	MPEG记录不在此版vMix的支持。升级vMix，使更多的功能。 http://www.vmix.com/upgrade
+MULTICORDER_NOT_SUPPORTED	MultiCorder is not available in this Edition of vMix. {newline}Upgrade vMix to enable more features.{newline}http://www.vmix.com/upgrade	MultiCorder不可在此版vMix的。升级vMix，使更多的功能。 http://www.vmix.com/upgrade
+INVALID_RECORDING_FILENAME_FORMAT	Invalid Recording Filename Format. Missing one or more required options or contains invalid characters.	记录文件名格式无效。缺少一个或多个所需的选项，或包含无效字符。
+MULTICORDER_SELECT_INPUT	Highlight an Input first.	首先突出显示一个输入。
+LIST_NOT_AVAILABLE	The List Input is not available in this Edition of vMix.{newline}Upgrade vMix to enable this feature.{newline}http://www.vmix.com/upgrade	该列表输入不可在此版vMix的。升级vMix启用此功能。 http://www.vmix.com/upgrade
+MULTICORDER_NOT_CONFIGURED	MultiCorder has not been configured.	MultiCorder尚未配置。
+REPLAY_NOT_SUPPORTED	Instant Replay is not available in this Edition of vMix. {newline}Upgrade vMix to enable more features.{newline}http://www.vmix.com/upgrade	即时回放不可在此版vMix的。升级vMix，使更多的功能。 http://www.vmix.com/upgrade
+SCRIPTING_NOT_SUPPORTED	Scripting is not available in this Edition of vMix. {newline}Upgrade vMix to enable more features.{newline}http://www.vmix.com/upgrade	脚本是不可用此版vMix的。升级vMix，使更多的功能。 http://www.vmix.com/upgrade
+PTZ_NOT_SUPPORTED	PTZ is not available in this Edition of vMix.{newline}Upgrade vMix to enable more features.{newline}http://www.vmix.com/upgrade	云台无法使用这个版本vMix的。升级vMix使更多的功能。 http://www.vmix.com/upgrade
+INPUT_TYPE_NOT_SUPPORTED	The selected Input Type is not supported.	所选择的输入类型不支持。
+INPUT_FORMAT_NOT_SUPPORTED	File Format Not Supported.	文件格式不支持。
+INPUT_LOAD_ERROR	Error Loading Input.	错误载入输入。
+INPUT_NOT_FOUND	Could not find input.	无法找到输入。
+DIRECT3D_SHADERS_NOT_SUPPORTED	vMix requires a Graphics Card that supports Pixel Shader 2.0 or higher.	vMix需要支持支持Pixel Shader 2.0或更高版本的图形卡。
+DEVICE_NOT_READY	Device Not Ready	设备未就绪
+NET_FRAMEWORK_35_REQUIRED	.NET Framework 3.5 SP1 is required to run this software.	NET Framework 3.5 SP1的。需要运行该软件。
+CAPTURE_DEVICE_IN_USE	Capture Device is still in use, close any open programs and try again.	捕获设备仍然在使用中，关闭所有打开的程序，然后再试一次。
+CAPTURE_DEVICE_LOAD_ERROR	Capture Device could not be loaded, please check the device and try again.	捕获设备无法加载，请检查设备，并再试一次。
+INVALID_HANDLE	Invalid Handle.	无效处理。
+INVALID_LENGTH	Invalid Length.	长度无效。
+VIDEO_SYSTEM_NOT_COMPATIBLE_WITH_FORMAT	The selected Frame Rate is not compatible with this Recording Format.	选定的帧速率是不符合这个记录格式兼容。
+CODEC_NOT_SUPPORTED	Codec Not Supported. Try different Output Format under Settings, Performance.	不支持的编解码器。尝试下设置不同的输出格式，性能。
+CODEC_NOT_FOUND	A Video Codec has not been configured.	视频编解码器尚未配置。
+DV_DOES_NOT_SUPPORT_HD	DV Video Encoder does not support recording to HD. Select another codec or choose the MPEG-2 or MP4 recording options.	DV视频编码器不支持刻录高清。选择其他的codec或者选择MPEG-2或MP4录制选项。
+WEB_BROWSER_NOT_FOUND	Web Browser Could Not Be Found.	Web浏览器不能被发现。
+DVD_FILES_MISSING	DVD Files Missing.	DVD文件丢失。
+RENDERER_NOT_CONNECTED	Video could not be connected. Please make sure an appropriate video codec for this format is installed.	视频无法连接。请确保安装了一个适当的视频编解码器，这种格式是。
+INVALID_RENDERER	Invalid Renderer.	无效渲染。
+DVD_NOT_FOUND	DVD Could Not Be Found.	DVD无法被发现。
+DVD_NAVIGATOR_NOT_FOUND	DVD Navigator Could Not Be Found.	DVD导航不能被发现。
+DESKTOP_CAPTURE_SOURCE_NOT_AVAILABLE	Desktop Capture Source Is No Longer Available.	桌面捕获源不再可用。
+AAC_AUDIO_FORMAT_NOT_SUPPORTED	The selected Audio Sample Rate and Channels are not supported by this Encoder.	选定的音频采样率和通道不支持这个编码器。
+PRESET_NOT_FOUND	Preset Not Found.	预设未找到。
+PRESET_LOAD_ERROR	Error Loading Preset.	错误载入预设。
+PLAYLIST_LOAD_ERROR	PlayList Could Not Be Loaded.	播放列表无法被载入。
+PLAYLIST_NOT_FOUND	PlayList could not be found.	播放列表无法被发现。
+PLAYLIST_RUNNING	PlayList is currently running, please stop PlayList and try again.	播放列表是当前正在运行，请停止播放列表，然后再试一次。
+PLAYLIST_INPUT_NOT_FOUND	PlayList Input Not Found.	没有找到播放列表输入。
+PLAYLIST_ALREADY_EXISTS	PlayList name already exists.	播放列表的名称已经存在。
+PLAYLIST_EMPTY	PlayList has not been configured.	播放列表尚未配置。
+OUTPUT_POSITION_NOT_NUMERIC	Output Position Values must be Numeric.	输出位置值必须为数字。
+OUTPUT_POSITION_WIDTH_HEIGHT_ZERO	Output Position Width and Height must be greater than zero.	输出位置的宽度和高度必须大于零。
+INVALID_MEDIA_TYPE	Invalid Media Type.	无效的媒体类型。
+INVALID_RESOLUTION	Invalid Resolution.	无效的决议。
+SELECT_CAPTURE_DEVICE	Select Capture Device.	选择捕获设备。
+SELECT_AUDIO_DEVICE	Select Audio Device.	选择音频设备。
+QUICKTIME_INIT_ERROR	Error Initialising QuickTime.	初始化QuickTime的错误。
+QUICKTIME_NOT_INSTALLED	QuickTime 7.6 or higher is not installed.	没有安装QuickTime 7.6或更高。
+QUICKTIME_CONTEXT_ERROR	QuickTime Context Error.	QuickTime的上下文错误。
+QUICKTIME_UNDEFINED_ERROR	Undefined QuickTime Error.	未定义的QuickTime错误。
+FLASH_NOT_INSTALLED	Please install Adobe Flash Player for Internet Explorer to use this feature.	请安装Adobe Flash Player的Internet Explorer才能使用此功能。
+INVALID_PORT	Invalid Port.	无效的端口。
+INVALID_HOSTNAME	Invalid Hostname/IP.	无效的主机名/ IP。
+INVALID_LATENCY	Invalid Latency.	无效延迟。
+INVALID_PASS_PHRASE	Invalid Passphrase, must be between 10 and 79 characters.	无效的密码，必须在10到79个字符之间。
+VC_H264_ENCODER_NOT_FOUND	H264 encoder could not be found on this PC.	在此PC上找不到H264编码器。
+VC_HEVC_ENCODER_NOT_FOUND	HEVC encoder is not installed. This can be installed by searching for HEVC Video Extensions in the Windows 10 Microsoft Store.	未安装HEVC编码器。可以通过在Windows 10 Microsoft Store中搜索HEVC Video Extensions来安装它。
+FILE_FORMAT_NOT_RECOGNISED	File Format Not Recognised.	文件格式不认可。
+FILE_FORMAT_NEEDS_SOURCE_FILTER	Windows needs an additional component installed to play this file format.	Windows需要一个额外的组件安装到播放此文件格式。
+FILE_FORMAT_NEEDS_HAALI_FILTER	Please install the Haali Media Splitter to play this file format.	播放此文件格式，请安装Haali的媒体分配器。
+EMPTY_DIRECTORY	Directory Is Empty.	目录是空的。
+RECORDING_UNEXPECTED_ERROR	Recording has stopped unexpectedly.	意外停止录制。
+RECORDING_START_TIMED_OUT	Recording timed out waiting for first frame.	记录超时等待第一帧。
+DVPIN_NOT_FOUND	DV Pin could not be found.	无法找到的DV引脚。
+DVSPLITTERPIN_NOT_FOUND	DV Splitter Pin could not be found.	DV分配器引脚不能被发现。
+HDVPIN_NOT_FOUND	HDV Pin could not be found.	HDV引脚不能被发现。
+DVSPLITTER_NOT_FOUND	DV Splitter could not be found.	无法找到的DV分配器。
+MPEG2DEMULTIPLEXER_NOT_FOUND	MPEG-2 Demultiplexer could not be found.	MPEG - 2解复用器可以不被发现。
+POWERPOINT_OPEN_ERROR	Could not open PowerPoint presentation, make sure presentation is in correct format and PowerPoint is installed.	无法打开PowerPoint演示文稿，确保文稿是在正确的格式和PowerPoint安装。
+VIDEO_DELAY_MEMORY_LIMIT	A maximum of 1GB of Buffer Memory (32GB under x64) is supported in this version of vMix.	支持最多1GB缓冲存储器（32GB）下64这vMix版本。
+VIDEO_DELAY_NOT_ENOUGH_MEMORY	Not enough free memory to support this Buffer size.	没有足够的可用内存来支持这个缓冲区的大小。
+VIDEO_DELAY_IN_USE	Only one Video Delay per Source may be used at a time.	只有每一个源视频延迟可以使用一次。
+VIDEO_DELAY_SOURCE_NOT_FOUND	Video Delay Source Input could not be found.	视频延迟源输入找不到。
+MPEG2_ENCODER_NOT_FOUND	Windows 7 or higher required for MPEG-2 support.	MPEG-2支持Windows 7或更高的要求。
+MPEG2_BITRATE_NOT_COMPATIBLE_WITH_SIZE	The selected MPEG2 BitRate is not compatible with this resolution.	选定MPEG2比特率是不兼容的这项决议。
+MPEG2_ENCODER_NOT_AVAILABLE	The MPEG-2 Encoder requires Windows Media Center to be installed on this version of Windows.	MPEG-2编码器需要安装此版本的Windows Windows媒体中心。
+SHORTCUT_ALREADY_EXISTS	Shortcut Already Exists.	快捷键已经存在。
+SHORTCUT_INVALID_FORMAT	Shortcut is in Invalid Format.	快捷方式是无效的格式。
+SHORTCUT_SELECT_FUNCTION	Please select a Function.	请选择功能。
+WEB_COULD_NOT_START	Web Controller could not start. The port may already be in use.	网络控制器无法启动。端口可能已被使用。
+WEB_NOT_STARTED	The Web Controller has not been enabled. Please enable in settings and restart vMix.	该网络控制器尚未启用。请启用设置并重新启动vMix。
+STOP_RECORDING	Stop Recording, External Output and Streaming before Opening a Preset.	打开一个预置之前停止录制，外部输出和流媒体。
+NOT_SUPPORTED_UNDER_X64	This feature does not support 64bit.	此功能不支持64位。
+COULD_NOT_IMPORT_SETTINGS	Could not import settings. Check the file format is correct.	无法导入设置。检查文件的格式是正确的。
+COULD_NOT_EXPORT_SETTINGS	Could not export settings.	不能导出设置。
+WASAPI_RECORDER_NOT_SUPPORTED	Audio Engine requires Windows 7 or higher.	音频引擎，Windows 7或更高的要求。
+WASAPI_RECORDER_COULD_NOT_START	Audio Engine could not start. Please ensure a sound device has been installed.	音频引擎无法启动。请确保已安装声音设备。
+WASAPI_REQUIRED	A connected Sound Card is required in this PC to use this Input.	一个连接声卡需要在这台电脑上使用此输入。
+TALLY_COM_PORT_NOT_AVAILABLE	Tally Lights could not be loaded. COM Port is unavailable.	理货灯无法加载。 COM端口不可用。
+TALLY_PREVIEW_NOT_NUMBER	Preview Pin is not a number.	预览pin不是一个数字。
+TALLY_ACTIVE_NOT_NUMBER	Active Pin is not a number.	主动针是不是一个数字。
+UI_THREAD	Invalid UI Thread.	无效的UI线程。
+INPUT_KEY_IN_USE	Input Key is already in use.	输入键已在使用中。
+TIMED_OUT	Timed Out waiting for a response.	超时等待响应。
+INVALID_PARAMETERS	Invalid Parameters.	无效的参数。
+CAPTURE_INTERLACED_SOURCE_REQUIRED	Interlaced Frame Rate required for this Deinterlacing method.	需要这种隔行扫描方式隔行扫描的帧速率。
+CAPTURE_VIRTUALGENLOCK_REQUIRED	Virtual GenLock is required for this Deinterlacing method.	虚拟锁相需要这种隔行扫描方法。
+CAPTURE_VMR_NOT_SUPPORTED	VMR not supported with this Deinterlacing method.	VMR不支持隔行扫描的方法与此。
+CAPTURE_DOUBLE_FRAME_RATE_REQUIRED	Bob Deinterlace requires a System Frame Rate that is double the Interlaced Capture Frame Rate.	鲍勃·隔行扫描需要一个系统的帧速率是双重的隔行扫描捕获帧率。
+CORRUPT	This program has been modified and will now exit.	此程序已被修改，将立即退出。
+CORRUPT_CONFIGURATION	vMix has repaired a corrupt configuration file. Please restart vMix to complete the repair.	vMix已修复损坏的配置文件。请重新启动vMix完成修复。
+AUDIO_DEVICE_IN_USE_INPUT	The selected Audio Device is already in use by an Input. Select a vMix Audio device instead.	选定的音频设备已在使用的输入。选择一个vMix音频设备。
+AUDIO_DELAY_NOT_SUPPORTED	Audio Delay supports a value between -2000 and 2000 milliseconds.	音频延迟支持-2000年和2000年，单位为毫秒之间的一个值。
+INVALID_IMAGE_FORMAT	Invalid Image Format.	无效的图像格式。
+VIDEO_DELAY_SOURCE_NOT_READY	Video Source Not Ready.	视频源尚未就绪。
+NAME_CANNOT_BE_EMPTY	Name cannot be empty.	名称不能为空。
+RECORDING_NOT_ENOUGH_DISK_SPACE	There is not enough disk space to continue this recording.	没有足够的磁盘空间来继续这个记录。
+RECORDING_DIRECTORY_NOT_FOUND	Recording directory could not be found. Please check that it exists and try again.	录制目录无法找到。请检查它是否存在，然后再试一次。
+RECORDING_INVALID_FILENAME	Recording filename is invalid. Please check the filename and try again.	录音文件名无效。请检查文件名，然后再试一次。
+LIST_REQUIRES_ONE_ITEM	List requires at least one item.	名单要求至少有一个项目。
+MP4_SIZE_LIMIT	MP4 Recording has a maximum file size of 3.7GB under Windows 7	在Windows 7下，MP4录制的最大文件大小3.7GB
+EXTERNAL_RENDERER_IN_USE_OR_NOT_COMPATIBLE	The selected External Renderer Device is in use or does not support the selected format. Please check your External Output settings and try again.	选择的外部渲染设备在使用或不支持选定的格式。请检查您的外部输出设置，然后再试一次。
+SELECT_ITEM	Select an item in the list first.	在列表中先选择一个项目。
+UYVY_REQUIRED	Output Format must be set to UYVY for this Device.	输出格式必须设置为UYVY此设备。
+OUTPUT_FRAMERATE_MISMATCH	External Output Frame Rate must match vMix Frame Rate.	外部输出帧速率必须匹配vMix帧速率。
+STREAMING_AUDIO_BITRATE_NOT_SUPPORTED	The selected Audio Master Bit Rate is not support (32bit), please change this to 16 bit PCM in vMix Settings under the Audio tab.	所选择的音频主控比特率是不支持（32位），请在音频选项卡下更改为16位PCM在vMix设置。
+FFMPEG_RECORDING_FAILED	FFMPEG Recording failed. Check the log file for more information.	FFMPEG录制失败。检查日志文件以获取更多信息。
+REPLAY_ALREADY_IN_USE	Instant Replay is already in use. Only one session can be open at a time.	即时回放已在使用。只有一个会话可以同时打开。
+REPLAY_ERROR_SOURCE_CONFIGURATION	One or more Cameras could not be configured for Instant Replay.	一个或多个摄像机无法配置为即时重放。
+REPLAY_MARK_VALUE_INVALID	Mark value must be in seconds between 1 and 30 seconds long.	标记值必须在1秒和30秒之间。
+REPLAY_EVENT_NOT_FOUND	Instant Replay Event could not be found.	即时回放事件可能不会被发现。
+REPLAY_SHORTCUT_VALUE_NOT_NEGATIVE	Replay Shortcut Value cannot be negative.	重播快捷值不能为负数。
+REPLAY_ONE_CHANNEL	This version of Instant Replay supports one camera only. Upgrade vMix to enable more features.{newline}http://www.vmix.com/upgrade	此版本的即时回放仅支持一个摄像头。升级vMix，使更多的功能。 http://www.vmix.com/upgrade
+REPLAY_SOURCE_ALREADY_IN_USE	Source is already in use.	源已被使用。
+REPLAY_MULTICORDER_ERROR	Instant Replay and MultiCorder cannot be used at the same time.	即时回放和MultiCorder不能用于在同一时间。
+REPLAY_64BIT_REQUIRED	Instant Replay requires the 64bit version of vMix.	即时回放要求vMix的64位版本。
+FEATURE_64BIT_REQUIRED	This feature requires the 64bit (x64) version of vMix.	此功能需要vMix的64位（x64）的版本。
+VIDEOCALL_NOT_SUPPORTED	vMix Call is not available in this Edition of vMix. {newline}Upgrade vMix to enable more features.{newline}http://www.vmix.com/upgrade	vMix电话无法使用这个版本vMix的。升级vMix使更多的功能。 http://www.vmix.com/upgrade
+VIDEOCALL_SERVER_CONNECT_ERROR	Could not connect to vMix Call server, check your internet connection and try again.	无法连接到vMix呼叫服务器，请检查您的网络连接，然后再试一次。
+VIDEOCALL_MAXIMUM_CALLS_REACHED	The maximum number of vMix Calls for this Edition has been reached. {newline}Upgrade vMix to enable additional calls.{newline}http://www.vmix.com/upgrade	vMix的最大数量呼唤这个版本已经达到了。升级vMix使更多的电话。 http://www.vmix.com/upgrade
+VIDEOCALL_48_SAMPLE_RATE_REQUIRED	vMix Call requires the Audio Master Sample Rate to be 48000, this can be changed in the Audio tab under Settings	vMix调用需要音频主采样率是48000，这可以在音频选项卡设置下改变
+VIDEOCALL_PASSWORD_NOT_FOUND	vMix Call Password is incorrect.	vMix呼叫密码不正确。
+VIDEOCALL_INVALID_PASSWORD	Password must be at least 8 characters in length.	密码长度必须至少为8个字符。
+VIDEOCALL_INVALID_NAME	Please enter a Name to identify yourself on this call.	请输入一个名称来标识自己在这个电话。
+PRODUCTION_CLOCK_ALREADY_ADDED	Production Clocks Input has already been created. Only one can be active at a time.	生产时钟输入已经创建。一次只能有一个活动。
+AUDIO_BUS_NOT_ENABLED	This Audio Bus needs to be enabled in Settings -> Audio Outputs first.	首先需要在设置 - >音频输出中启用此音频总线。
+RECORDING_AUDIO_CHANNELS_NOT_SUPPORTED	This recording format does not support more than 2 Audio Channels.	此录制格式不支持2个以上的音频通道。
+AUDIO_CHANNELS_NOT_SUPPORTED_6	This format does not support more than 6 Audio Channels.	此格式不支持超过6个音频通道。
+AUDIO_CHANNELS_NOT_SUPPORTED_8_SRT	SRT does not support more than 8 Audio Channels.	SRT不支持超过8个音频通道。
+AUDIO_CHANNELS_NOT_SUPPORTED_TOO_MANY	vMix supports a maximum of 16 Audio Channels per input.	vMix每个输入最多支持16个音频通道。
+WINDOWS_ACCESS_DENIED	Windows has blocked access to this device. Check your Windows Privacy Settings to ensure Camera and Microphone access is enabled.	Windows已阻止访问此设备。检查Windows隐私设置以确保启用了摄像头和麦克风访问。
+SELECT_INPUT	Please select an Input.	请选择一个输入。
+SELECT_COPY_SOURCE	Please select one or more items to copy.	请选择一个或多个要复制的项目。
+MIX_MAXIMUM_REACHED	A maximum of 3 Mix inputs can be added at the same time.	最多可以同时添加3个Mix输入。
+EXTERNAL_OUTPUT_DEVICE_NOT_FOUND_1	Device not found or selected under Settings - External Output. Please check the settings and try again.	在“设置”“外部输出”下找不到或选择设备。请检查设置，然后重试。
+EXTERNAL_OUTPUT_DEVICE_NOT_FOUND_2	Device not found or selected under Settings - External Output - External 2.{newline}Check the settings or if you are not using External 2, untick the External Renderer checkbox in the External 2 tab.	在“设置”“外部输出”“外部2”下找不到或选中设备。检查设置，或者如果您未使用“外部2”，请取消选中“外部2”选项卡中的“外部渲染器”复选框。
+Start	Start	开始
+Stop	Stop	停止
+Basic	Basic	基本法
+Advanced	Advanced	高级
+Pause Rendering	Pause Rendering	暂停渲染
+Resume Rendering	Resume Rendering	继续渲染
+Translations provided by Google Translate	Translations provided by Google Translate	谷歌翻译提供的翻译
+ToolTip.frmmain.cmdAudioMixer	Show or hide audio mixer pane	显示或隐藏音频混合器面板
+ToolTip.frmmain.cmdPause	Pause all currently playing video inputs	暂停当前​​播放的所有视频输入
+ToolTip.frmmain.UiFader1	Manual fade using first transition effect. (T-Bar)	手动淡出先使用过渡效果。 （T-酒吧）
+ToolTip.frmmain.cmdFTB	Toggle fade to black on Output	切换黑渐变的输出
+ToolTip.frmmain.cmdRecSetup	Configure Recording	配置记录
+ToolTip.frmmain.cmdRecStartStop	Start or stop Recording	开始或停止记录
+ToolTip.frmmain.cmdExternal	Configure External Output source	配置外部输出源
+ToolTip.frmmain.cmdDeckLinkRender	Start or stop External Output	启动或停止外部输出
+ToolTip.frmmain.cmdDeckLinkInfo	View External Output statistics	查看外部输出统计
+ToolTip.frmmain.cmdRecInfo	View Recording statistics	查看记录统计
+ToolTip.frmmain.cmdStreamingSetup	Configure Streaming settings	配置流媒体设置
+ToolTip.frmmain.cmdStreaming	Start or stop Streaming	启动或停止流
+ToolTip.frmmain.cmdPlayListSetup	Configure a PlayList of Inputs	配置输入的播放列表
+ToolTip.frmmain.cmdPlaylist	Start or Stop a PlayList of Inputs	启动或停止输入的播放列表
+ToolTip.frmmain.cmdMultiCorderSetup	Configure recording of multiple camera inputs	配置记录多路摄像机输入
+ToolTip.frmmain.cmdMultiCorderStartStop	Start or Stop MultiCorder	启动或停止MultiCorder
+ToolTip.frmmain.cmdOverlaySettings	Configure overlay settings	配置覆盖设置
+ToolTip.frmmain.cmdStatistics	View performance statistics	查看性能统计信息
+ToolTip.frmmain.cmdShortcuts	View shortcuts	查看快捷键
+ToolTip.frmmain.cmdPhoto	Take image snapshot of Output	以输出图像快照
+ToolTip.frmmain.cmdLock	Lock or unlock buttons such as Close and Start/Stop Recording	锁定或解锁，如关闭和启动/停止录制按钮
+ToolTip.frmmain.cmdInputsAll	Show all Inputs	显示所有输入
+ToolTip.frmmain.cmdInputsGreen	Show Inputs assigned to Green category	分配给绿色类别显示输入
+ToolTip.frmmain.cmdInputsRed	Show Inputs assigned to Red category	分配给红类别显示输入
+ToolTip.frmmain.cmdInputsPurple	Show Inputs assigned to Purple category	分配给紫类别显示输入
+ToolTip.frmmain.cmdInputsOrange	Show Inputs assigned to Orange category	分配给橙类节目输入
+ToolTip.frmmain.cmdInputsBlue	Show Inputs assigned to Blue category	分配给蓝类别显示输入
+ToolTip.frmmain.cmdInputsAqua	Show Inputs assigned to Aqua category	分配给水族类节目输入
+ToolTip.frmmain.cmdInputsSearch	Show Inputs with titles matching category text	显示标题与类别文本匹配的输入
+ToolTip.frmmain.cmdScreen	Toggle on or off the Fullscreen Output display	打开或关闭全屏显示输出
+ToolTip.frmmain.cmdQuickPlay	Transition from Preview to Output using the Transition effect configured in Settings	使用过渡效果过渡，从预览输出配置设置
+ToolTip.frmmain.cmdAdvanced	Toggle the display of advanced buttons within the vMix main window	在vMix主窗口中切换先进的按钮的显示
+ToolTip.frmmain.cmdHelp	Browse Online Help	浏览在线帮助
+ToolTip.frmmain.cmdRestart	Restart the selected Input	重新启动所选择的输入
+ToolTip.frmmain.cmdRestartM	Restart the selected Input	重新启动所选择的输入
+ToolTip.frmmain.cmdPlayM	Play or Pause the selected Input	播放或暂停选定的输入
+ToolTip.frmmain.cmdPlay	Play or Pause the selected Input	播放或暂停选定的输入
+ToolTip.frmmain.cmdAddInput	Add a new Input such as a Video, Camera or Image	添加一个新的输入，如摄像机，照相机或图片
+ToolTip.frmmain.Input.cmdSelect	Toggle on or off audio for this Input	打开或关闭音频输入这个
+ToolTip.frmmain.Output.cmdSelect	Toggle on or off audio for this Output	打开或关闭音频输出本
+ToolTip.frmmain.Input.cmdFollow	Toggle automatic audio mixing for this Input	切换自动混音此输入
+ToolTip.frmmain.Output.cmdFollow	Show Performance Statistics for Audio Mixer	显示性能统计数据的音频混合器
+ToolTip.frmmain.cmdSolo	Solo this Input for monitoring on Headphones	这独奏的输入耳机监控
+ToolTip.frmmain.cmdSettings	Configure audio settings such as Gain and Compression	配置音频设置，例如增益压缩和
+ToolTip.frmmain.cmdBusA	Send this Inputs audio to	发送该输入音频
+ToolTip.frmmain.cmdBusB	Send this Inputs audio to	发送该输入音频
+ToolTip.frmmain.cmdBusM	Send this Inputs audio to	发送该输入音频
+ToolTip.frmmain.cmdSendToMaster	Send this Bus Mix to Master	将此巴士混音发送给主人
+ToolTip.frmmain.iClose	Close this Input	关闭此输入
+ToolTip.frmmain.iQuickPlay	Transition this Input directly to Output using the QuickPlay effect	直接过渡这个输入到输出的使用效果的QuickPlay
+ToolTip.frmmain.iCut	Switch this Input directly to Output	直接切换这个输入到输出
+ToolTip.frmmain.iLoop	Enable looping of this Input when it has finished playing	启用循环该输入时，它已经播放完毕
+ToolTip.frmmain.iPlayPause	Play or pause this Input	播放或暂停该输入
+ToolTip.frmmain.iOverlay1	Turn on or off this Input as an Overlay using the Overlay1 transition effect	打开或关闭此输入为使用Overlay1过渡效果的叠加
+ToolTip.frmmain.iOverlay2	Turn on or off this Input as an Overlay using the Overlay2 transition effect	打开或关闭此输入为使用Overlay2过渡效果的叠加
+ToolTip.frmmain.iOverlay3	Turn on or off this Input as an Overlay using the Overlay3 transition effect	打开或关闭此输入为使用Overlay3过渡效果的叠加
+ToolTip.frmmain.iOverlay4	Turn on or off this Input as an Overlay using the Overlay4 transition effect	打开或关闭此输入为使用Overlay4过渡效果的叠加
+ToolTip.frmmain.iAudio	Turn on or off the audio on this Input	打开或关闭上此输入音频
+ToolTip.frmmain.iPreview	Display a large preview of this Input. Click the preview to close when done	显示此输入大预览。点击预览关闭时完成
+ToolTip.frmmain.iConfigure	Configure various Input settings	配置各种输入法设置
 

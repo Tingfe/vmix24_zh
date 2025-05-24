@@ -1,0 +1,51 @@
+ToolTip.frmmain.cmdRecInfo	View Recording statistics	View Recording statistics
+ToolTip.frmmain.cmdStreamingSetup	Configure Streaming settings	Configure Streaming settings
+ToolTip.frmmain.cmdStreaming	Start or stop Streaming	Start or stop Streaming
+ToolTip.frmmain.cmdPlayListSetup	Configure a PlayList of Inputs	Configure a PlayList of Inputs
+ToolTip.frmmain.cmdPlaylist	Start or Stop a PlayList of Inputs	Start or Stop a PlayList of Inputs
+ToolTip.frmmain.cmdMultiCorderSetup	Configure recording of multiple camera inputs	Configure recording of multiple camera inputs
+ToolTip.frmmain.cmdMultiCorderStartStop	Start or Stop MultiCorder	Start or Stop MultiCorder
+ToolTip.frmmain.cmdOverlaySettings	Configure overlay settings	Configure overlay settings
+ToolTip.frmmain.cmdStatistics	View performance statistics	View performance statistics
+ToolTip.frmmain.cmdShortcuts	View shortcuts	View shortcuts
+ToolTip.frmmain.cmdPhoto	Take image snapshot of Output	Take image snapshot of Output
+ToolTip.frmmain.cmdLock	Lock or unlock buttons such as Close and Start/Stop Recording	Lock or unlock buttons such as Close and Start/Stop Recording
+ToolTip.frmmain.cmdInputsAll	Show all Inputs	Show all Inputs
+ToolTip.frmmain.cmdInputsGreen	Show Inputs assigned to Green category	Show Inputs assigned to Green category
+ToolTip.frmmain.cmdInputsRed	Show Inputs assigned to Red category	Show Inputs assigned to Red category
+ToolTip.frmmain.cmdInputsPurple	Show Inputs assigned to Purple category	Show Inputs assigned to Purple category
+ToolTip.frmmain.cmdInputsOrange	Show Inputs assigned to Orange category	Show Inputs assigned to Orange category
+ToolTip.frmmain.cmdInputsBlue	Show Inputs assigned to Blue category	Show Inputs assigned to Blue category
+ToolTip.frmmain.cmdInputsAqua	Show Inputs assigned to Aqua category	Show Inputs assigned to Aqua category
+ToolTip.frmmain.cmdInputsSearch	Show Inputs with titles matching category text	Show Inputs with titles matching category text
+ToolTip.frmmain.cmdScreen	Toggle on or off the Fullscreen Output display	Toggle on or off the Fullscreen Output display
+ToolTip.frmmain.cmdQuickPlay	Transition from Preview to Output using the Transition effect configured in Settings	Transition from Preview to Output using the Transition effect configured in Settings
+ToolTip.frmmain.cmdAdvanced	Toggle the display of advanced buttons within the vMix main window	Toggle the display of advanced buttons within the vMix main window
+ToolTip.frmmain.cmdHelp	Browse Online Help	Browse Online Help
+ToolTip.frmmain.cmdRestart	Restart the selected Input	Restart the selected Input
+ToolTip.frmmain.cmdRestartM	Restart the selected Input	Restart the selected Input
+ToolTip.frmmain.cmdPlayM	Play or Pause the selected Input	Play or Pause the selected Input
+ToolTip.frmmain.cmdPlay	Play or Pause the selected Input	Play or Pause the selected Input
+ToolTip.frmmain.cmdAddInput	Add a new Input such as a Video, Camera or Image	Add a new Input such as a Video, Camera or Image
+ToolTip.frmmain.Input.cmdSelect	Toggle on or off audio for this Input	Toggle on or off audio for this Input
+ToolTip.frmmain.Output.cmdSelect	Toggle on or off audio for this Output	Toggle on or off audio for this Output
+ToolTip.frmmain.Input.cmdFollow	Toggle automatic audio mixing for this Input	Toggle automatic audio mixing for this Input
+ToolTip.frmmain.Output.cmdFollow	Show Performance Statistics for Audio Mixer	Show Performance Statistics for Audio Mixer
+ToolTip.frmmain.cmdSolo	Solo this Input for monitoring on Headphones	Solo this Input for monitoring on Headphones
+ToolTip.frmmain.cmdSettings	Configure audio settings such as Gain and Compression	Configure audio settings such as Gain and Compression
+ToolTip.frmmain.cmdBusA	Send this Inputs audio to	Send this Inputs audio to
+ToolTip.frmmain.cmdBusB	Send this Inputs audio to	Send this Inputs audio to
+ToolTip.frmmain.cmdBusM	Send this Inputs audio to	Send this Inputs audio to
+ToolTip.frmmain.cmdSendToMaster	Send this Bus Mix to Master	Send this Bus Mix to Master
+ToolTip.frmmain.iClose	Close this Input	Close this Input
+ToolTip.frmmain.iQuickPlay	Transition this Input directly to Output using the QuickPlay effect	Transition this Input directly to Output using the QuickPlay effect
+ToolTip.frmmain.iCut	Switch this Input directly to Output	Switch this Input directly to Output
+ToolTip.frmmain.iLoop	Enable looping of this Input when it has finished playing	Enable looping of this Input when it has finished playing
+ToolTip.frmmain.iPlayPause	Play or pause this Input	Play or pause this Input
+ToolTip.frmmain.iOverlay1	Turn on or off this Input as an Overlay using the Overlay1 transition effect	Turn on or off this Input as an Overlay using the Overlay1 transition effect
+ToolTip.frmmain.iOverlay2	Turn on or off this Input as an Overlay using the Overlay2 transition effect	Turn on or off this Input as an Overlay using the Overlay2 transition effect
+ToolTip.frmmain.iOverlay3	Turn on or off this Input as an Overlay using the Overlay3 transition effect	Turn on or off this Input as an Overlay using the Overlay3 transition effect
+ToolTip.frmmain.iOverlay4	Turn on or off this Input as an Overlay using the Overlay4 transition effect	Turn on or off this Input as an Overlay using the Overlay4 transition effect
+ToolTip.frmmain.iAudio	Turn on or off the audio on this Input	Turn on or off the audio on this Input
+ToolTip.frmmain.iPreview	Display a large preview of this Input. Click the preview to close when done	Display a large preview of this Input. Click the preview to close when done
+ToolTip.frmmain.iConfigure	Configure various Input settings	Configure various Input settings
